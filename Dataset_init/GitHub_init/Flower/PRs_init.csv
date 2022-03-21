@@ -1,0 +1,10 @@
+url,label,title,comments,merged,created_time,updated_time,closed_time
+https://github.com/adap/flower/pull/859,[],Upgrades poetry to version 1.1.10. It fixes some weird bugs during,1,True,2021-09-28 11:29:53,2021-09-28 14:14:47,2021-09-28 14:14:47
+https://github.com/adap/flower/pull/826,[],Fixing script to work with Ray ^1.6.0 without mypy `--no-implicit-reexport` issues.,1,True,2021-08-30 20:12:30,2021-09-01 07:41:46,2021-09-01 07:41:45
+https://github.com/adap/flower/pull/814,[],Activate gRPC retry mechanism,1,False,2021-08-10 14:43:46,2021-08-12 08:59:27,2021-08-12 08:59:27
+https://github.com/adap/flower/pull/753,[],Add option to skip final distributed evaluation,3,False,2021-06-08 22:03:32,2021-07-26 15:47:42,2021-07-26 15:47:42
+https://github.com/adap/flower/pull/748,[],Adding sklearn logreg example,4,True,2021-06-06 11:15:29,2021-06-30 20:15:03,2021-06-30 20:15:02
+https://github.com/adap/flower/pull/739,[],Fix pytorch quickstart,1,True,2021-05-25 10:51:34,2021-05-25 12:04:32,2021-05-25 11:31:00
+https://github.com/adap/flower/pull/673,[],Fix Mxnet loss and accuracy calculation,1,True,2021-03-11 10:27:58,2021-03-12 17:03:08,2021-03-12 17:03:07
+https://github.com/adap/flower/pull/394,[],Change Setting to Baseline,2,True,2020-09-01 11:27:54,2020-09-01 15:35:56,2020-09-01 15:35:56
+https://github.com/adap/flower/pull/78,[],Add possibility to enable faulthandler,1,False,2020-03-18 19:40:50,2020-05-21 10:28:52,2020-03-20 17:21:57

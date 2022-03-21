@@ -1,0 +1,178 @@
+url,label,title,comments,created_time,updated_time,closed_time
+https://github.com/FederatedAI/FATE/issues/3132,[],运行出现奇怪错误，急需帮助,2,2021-09-24 03:08:30,2021-09-24 09:47:18,2021-09-24 09:47:18
+https://github.com/FederatedAI/FATE/issues/2977,[],"""predict_score"" for logistic regression test on Fate Board wrong in magnitude",1,2021-08-17 08:35:39,2021-08-18 08:55:19,2021-08-18 08:55:19
+https://github.com/FederatedAI/FATE/issues/2955,[],Poor Implementation of SPDZ protocol,3,2021-08-09 03:56:36,2021-08-25 10:11:15,2021-08-25 10:11:15
+https://github.com/FederatedAI/FATE/issues/2909,[],pipeline: command not found,1,2021-07-23 03:35:07,2021-07-23 07:43:35,2021-07-23 07:43:35
+https://github.com/FederatedAI/FATE/issues/2893,[],发布模型时一个成功一个失败,3,2021-07-19 09:47:31,2021-09-28 02:01:02,2021-08-26 03:00:03
+https://github.com/FederatedAI/FATE/issues/2845,[],Homogeneous Logistic Regression using Gradient Aggregation not implemented?,2,2021-06-27 06:51:10,2021-07-06 01:18:13,2021-07-06 01:18:13
+https://github.com/FederatedAI/FATE/issues/2834,[],Homogeneous Neural Network,2,2021-06-16 13:52:27,2021-06-22 12:50:51,2021-06-22 12:50:51
+https://github.com/FederatedAI/FATE/issues/2820,[],No module named 'pipeline,1,2021-06-07 10:40:40,2021-07-09 03:13:25,2021-07-09 03:13:25
+https://github.com/FederatedAI/FATE/issues/2817,[],BUG：Please check that you are connecting to the correct HDFS RPC port,1,2021-06-01 15:17:39,2021-06-02 01:15:28,2021-06-02 01:15:07
+https://github.com/FederatedAI/FATE/issues/2758,['bug'],Homo_onehot存在特征不能对齐的bug！,1,2021-04-23 07:15:31,2021-06-09 03:28:45,2021-06-09 03:28:45
+https://github.com/FederatedAI/FATE/issues/2752,[],请问下，现在serving支持dsl_v2了吗？（因模型部署上线后预测无结果而有的猜疑....）,4,2021-04-19 09:47:17,2021-04-21 07:24:10,2021-04-21 07:24:10
+https://github.com/FederatedAI/FATE/issues/2751,[],安装fate-client之后无法使用flow命令,1,2021-04-17 15:23:03,2021-04-25 06:04:56,2021-04-25 06:04:56
+https://github.com/FederatedAI/FATE/issues/2748,[],车联网与联邦学习结合的话用standalone还是cluster,2,2021-04-15 12:03:27,2021-05-26 13:40:04,2021-05-26 13:40:04
+https://github.com/FederatedAI/FATE/issues/2746,[],Where is the proto_generate.sh?,1,2021-04-14 10:38:29,2021-07-09 03:15:40,2021-07-09 03:15:40
+https://github.com/FederatedAI/FATE/issues/2744,[],NameError: name 'mpa' is not defined,2,2021-04-13 13:02:48,2021-04-25 06:11:04,2021-04-25 06:10:13
+https://github.com/FederatedAI/FATE/issues/2742,[],请问一下FATE对具体的Linux版本有要求吗？比如SUSE、centos，或者 ubantu这些linux都支持吗？,1,2021-04-13 01:14:41,2021-05-26 13:40:21,2021-05-26 13:40:21
+https://github.com/FederatedAI/FATE/issues/2739,[],fate集群，使用mnist训练数据模型，按照彭路工程师发布的博客操作，为什么任务出错了？,1,2021-04-08 12:45:01,2021-04-11 05:05:26,2021-04-11 05:05:26
+https://github.com/FederatedAI/FATE/issues/2665,[],evaluation评测结果是否又bug？！,2,2021-03-19 07:25:11,2021-04-05 02:03:26,2021-04-05 02:03:25
+https://github.com/FederatedAI/FATE/issues/2646,[],请教Homo_LR训练卡在initialized model！！,1,2021-03-13 07:25:50,2021-04-23 02:55:55,2021-04-23 02:55:55
+https://github.com/FederatedAI/FATE/issues/2643,[],lmdb.MemoryError: Cannot allocate memory,2,2021-03-12 02:59:55,2021-04-23 02:56:09,2021-04-23 02:56:09
+https://github.com/FederatedAI/FATE/issues/2641,[],Homo OneHot Encoder是否有bug,1,2021-03-11 02:58:27,2021-06-09 03:29:15,2021-06-09 03:29:15
+https://github.com/FederatedAI/FATE/issues/2639,[],OnehotEncoder逻辑是否有Bug,4,2021-03-10 15:22:18,2021-07-02 08:14:41,2021-07-02 08:14:41
+https://github.com/FederatedAI/FATE/issues/2619,[],"运行dsl v2中的hetero fast secureboost报错""__init__() got an unexpected keyword argument 'sparse_optmization'""",5,2021-02-26 17:25:30,2021-09-15 08:04:43,2021-09-15 08:04:43
+https://github.com/FederatedAI/FATE/issues/2452,[],线性回归模型在线测试无预测结果,1,2021-01-07 02:46:35,2021-01-15 08:42:48,2021-01-15 08:42:48
+https://github.com/FederatedAI/FATE/issues/2449,[],"Pipeline Examples 'Connection refused, Please check if the fate flow service is started'",3,2021-01-06 08:53:33,2021-01-06 12:05:02,2021-01-06 12:05:02
+https://github.com/FederatedAI/FATE/issues/2440,[],为什么按照案例跑不起来,4,2021-01-04 09:48:45,2021-05-15 15:13:10,2021-01-05 05:55:23
+https://github.com/FederatedAI/FATE/issues/2423,[],Fate1.5版本交集组件报错(get_commit_id),1,2020-12-25 08:24:16,2021-04-23 02:55:11,2021-04-23 02:55:11
+https://github.com/FederatedAI/FATE/issues/2412,[],集群部署的情况下，跑quick测试，任务创建成功之后一直wait,3,2020-12-17 06:30:54,2021-03-19 10:41:58,2021-03-19 10:41:58
+https://github.com/FederatedAI/FATE/issues/2355,[],Failed to install fate_flow while running pip3 install fate-client,1,2020-11-24 09:24:17,2020-12-02 09:26:04,2020-12-02 09:26:04
+https://github.com/FederatedAI/FATE/issues/2345,[],求大佬告知应该如何写预测请求,3,2020-11-23 14:03:35,2020-11-25 06:25:55,2020-11-25 06:25:41
+https://github.com/FederatedAI/FATE/issues/2332,[],Fate 1.5 run /fate_flow/examples/test_predict_conf.json,4,2020-11-18 09:21:30,2020-11-19 07:31:25,2020-11-19 07:31:25
+https://github.com/FederatedAI/FATE/issues/2331,[],Find a typo: sparse_optmization should be sparse_optimization,2,2020-11-17 10:55:50,2021-09-15 08:04:58,2021-09-15 08:04:58
+https://github.com/FederatedAI/FATE/issues/2325,[],"使用1.5.0 All in one 部署FATE集群，Mysqld无法启动【2003, ""Can't connect to MySQL server】",9,2020-11-16 01:18:44,2021-08-03 06:29:12,2020-11-16 08:57:42
+https://github.com/FederatedAI/FATE/issues/2310,[],Deploy ansible-fate1.5 failed,1,2020-11-09 03:13:22,2020-11-09 07:13:31,2020-11-09 07:13:31
+https://github.com/FederatedAI/FATE/issues/2202,[],pipeline API不兼容：'Reader' object has no attribute 'algorithm_param',1,2020-10-25 15:39:34,2020-10-27 04:20:59,2020-10-27 04:20:59
+https://github.com/FederatedAI/FATE/issues/2153,[],"socket.gethostbyname(socket.getfqdn()) get gaierror: [Errno 8] nodename nor servname provided, or not known",2,2020-10-18 01:56:42,2020-11-11 12:35:51,2020-11-11 12:35:51
+https://github.com/FederatedAI/FATE/issues/2082,[],Failed to release resource after fate_flow server crashed,1,2020-10-13 09:11:58,2021-06-23 06:23:29,2021-06-23 06:23:29
+https://github.com/FederatedAI/FATE/issues/2029,[],逻辑回归对稀疏数据的训练结果很差,1,2020-10-05 14:42:22,2021-03-18 06:16:18,2021-03-18 06:16:18
+https://github.com/FederatedAI/FATE/issues/1983,[],自定义算法的时候，上传错误脚本的缓存好像无法清空,1,2020-09-25 07:16:15,2020-11-03 09:53:01,2020-11-03 09:53:01
+https://github.com/FederatedAI/FATE/issues/1824,[],"version 1.4.4, I can pass the Unit Test, but when I run 'python quick_run.py', get an error",1,2020-09-07 06:34:30,2020-09-08 04:17:05,2020-09-08 04:15:49
+https://github.com/FederatedAI/FATE/issues/1792,[],官方data文件ionosphere_scale_hetero_host.csv是不是少了label？,1,2020-09-02 03:13:32,2020-09-02 03:14:43,2020-09-02 03:14:21
+https://github.com/FederatedAI/FATE/issues/1699,[],单机部署时训练超过7k的数据量在hetero-lr组件会出现lmdb.Error,2,2020-08-13 05:11:00,2020-10-07 06:16:47,2020-10-07 06:16:47
+https://github.com/FederatedAI/FATE/issues/1670,[],1.4.2版本Upload接口报400错误,2,2020-08-11 01:56:59,2021-03-30 06:53:56,2020-08-12 10:00:41
+https://github.com/FederatedAI/FATE/issues/1624,[],特征分箱仅支持等频和等距分箱吗？跑最优分箱会报错,1,2020-07-30 08:15:58,2021-07-02 08:18:54,2021-07-02 08:18:54
+https://github.com/FederatedAI/FATE/issues/1608,[],please start fate flow server.......,2,2020-07-28 01:40:00,2020-08-18 00:26:13,2020-07-28 01:41:41
+https://github.com/FederatedAI/FATE/issues/1572,[],Fail to deploy stand-alone installation with Docker,1,2020-07-17 07:12:30,2020-08-17 06:21:55,2020-08-17 06:21:42
+https://github.com/FederatedAI/FATE/issues/1551,['bug'],[SPDZ] Table-based implementation does not support multiple times’ operations,2,2020-07-11 17:10:25,2020-11-11 12:12:22,2020-11-11 12:12:21
+https://github.com/FederatedAI/FATE/issues/1535,[],Fate flow service can't be connected with standalone-fate-master-1.4.1,1,2020-07-02 03:23:49,2020-07-02 10:26:49,2020-07-02 10:26:49
+https://github.com/FederatedAI/FATE/issues/1430,[],"""Hetero Feature Binning"" leaks extra information",7,2020-06-05 03:08:10,2021-07-02 08:41:32,2021-07-02 08:41:32
+https://github.com/FederatedAI/FATE/issues/1410,[],the model and the predict score has not been  displayed  in the host fateboard for the homo_lr algorithm,2,2020-05-28 05:21:50,2020-06-16 07:48:43,2020-06-16 07:48:43
+https://github.com/FederatedAI/FATE/issues/1409,[],"The error after the command ""docker-compose down and docker-compose up -d"" for the KubeFATE 1.4",1,2020-05-28 02:13:38,2020-06-01 11:25:17,2020-06-01 11:25:17
+https://github.com/FederatedAI/FATE/issues/1408,['bug'],homo nn: problem with sparse_categorical_crossentropy loss in v1.4.0,2,2020-05-27 07:56:30,2020-06-29 07:37:48,2020-06-29 07:37:48
+https://github.com/FederatedAI/FATE/issues/1399,[],a little bug in hetero_decision_tree_guest.py file,2,2020-05-20 12:26:47,2020-06-16 07:50:33,2020-06-16 07:50:32
+https://github.com/FederatedAI/FATE/issues/1377,[],单机版fate1.4在运行推荐模型时报错,3,2020-05-18 07:20:58,2021-04-16 10:16:24,2021-04-14 08:16:49
+https://github.com/FederatedAI/FATE/issues/1376,['bug'],使用全连接神经网络横向联邦学习进行手写体识别任务，报错,3,2020-05-18 07:13:36,2020-11-02 07:35:26,2020-11-02 07:32:44
+https://github.com/FederatedAI/FATE/issues/1374,[],component_output_data api 导出的数据量问题,4,2020-05-15 02:11:04,2020-05-27 02:03:13,2020-05-27 02:03:13
+https://github.com/FederatedAI/FATE/issues/1373,[],fate_flow service fail to start,1,2020-05-14 23:35:14,2020-05-15 00:07:29,2020-05-15 00:06:46
+https://github.com/FederatedAI/FATE/issues/1328,[],intersection 匹配率不为1且不固定,4,2020-05-07 02:18:54,2020-05-27 01:56:18,2020-05-27 01:56:18
+https://github.com/FederatedAI/FATE/issues/1247,['bug'],Wrong Party ID in Feature Names on Board for Stepwise,1,2020-04-27 07:31:53,2020-04-27 07:36:05,2020-04-27 07:36:05
+https://github.com/FederatedAI/FATE/issues/1162,[], hetero_nn model : the  error of Backward Propagation Part II in README.md ,1,2020-04-15 02:39:06,2020-06-16 12:06:03,2020-06-16 12:06:03
+https://github.com/FederatedAI/FATE/issues/1157,"['bug', 'federatedml']","横向联邦100w数据量在做predict的时候报错【ERROR: 'NoneType' object has no attribute 'unboxed'"" 】",2,2020-04-13 02:02:13,2020-06-15 05:49:54,2020-06-15 05:49:54
+https://github.com/FederatedAI/FATE/issues/1156,[],有虚拟网桥的离线环境下安装集群模式后 toy example 不能正常运行,1,2020-04-12 14:20:53,2020-04-14 07:50:44,2020-04-14 07:50:44
+https://github.com/FederatedAI/FATE/issues/1127,[],"standalone-deploy install FATE in host, error in init.sh script",1,2020-03-26 16:55:34,2020-04-15 06:12:24,2020-04-15 06:12:23
+https://github.com/FederatedAI/FATE/issues/1089,"['bug', 'enhancement', 'federatedml']",Cannot Evaluate Multi-Class Prediction from Local Baseline,1,2020-03-11 07:43:32,2020-06-15 05:48:10,2020-06-15 05:48:10
+https://github.com/FederatedAI/FATE/issues/1060,[],homo nn: Object of type 'MetricType' is not JSON serializable,2,2020-03-04 02:29:51,2020-03-05 06:51:27,2020-03-05 06:51:27
+https://github.com/FederatedAI/FATE/issues/1055,[],table info - the count of upload data is 0,3,2020-03-03 09:41:23,2020-03-04 03:54:33,2020-03-04 03:31:30
+https://github.com/FederatedAI/FATE/issues/1047,"['bug', 'federatedml']",Transfer Variable Cleaned before Being Sent by LinR & Poisson Host,1,2020-03-02 14:57:45,2020-03-03 02:34:58,2020-03-03 02:34:58
+https://github.com/FederatedAI/FATE/issues/1009,"['bug', 'enhancement', 'federatedml']",Fix HeteroSecureBoost's error when host feature histogram is large.,1,2020-02-20 07:45:36,2020-03-06 12:25:55,2020-03-06 12:25:55
+https://github.com/FederatedAI/FATE/issues/985,[],error when running quick_run.py,5,2020-02-14 09:45:32,2020-02-19 09:59:12,2020-02-19 09:59:12
+https://github.com/FederatedAI/FATE/issues/980,['bug'],heter_logic_regression failed when use spark backend,3,2020-02-11 09:05:52,2020-05-11 14:12:31,2020-05-11 14:12:30
+https://github.com/FederatedAI/FATE/issues/938,[],SPARK_HOME not found,3,2020-01-14 03:18:00,2020-04-20 07:03:41,2020-04-20 07:03:41
+https://github.com/FederatedAI/FATE/issues/927,[],can't run job in 1.2,1,2020-01-08 08:33:48,2020-01-10 06:40:53,2020-01-10 06:40:53
+https://github.com/FederatedAI/FATE/issues/897,[],"[hetero Poisson regression] The ""aggregate_forward"" is suspected to be mistakenly computed",2,2019-12-27 07:03:41,2020-01-16 02:15:49,2020-01-16 02:08:18
+https://github.com/FederatedAI/FATE/issues/887,[],Can't execute the predict task,1,2019-12-25 06:27:07,2020-02-13 10:09:31,2020-02-13 10:09:30
+https://github.com/FederatedAI/FATE/issues/872,[],Onehot moduel error when set need_run is false,1,2019-12-23 03:41:33,2020-02-17 04:05:16,2020-02-17 04:05:16
+https://github.com/FederatedAI/FATE/issues/869,[],"[hetero linear regression] The host sends its ""forwards"" and ""loss_regular"" directly without encryption",2,2019-12-19 13:07:09,2020-02-17 03:49:22,2020-02-17 03:49:21
+https://github.com/FederatedAI/FATE/issues/843,[],Can't start modeling task.,3,2019-12-12 12:57:20,2019-12-14 07:54:27,2019-12-14 07:54:27
+https://github.com/FederatedAI/FATE/issues/830,[],how to limit number of job running,1,2019-12-09 07:58:03,2020-01-02 08:21:50,2020-01-02 08:21:49
+https://github.com/FederatedAI/FATE/issues/827,[],query for all tables,2,2019-12-06 08:56:13,2020-01-02 08:32:05,2020-01-02 08:32:05
+https://github.com/FederatedAI/FATE/issues/824,[],homo_breast_* example evaluation,1,2019-12-05 09:17:51,2019-12-06 16:17:31,2019-12-06 16:17:31
+https://github.com/FederatedAI/FATE/issues/797,[],启动服务异常,3,2019-11-26 03:43:44,2019-12-23 06:36:41,2019-12-23 06:36:41
+https://github.com/FederatedAI/FATE/issues/792,[],logic in quick_run.py may not right.,2,2019-11-25 09:30:37,2019-11-26 11:05:28,2019-11-26 11:05:28
+https://github.com/FederatedAI/FATE/issues/788,[],ERROR.log was not found on the guest side,2,2019-11-23 07:54:43,2019-11-28 09:34:22,2019-11-28 09:34:22
+https://github.com/FederatedAI/FATE/issues/777,[],homo_nn running failed,5,2019-11-13 07:16:03,2019-11-15 03:15:23,2019-11-15 03:15:23
+https://github.com/FederatedAI/FATE/issues/773,[],Quick Start-Cluster Version，task failed,2,2019-11-12 10:52:35,2020-03-02 13:39:02,2020-03-02 13:39:02
+https://github.com/FederatedAI/FATE/issues/755,[],fate_flow start failed,1,2019-11-05 03:40:04,2020-01-02 08:29:38,2020-01-02 08:29:38
+https://github.com/FederatedAI/FATE/issues/753,[],storage-service-cxx start failed,4,2019-11-04 08:53:15,2020-04-15 06:16:09,2020-04-15 06:16:09
+https://github.com/FederatedAI/FATE/issues/733,[],"The first time I run ”python quick_run.py“, I get an error when I run it again.",1,2019-10-29 12:17:15,2019-11-05 06:24:28,2019-11-05 06:24:28
+https://github.com/FederatedAI/FATE/issues/724,[],An error occurred while running ‘sh build_standalone_docker.sh’,2,2019-10-28 10:43:04,2019-11-05 06:24:40,2019-11-05 06:24:40
+https://github.com/FederatedAI/FATE/issues/701,[],Float Cannot be Used as Random Seed,1,2019-10-21 10:52:01,2019-10-21 10:54:43,2019-10-21 10:54:43
+https://github.com/FederatedAI/FATE/issues/700,[],Fix Encrypt Param Check,1,2019-10-21 10:05:25,2019-10-21 10:06:01,2019-10-21 10:06:01
+https://github.com/FederatedAI/FATE/issues/699,[],Fix Linear Regression Param Check,1,2019-10-21 09:58:17,2019-10-21 09:58:44,2019-10-21 09:58:44
+https://github.com/FederatedAI/FATE/issues/698,['bug'],Fix param check for Poisson Regression ,1,2019-10-21 09:56:16,2019-10-21 09:57:31,2019-10-21 09:57:31
+https://github.com/FederatedAI/FATE/issues/697,['bug'],Fix Poisson Regression Predict BUG,1,2019-10-21 09:52:30,2019-10-21 09:53:14,2019-10-21 09:53:14
+https://github.com/FederatedAI/FATE/issues/695,['bug'],Fix secureboost export_model bug when run cross validation,1,2019-10-21 09:50:38,2019-11-04 11:20:40,2019-11-04 11:20:40
+https://github.com/FederatedAI/FATE/issues/693,['bug'],"Fix bugs of model_base's flowid, parameter check of some module, dsl_parser bug""",1,2019-10-21 09:43:13,2019-11-04 11:22:03,2019-11-04 11:22:03
+https://github.com/FederatedAI/FATE/issues/685,[],"Unreasonable time consumption, in an epoch of the hetero LR.",2,2019-10-18 09:04:47,2019-10-28 13:24:25,2019-10-28 11:18:10
+https://github.com/FederatedAI/FATE/issues/683,[],"task failed, but task_executor.py on port 9380 still be alive",2,2019-10-18 02:28:17,2019-11-05 01:38:45,2019-11-05 01:38:45
+https://github.com/FederatedAI/FATE/issues/679,[],wrong comments on function aggregate_forward() in hetero_lr_guest.py,1,2019-10-16 08:46:50,2019-10-18 08:46:36,2019-10-18 08:46:36
+https://github.com/FederatedAI/FATE/issues/678,[],MySql install problems?,1,2019-10-15 03:41:01,2019-11-05 06:28:13,2019-11-05 06:28:13
+https://github.com/FederatedAI/FATE/issues/669,[],Question about installing mysql when deploying cluster.,1,2019-10-14 10:15:02,2019-10-16 02:25:35,2019-10-16 02:25:35
+https://github.com/FederatedAI/FATE/issues/660,[],Bin num not match bug,1,2019-10-11 11:21:26,2019-10-14 08:52:15,2019-10-14 08:52:15
+https://github.com/FederatedAI/FATE/issues/646,['bug'],Fix bugs of use same flowid in predicting when validating train and validate data during each training epoch,1,2019-10-10 07:42:23,2019-10-10 10:23:59,2019-10-10 10:23:59
+https://github.com/FederatedAI/FATE/issues/640,[],Cluster Host&Guest cannot receive pallier public key when running Hetero Logistic Regression training,1,2019-10-03 05:49:59,2019-11-05 06:29:12,2019-11-05 06:29:12
+https://github.com/FederatedAI/FATE/issues/632,[],"run_toy_example.py——job running time exceed, please check federation or eggroll log——io.grpc.netty.shaded.io.netty.handler.codec.http2.Http2Exception$HeaderListSizeException: Header size exceeded max allowed size (8192)",1,2019-09-27 04:06:24,2019-09-28 01:06:04,2019-09-28 01:04:49
+https://github.com/FederatedAI/FATE/issues/626,['bug'],Fix import error in eggroll api doc ,1,2019-09-26 10:01:26,2019-09-26 10:07:07,2019-09-26 10:07:07
+https://github.com/FederatedAI/FATE/issues/625,[],"when uploaded data with dimension 2.5 million * 150, it came up with ""_end_unary_response_blocking"" error",2,2019-09-26 02:15:54,2019-11-05 06:32:34,2019-11-05 06:32:34
+https://github.com/FederatedAI/FATE/issues/619,[],secboost example run failed,5,2019-09-25 08:23:07,2019-11-25 08:16:48,2019-10-11 12:25:47
+https://github.com/FederatedAI/FATE/issues/588,[],Support  validation data evaluation during training process. ,1,2019-09-18 02:29:26,2019-11-04 11:26:00,2019-11-04 11:26:00
+https://github.com/FederatedAI/FATE/issues/584,[],An InterSect  Issue,2,2019-09-16 02:06:48,2019-09-17 05:52:31,2019-09-17 05:52:31
+https://github.com/FederatedAI/FATE/issues/583,[],How to change the default selected evaluation scores?,8,2019-09-15 08:48:26,2019-09-17 09:16:46,2019-09-17 09:16:46
+https://github.com/FederatedAI/FATE/issues/579,[],io_exception rpc,3,2019-09-11 14:09:29,2019-09-17 05:52:59,2019-09-17 05:52:59
+https://github.com/FederatedAI/FATE/issues/566,[],"Sometimes misreporting occurs, ValueError: job running time exceed, please check federation or eggroll log",4,2019-09-09 07:21:37,2019-11-04 11:27:04,2019-11-04 11:27:03
+https://github.com/FederatedAI/FATE/issues/549,[],No module named 'federatedml.param.param' when run 'run_ftl_ct_standalone.sh',1,2019-09-05 08:50:04,2019-11-05 06:30:49,2019-11-05 06:30:49
+https://github.com/FederatedAI/FATE/issues/540,[],KFold remote index bug,1,2019-09-04 09:49:39,2019-09-16 02:59:50,2019-09-16 02:59:49
+https://github.com/FederatedAI/FATE/issues/529,[],Error when running the sh ./federatedml/test/run_test.sh after installing using manual,5,2019-09-03 06:54:08,2019-11-09 23:15:30,2019-11-05 06:23:07
+https://github.com/FederatedAI/FATE/issues/522,[],sh run.sh guest fast ${host_table} ${host_namespace} failed,2,2019-09-02 14:08:08,2019-09-27 09:23:15,2019-09-12 01:14:39
+https://github.com/FederatedAI/FATE/issues/518,['bug'],Fix bug: when run quick_run.py raise ImportError: cannot import name 'itemgetter',1,2019-08-29 16:35:51,2019-09-05 12:23:13,2019-09-05 12:23:13
+https://github.com/FederatedAI/FATE/issues/506,[],Host should be able to store models with non-encrypted version in HomoLR,2,2019-08-26 02:52:30,2019-11-05 01:40:15,2019-11-05 01:40:15
+https://github.com/FederatedAI/FATE/issues/502,['bug'],meet a bug when running logistic regression example,2,2019-08-23 06:50:56,2019-09-02 08:21:10,2019-09-02 08:21:10
+https://github.com/FederatedAI/FATE/issues/459,['bug'],The Process running WorkFlow cannot stop,2,2019-08-16 17:07:57,2019-11-05 06:22:26,2019-11-05 06:22:26
+https://github.com/FederatedAI/FATE/issues/453,[],Question about the usage of ftl,1,2019-08-16 07:52:42,2021-07-02 08:07:20,2021-07-02 08:07:20
+https://github.com/FederatedAI/FATE/issues/392,[],the prediction can only predict part of the input data table,1,2019-08-08 08:52:12,2019-08-22 10:09:33,2019-08-22 10:09:33
+https://github.com/FederatedAI/FATE/issues/390,[],Cluster deployment problem,2,2019-08-08 01:55:27,2019-08-22 09:55:57,2019-08-22 09:55:57
+https://github.com/FederatedAI/FATE/issues/385,[],"when i run logistic_regression,i come to ""fail to post status running"" problem",2,2019-08-06 15:59:08,2019-08-20 14:08:04,2019-08-20 14:08:04
+https://github.com/FederatedAI/FATE/issues/364,[],Deployment error happened after installing MySQL,1,2019-08-03 09:09:48,2019-08-09 12:28:01,2019-08-09 12:28:01
+https://github.com/FederatedAI/FATE/issues/350,[],"When building a securetree model, if the user in the Party A don't have the data in the Party B, what will the model inference?",2,2019-08-01 11:37:07,2019-08-20 14:07:34,2019-08-20 14:07:34
+https://github.com/FederatedAI/FATE/issues/313,[],Intermediate result visualizable.,1,2019-07-23 06:40:31,2019-08-29 14:20:42,2019-07-23 08:06:20
+https://github.com/FederatedAI/FATE/issues/299,[],bug when test FATE,1,2019-07-19 09:58:34,2019-08-08 02:49:09,2019-08-08 02:49:09
+https://github.com/FederatedAI/FATE/issues/296,[],bug when install at 7step,6,2019-07-18 13:20:57,2019-08-22 09:52:38,2019-08-22 09:52:38
+https://github.com/FederatedAI/FATE/issues/294,[],Error: No such container:docker,9,2019-07-18 09:04:32,2020-04-14 08:03:22,2019-08-22 06:47:41
+https://github.com/FederatedAI/FATE/issues/291,[],运行run_toy_example_cluster.sh guest一直卡住,2,2019-07-16 14:51:48,2019-08-20 14:11:06,2019-08-20 14:11:06
+https://github.com/FederatedAI/FATE/issues/286,['bug'],v0.3.1 first test task fix bugs,1,2019-07-11 05:32:27,2019-08-29 14:20:41,2019-07-11 09:32:51
+https://github.com/FederatedAI/FATE/issues/272,[],"About the new dependency ""redis""",2,2019-07-05 09:52:28,2019-07-11 14:08:57,2019-07-11 14:08:57
+https://github.com/FederatedAI/FATE/issues/270,[],Data question of Hetero_lr ,3,2019-07-05 07:47:41,2019-07-09 03:28:09,2019-07-09 03:28:09
+https://github.com/FederatedAI/FATE/issues/267,[],Minimization testing issue,2,2019-07-02 07:59:27,2019-08-22 06:49:25,2019-08-22 06:49:25
+https://github.com/FederatedAI/FATE/issues/266,[],bugs when install FATE,1,2019-07-01 08:22:29,2019-08-22 09:52:18,2019-08-22 09:52:18
+https://github.com/FederatedAI/FATE/issues/262,[],input_data.mapValues() returns null result in cluster deploy mode,9,2019-06-28 10:54:27,2019-07-08 03:43:12,2019-07-08 03:43:12
+https://github.com/FederatedAI/FATE/issues/257,[],errors occures when  we use FATE,1,2019-06-24 12:57:36,2019-06-26 02:01:25,2019-06-26 02:01:25
+https://github.com/FederatedAI/FATE/issues/256,[],General cross validation module,1,2019-06-24 09:18:59,2019-07-23 08:03:48,2019-07-23 08:03:48
+https://github.com/FederatedAI/FATE/issues/255,[],Connection failed between parties after rebooting the server,1,2019-06-24 08:34:28,2020-06-10 13:34:13,2019-11-05 06:13:14
+https://github.com/FederatedAI/FATE/issues/254,[],[cluster version]toy example failed,3,2019-06-24 07:28:37,2019-07-15 14:04:12,2019-06-25 06:23:50
+https://github.com/FederatedAI/FATE/issues/253,[],Cluster version cannot load data,2,2019-06-24 02:48:18,2019-07-14 11:58:29,2019-07-14 11:58:29
+https://github.com/FederatedAI/FATE/issues/245,[],Stop when runing the homo LR,1,2019-06-18 05:48:16,2019-11-05 06:12:59,2019-11-05 06:12:59
+https://github.com/FederatedAI/FATE/issues/238,"['bug', 'enhancement']",fix federatedml serving bug and add key hit rate statistics,1,2019-06-18 02:39:37,2019-06-18 09:57:40,2019-06-18 09:57:40
+https://github.com/FederatedAI/FATE/issues/230,['bug'],arch/api/utils/donwload.py fails to deserialize custom objects using pickle,1,2019-06-16 10:23:19,2019-08-22 09:48:09,2019-08-22 09:48:09
+https://github.com/FederatedAI/FATE/issues/229,[],Stoping when the eggroll.table is used,6,2019-06-14 08:06:00,2019-06-18 07:15:17,2019-06-18 07:15:17
+https://github.com/FederatedAI/FATE/issues/227,[],Quantile point query in statistic module,1,2019-06-13 08:24:54,2019-07-23 08:04:13,2019-07-23 08:04:13
+https://github.com/FederatedAI/FATE/issues/226,[],"The post request in the ""workflow/status_tracer_decorator.py""",2,2019-06-13 03:33:03,2019-06-17 12:41:41,2019-06-17 12:41:41
+https://github.com/FederatedAI/FATE/issues/225,[],what's the difference between online and offline module,1,2019-06-13 03:10:38,2019-06-17 12:41:55,2019-06-17 12:41:55
+https://github.com/FederatedAI/FATE/issues/224,[],About the storage-service-cxx service.sh start,7,2019-06-13 02:43:22,2019-08-22 10:06:04,2019-08-22 10:06:04
+https://github.com/FederatedAI/FATE/issues/222,[],Question about the cluster Logistics Regression Example,3,2019-06-12 05:46:19,2019-06-14 13:05:27,2019-06-14 13:05:27
+https://github.com/FederatedAI/FATE/issues/219,[],About the auto-deploy.sh -- grpc instalment,12,2019-06-11 04:14:56,2019-08-22 09:56:26,2019-08-22 09:56:26
+https://github.com/FederatedAI/FATE/issues/211,[],if not passed at ./federatedml/test/run_test.sh :34,3,2019-06-07 11:02:12,2019-06-21 09:49:36,2019-06-21 09:49:36
+https://github.com/FederatedAI/FATE/issues/202,[],"debconf: delaying package configuration, since apt-utils is not installed",2,2019-06-04 06:27:47,2019-08-22 09:28:04,2019-08-22 09:28:03
+https://github.com/FederatedAI/FATE/issues/193,[],Provide data transform in feature binning,1,2019-05-30 03:28:28,2019-07-23 08:04:50,2019-07-23 08:04:49
+https://github.com/FederatedAI/FATE/issues/191,[],Lack of log infomation for feature selection.,1,2019-05-29 11:01:01,2019-06-11 01:47:18,2019-06-11 01:47:18
+https://github.com/FederatedAI/FATE/issues/188,[],"seems 'remote' attribute is missing in the definition of the class RuntimeInstance in the file FATE/arch/api/__init__.py"" ",4,2019-05-27 12:52:27,2019-08-22 06:51:22,2019-08-22 06:51:22
+https://github.com/FederatedAI/FATE/issues/184,[],The details of HomoLogisticRegression are different from `this paper`,2,2019-05-27 02:09:36,2019-06-14 13:18:56,2019-06-14 13:18:56
+https://github.com/FederatedAI/FATE/issues/183,[],error in install requirement.txt,3,2019-05-25 16:07:13,2019-05-27 04:36:25,2019-05-27 04:36:25
+https://github.com/FederatedAI/FATE/issues/182,[],The Information of Deployment Environment is needed,1,2019-05-25 13:14:13,2019-05-27 04:36:40,2019-05-27 04:36:40
+https://github.com/FederatedAI/FATE/issues/170,[],"While predict  one_vs_rest, the predict label type not match the input_data label type",1,2019-05-22 08:46:33,2019-05-22 08:52:19,2019-05-22 08:52:19
+https://github.com/FederatedAI/FATE/issues/137,[],detailed supported documents wanted,3,2019-05-06 08:58:06,2019-05-10 07:47:46,2019-05-10 07:47:46
+https://github.com/FederatedAI/FATE/issues/135,[],try to deploy cluster mode ,2,2019-04-29 09:49:50,2019-08-29 14:20:39,2019-04-29 14:48:20
+https://github.com/FederatedAI/FATE/issues/107,[],Add doc in examples and main features. ,1,2019-04-18 09:42:14,2019-04-19 06:17:06,2019-04-19 06:17:06
+https://github.com/FederatedAI/FATE/issues/101,['bug'],hetero-lr minibatch bug,1,2019-04-13 09:06:25,2019-04-13 11:51:27,2019-04-13 11:51:27
+https://github.com/FederatedAI/FATE/issues/93,['bug'],accurate average gradient and loss,1,2019-04-12 02:51:15,2019-08-29 14:20:38,2019-04-13 05:07:32
+https://github.com/FederatedAI/FATE/issues/85,['bug'],Use clean up In status_tracer_decorator cause bug,1,2019-04-08 08:58:30,2019-04-08 09:12:46,2019-04-08 09:11:42
+https://github.com/FederatedAI/FATE/issues/79,[],SecureBoost online inference,1,2019-04-04 12:10:43,2019-11-05 06:11:39,2019-11-05 06:11:39
+https://github.com/FederatedAI/FATE/issues/77,['bug'],Input data abnormal,1,2019-04-04 11:45:50,2019-08-29 14:20:38,2019-04-13 11:54:35
+https://github.com/FederatedAI/FATE/issues/56,[],How to improve the efficiency of paillier or other homomorphic encryption algorithm?,4,2019-03-28 11:10:19,2019-04-03 08:36:10,2019-04-03 08:36:10
+https://github.com/FederatedAI/FATE/issues/55,"['bug', 'arch']",One-second latency after each transfer event,3,2019-03-28 08:16:18,2019-03-29 03:18:41,2019-03-29 03:18:41
+https://github.com/FederatedAI/FATE/issues/43,"['bug', 'arch']",ERROR in SendProcessor with limited number of CPUs,1,2019-03-22 03:54:10,2019-11-05 06:12:29,2019-11-05 06:12:29
+https://github.com/FederatedAI/FATE/issues/32,[],Discussions,23,2019-03-18 03:05:17,2019-08-22 09:56:46,2019-08-22 09:56:46
+https://github.com/FederatedAI/FATE/issues/27,['bug'],Training validation in workflow need to reset flowid,1,2019-03-12 09:18:38,2019-08-29 14:20:37,2019-04-03 04:07:19
+https://github.com/FederatedAI/FATE/issues/18,[],Lacking of Basic Dashboard Support,1,2019-03-04 07:31:33,2019-08-29 14:20:36,2019-04-04 12:13:46
+https://github.com/FederatedAI/FATE/issues/6,[],Docker support,8,2019-02-21 03:57:35,2019-03-04 08:16:47,2019-02-28 09:06:50

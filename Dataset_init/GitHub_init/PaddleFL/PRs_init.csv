@@ -1,0 +1,12 @@
+url,label,title,comments,merged,created_time,updated_time,closed_time
+https://github.com/PaddlePaddle/PaddleFL/pull/204,[],remove split learning in release/1.1.2,1,True,2021-07-30 11:59:24,2021-07-30 19:19:15,2021-07-30 19:19:15
+https://github.com/PaddlePaddle/PaddleFL/pull/203,[],fix bug in data parallel,1,True,2021-07-30 09:37:54,2021-07-30 19:18:48,2021-07-30 19:18:48
+https://github.com/PaddlePaddle/PaddleFL/pull/187,[],[split_learning] add copyright,1,True,2021-07-27 08:25:14,2021-07-27 08:51:36,2021-07-27 08:40:57
+https://github.com/PaddlePaddle/PaddleFL/pull/134,[],fix bugs: fail to convert relu/pool2d into mpc_relu/mpc_pool2d when encrypting model.,1,True,2020-11-27 07:55:02,2020-12-01 02:48:55,2020-12-01 02:48:55
+https://github.com/PaddlePaddle/PaddleFL/pull/113,[],fix ks bug & add one hot encoding map,1,True,2020-08-31 11:54:54,2020-09-02 03:47:54,2020-09-02 03:47:54
+https://github.com/PaddlePaddle/PaddleFL/pull/93,[],Update mpc scripts,1,False,2020-07-31 09:36:31,2020-07-31 09:40:56,2020-07-31 09:39:48
+https://github.com/PaddlePaddle/PaddleFL/pull/84,[],fix net io recv bug & add example for data alignment,1,True,2020-06-17 02:50:01,2020-06-18 13:22:49,2020-06-18 13:22:49
+https://github.com/PaddlePaddle/PaddleFL/pull/77,[],update code to make test acc=0.116,1,True,2020-05-21 13:24:19,2020-05-23 14:13:07,2020-05-23 14:13:07
+https://github.com/PaddlePaddle/PaddleFL/pull/64,[],"sigmoid op added, some bug fixed",1,True,2020-04-30 14:47:41,2020-05-04 06:57:09,2020-05-04 06:57:08
+https://github.com/PaddlePaddle/PaddleFL/pull/31,[],Fix the zmq bug in python3,1,True,2020-01-07 09:01:40,2020-05-13 05:27:52,2020-01-08 11:48:56
+https://github.com/PaddlePaddle/PaddleFL/pull/26,[],Indentation fixed,1,True,2019-12-11 06:47:38,2019-12-12 08:33:30,2019-12-12 08:33:29

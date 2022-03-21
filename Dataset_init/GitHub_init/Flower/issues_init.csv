@@ -1,0 +1,19 @@
+url,label,title,comments,created_time,updated_time,closed_time
+https://github.com/adap/flower/issues/817,[],Error: 'Sequential' object has no attribute 'set_weight',2,2021-08-17 04:58:41,2021-08-18 08:26:47,2021-08-18 08:26:47
+https://github.com/adap/flower/issues/807,[],set_parameters wrong,3,2021-08-02 13:12:55,2021-08-24 13:39:54,2021-08-24 13:39:31
+https://github.com/adap/flower/issues/799,[],Ray install not optional,2,2021-07-28 09:35:33,2021-08-15 10:44:52,2021-08-15 10:44:52
+https://github.com/adap/flower/issues/756,[],Client not starting,1,2021-06-10 10:33:55,2021-06-11 07:31:17,2021-06-11 07:31:16
+https://github.com/adap/flower/issues/751,[],grpc client server communication is not working when client and server is started from different terminals,3,2021-06-07 16:14:50,2021-06-11 07:35:00,2021-06-11 07:35:00
+https://github.com/adap/flower/issues/747,[],Example simulation docker execution fails,2,2021-06-04 16:55:01,2021-06-05 19:07:04,2021-06-05 10:45:14
+https://github.com/adap/flower/issues/712,[],Using results returned from client's fit,2,2021-05-06 12:37:05,2021-05-07 19:40:25,2021-05-07 19:40:25
+https://github.com/adap/flower/issues/710,[],Connection issue tf-quickstart,3,2021-05-05 14:45:36,2021-05-11 15:59:17,2021-05-11 13:24:18
+https://github.com/adap/flower/issues/666,[],Cant Install flwr top of the Poetry Shell,5,2021-03-08 10:09:08,2021-03-08 12:16:05,2021-03-08 12:16:05
+https://github.com/adap/flower/issues/659,[],QFedAvg Loss Unitialized Error,3,2021-03-03 16:20:12,2021-08-15 12:03:42,2021-08-15 12:01:34
+https://github.com/adap/flower/issues/648,[],Trying to run quickstart_tensorflow,13,2021-02-23 11:39:53,2021-03-18 19:49:45,2021-03-18 19:49:45
+https://github.com/adap/flower/issues/552,[],Improve docs (misc),2,2021-01-05 17:16:41,2021-01-19 11:16:41,2021-01-19 11:16:29
+https://github.com/adap/flower/issues/542,[],transport_pb2.pyi file,1,2020-12-27 09:17:36,2020-12-27 09:56:52,2020-12-27 09:56:52
+https://github.com/adap/flower/issues/540,['bug'],Evaluation of the final model on empty client set,2,2020-12-23 08:45:41,2021-01-06 09:37:37,2021-01-06 09:37:37
+https://github.com/adap/flower/issues/537,[],grpc error: details: failed to connect to all addresses,3,2020-12-17 07:07:00,2021-08-19 15:45:26,2020-12-17 09:12:56
+https://github.com/adap/flower/issues/530,['bug'],`Server.fit` method crash with `TypeError: 'int' object is not iterable` error,2,2020-12-09 18:39:19,2021-02-05 10:10:08,2021-02-05 10:10:07
+https://github.com/adap/flower/issues/433,['bug'],Not able to run example in flwr_example/quickstart_pytorch,9,2020-10-19 05:13:27,2020-11-09 05:13:10,2020-11-08 15:03:04
+https://github.com/adap/flower/issues/408,['bug'],execution of client example crash after training is terminated,8,2020-09-29 13:11:20,2020-11-09 11:28:22,2020-11-09 11:28:22

@@ -1,0 +1,578 @@
+url,label,title,comments,merged,created_time,updated_time,closed_time
+https://github.com/OpenMined/PySyft/pull/6009,[],Replacing Global Variables in pytest files with fixtures,1,True,2021-09-28 03:44:42,2021-09-30 18:40:56,2021-09-30 18:40:56
+https://github.com/OpenMined/PySyft/pull/6002,[],[W.I.P.] Patch flaky SEPT tests on Windows by checking for dimension size,1,True,2021-09-24 13:42:18,2021-09-24 19:29:32,2021-09-24 19:29:08
+https://github.com/OpenMined/PySyft/pull/5960,[],[WIP] Data Subject Annotation Wizard and related UX improvements,1,True,2021-09-07 01:35:03,2021-09-16 22:00:42,2021-09-16 22:00:41
+https://github.com/OpenMined/PySyft/pull/5954,[],SimpleService and NodeRunnableMessageWithReply,4,True,2021-09-04 18:43:10,2021-09-04 21:21:58,2021-09-04 21:20:52
+https://github.com/OpenMined/PySyft/pull/5952,[],Fixed Intergration Tests SMPC,5,False,2021-09-03 10:37:03,2021-09-05 03:24:56,2021-09-04 21:22:39
+https://github.com/OpenMined/PySyft/pull/5951,[],fix: remove blank notebook,1,True,2021-09-03 08:53:13,2021-09-04 21:23:12,2021-09-04 21:23:11
+https://github.com/OpenMined/PySyft/pull/5948,[],"Added support & tests for np operations (eq, ne, add, sub, repeat, pos) to S.E.P.T, R.E.P.T",1,True,2021-09-02 04:21:08,2021-09-23 19:36:27,2021-09-23 19:36:26
+https://github.com/OpenMined/PySyft/pull/5931,[],Prepare for ADP+SMPC Demo branch Merge into dev,1,True,2021-08-29 00:18:56,2021-09-02 23:33:30,2021-09-02 23:33:28
+https://github.com/OpenMined/PySyft/pull/5927,[],Add 'publish' method to share tensor,3,False,2021-08-26 18:31:55,2021-08-28 22:50:36,2021-08-28 22:50:36
+https://github.com/OpenMined/PySyft/pull/5903,[],Add build-essential to dependencies in order to fix building error,1,False,2021-08-11 11:17:49,2021-08-16 05:07:09,2021-08-16 05:07:09
+https://github.com/OpenMined/PySyft/pull/5884,[],Hot Fix for unboxed PyPrimitive upcasting,1,True,2021-08-05 05:26:30,2021-08-05 09:10:11,2021-08-05 06:44:44
+https://github.com/OpenMined/PySyft/pull/5876,[],Codebase fixes to get the Friday trade_demo working,1,True,2021-08-04 13:44:43,2021-08-04 16:24:59,2021-08-04 16:24:58
+https://github.com/OpenMined/PySyft/pull/5861,[],mypy fix for syft,1,False,2021-07-30 10:55:23,2021-08-05 07:41:21,2021-08-05 07:41:20
+https://github.com/OpenMined/PySyft/pull/5847,[],Madhava/hot fix backend issue,1,True,2021-07-28 21:44:30,2021-07-28 22:01:49,2021-07-28 22:01:49
+https://github.com/OpenMined/PySyft/pull/5846,[],Updating tox fix,1,True,2021-07-28 01:40:25,2021-07-28 01:44:02,2021-07-28 01:44:02
+https://github.com/OpenMined/PySyft/pull/5844,[],fix to allow execute cd command in tox.ini  Ubuntu,1,False,2021-07-28 00:38:38,2021-07-28 01:41:41,2021-07-28 01:41:41
+https://github.com/OpenMined/PySyft/pull/5831,[],fixing mypy for grid,1,True,2021-07-23 08:28:25,2021-07-27 07:29:03,2021-07-27 07:29:03
+https://github.com/OpenMined/PySyft/pull/5829,[],fixing mypy for hagrid,1,True,2021-07-22 11:40:51,2021-07-27 07:19:49,2021-07-27 07:19:49
+https://github.com/OpenMined/PySyft/pull/5822,[],Sympc tensor grid,5,True,2021-07-20 19:02:34,2021-08-03 10:20:32,2021-08-03 10:20:31
+https://github.com/OpenMined/PySyft/pull/5821,[],Flake 8 fix 0.6.0,1,True,2021-07-20 12:26:29,2021-07-22 10:17:09,2021-07-22 10:17:09
+https://github.com/OpenMined/PySyft/pull/5796,[],[Snyk] Security upgrade pillow from 6.2.2 to 8.3.0,1,False,2021-07-17 00:06:32,2021-07-26 01:13:20,2021-07-26 01:13:20
+https://github.com/OpenMined/PySyft/pull/5788,[],hagrid create and destroy local vm,2,False,2021-07-14 21:18:24,2021-07-28 03:40:39,2021-07-28 03:40:39
+https://github.com/OpenMined/PySyft/pull/5784,[],[WIP] hagrid create and terminate vms on azure/aws/gcp,2,False,2021-07-14 20:24:12,2021-07-28 03:40:53,2021-07-28 03:40:53
+https://github.com/OpenMined/PySyft/pull/5773,[],Add a first example of SMPC Tensor,1,False,2021-07-13 18:39:10,2021-07-20 19:10:05,2021-07-20 19:10:05
+https://github.com/OpenMined/PySyft/pull/5767,[],[Snyk] Security upgrade pillow from 6.2.2 to 8.3.0,1,False,2021-07-06 23:38:53,2021-07-26 01:13:15,2021-07-26 01:13:15
+https://github.com/OpenMined/PySyft/pull/5765,[],[Snyk] Security upgrade pillow from 6.2.2 to 8.3.0,1,False,2021-07-06 21:29:03,2021-07-26 01:13:11,2021-07-26 01:13:10
+https://github.com/OpenMined/PySyft/pull/5764,[],[Snyk] Security upgrade pillow from 6.2.2 to 8.3.0,1,False,2021-07-06 20:42:25,2021-07-26 01:13:07,2021-07-26 01:13:06
+https://github.com/OpenMined/PySyft/pull/5733,[],Releasing 0.5.0rc3,1,True,2021-06-25 07:07:48,2021-06-25 07:08:31,2021-06-25 07:08:31
+https://github.com/OpenMined/PySyft/pull/5727,[],Improved Docker and grid local dev with tox,1,True,2021-06-24 11:41:53,2021-06-25 06:11:00,2021-06-25 06:11:00
+https://github.com/OpenMined/PySyft/pull/5670,[],[WIP] Code Cleanup from Demo Push,2,False,2021-06-17 23:21:23,2021-06-26 01:15:58,2021-06-26 01:15:58
+https://github.com/OpenMined/PySyft/pull/5664,[],"bugfix, base tokenizer not in AST",1,False,2021-06-15 19:04:46,2021-06-23 18:43:33,2021-06-23 18:42:58
+https://github.com/OpenMined/PySyft/pull/5658,[],Fixing pydp tests,2,True,2021-06-14 04:20:14,2021-06-14 05:21:10,2021-06-14 05:21:10
+https://github.com/OpenMined/PySyft/pull/5622,[],0.5.0rc2 one more time,1,True,2021-06-01 08:52:54,2021-06-01 09:00:28,2021-06-01 09:00:28
+https://github.com/OpenMined/PySyft/pull/5609,[],Test network utility,3,True,2021-05-28 05:06:22,2021-06-28 22:55:59,2021-06-28 22:55:59
+https://github.com/OpenMined/PySyft/pull/5591,[],Moving CDC data into external repo,1,True,2021-05-20 01:15:54,2021-05-20 01:16:28,2021-05-20 01:16:28
+https://github.com/OpenMined/PySyft/pull/5574,[],Remove redundant time.sleep(),2,False,2021-05-15 17:06:05,2021-08-11 01:34:30,2021-08-11 01:34:30
+https://github.com/OpenMined/PySyft/pull/5567,[],0.5rc2,1,True,2021-05-14 10:36:33,2021-05-14 10:42:26,2021-05-14 10:42:26
+https://github.com/OpenMined/PySyft/pull/5565,[],Removing time.sleep,2,False,2021-05-13 20:51:16,2021-06-26 21:04:20,2021-06-26 21:04:20
+https://github.com/OpenMined/PySyft/pull/5552,[],PyGrid client minor fixes,2,False,2021-05-09 22:52:53,2021-05-10 23:46:56,2021-05-10 23:46:56
+https://github.com/OpenMined/PySyft/pull/5540,[],[WIP] Create Protobuf Object for BERT Iterator,3,False,2021-05-05 23:52:01,2021-06-22 06:26:18,2021-06-22 06:26:18
+https://github.com/OpenMined/PySyft/pull/5520,"['bug ', '0.5']",Fix model serialization in MCFL python notebook (fixes #5460),3,False,2021-04-27 13:39:14,2021-08-05 08:11:21,2021-08-05 08:11:21
+https://github.com/OpenMined/PySyft/pull/5505,[],Fix rl notebooks,2,False,2021-04-24 07:56:26,2021-04-24 15:04:23,2021-04-24 15:04:23
+https://github.com/OpenMined/PySyft/pull/5499,[],[WIP] Fix remote binary operators ,2,False,2021-04-22 05:42:28,2021-09-03 08:59:36,2021-09-03 08:59:36
+https://github.com/OpenMined/PySyft/pull/5495,[],Public Key Infrastructures Course: Hyperledger Aries Duet Session Auth Layer,1,True,2021-04-21 18:36:04,2021-05-03 06:04:48,2021-05-03 06:04:48
+https://github.com/OpenMined/PySyft/pull/5494,"['bug ', 'improvement ', 'good first issue :mortar_board:', 'priority: 4 - low :sunglasses:', 'severity: 4 - low :sunglasses:']",Fix notebook Remote Medical Data Science Grid Mock,2,True,2021-04-21 14:49:49,2021-04-27 06:20:38,2021-04-27 06:20:38
+https://github.com/OpenMined/PySyft/pull/5493,[],[WIP]Add support for Object Attributes in AST,2,False,2021-04-21 14:30:03,2021-05-05 12:37:38,2021-04-27 06:17:04
+https://github.com/OpenMined/PySyft/pull/5488,[],Audit duet tutorials,9,False,2021-04-20 08:18:11,2021-08-31 01:34:45,2021-08-31 01:34:44
+https://github.com/OpenMined/PySyft/pull/5486,[],[WIP] Duet SSI Fix,2,False,2021-04-20 07:19:30,2021-04-23 01:47:28,2021-04-23 01:47:27
+https://github.com/OpenMined/PySyft/pull/5483,[],[WIP] Fix rl notebook,3,False,2021-04-20 02:39:25,2021-04-21 14:50:25,2021-04-21 14:50:24
+https://github.com/OpenMined/PySyft/pull/5477,[],Fix tutorials SyMPC,1,True,2021-04-15 20:41:04,2021-05-06 12:07:13,2021-05-06 12:07:13
+https://github.com/OpenMined/PySyft/pull/5474,[],"[WIP] torchvision mean, std",2,False,2021-04-14 15:13:22,2021-04-27 06:09:08,2021-04-27 06:09:08
+https://github.com/OpenMined/PySyft/pull/5463,[],[WIP] Allowlist test with cuda,3,False,2021-04-12 08:15:59,2021-06-22 06:19:55,2021-06-22 06:19:55
+https://github.com/OpenMined/PySyft/pull/5455,[],Forward plan (SyModule),3,True,2021-04-09 14:01:59,2021-05-06 03:26:21,2021-05-06 03:26:21
+https://github.com/OpenMined/PySyft/pull/5447,[],[WIP] fix - TorchModule - __setattr__,2,False,2021-04-05 15:20:07,2021-05-06 07:42:40,2021-05-06 07:42:40
+https://github.com/OpenMined/PySyft/pull/5416,[],PyGrid client Minor Fixes / Enhancement,5,True,2021-03-31 19:19:17,2021-04-01 09:16:32,2021-04-01 09:16:31
+https://github.com/OpenMined/PySyft/pull/5410,[],Fix MCFL on Grid Side,1,True,2021-03-31 03:24:42,2021-06-29 18:01:43,2021-03-31 08:05:39
+https://github.com/OpenMined/PySyft/pull/5406,[],Add simple gc strategies,3,True,2021-03-30 15:27:05,2021-04-06 11:03:30,2021-04-06 11:03:30
+https://github.com/OpenMined/PySyft/pull/5402,[],[WIP] fix - TorchModule - __setattr__ ,1,False,2021-03-30 11:36:59,2021-04-02 14:24:40,2021-04-02 14:24:33
+https://github.com/OpenMined/PySyft/pull/5385,[],load multiple libs in one call,1,True,2021-03-28 17:28:56,2021-03-31 16:41:45,2021-03-30 10:59:25
+https://github.com/OpenMined/PySyft/pull/5384,[],fix#5365 skip rewrapping iter,4,True,2021-03-28 09:02:55,2021-04-19 17:11:59,2021-03-30 12:11:16
+https://github.com/OpenMined/PySyft/pull/5383,[],"torchvision test parameters, min_version requirements",1,True,2021-03-28 08:26:21,2021-04-05 10:38:00,2021-04-05 10:38:00
+https://github.com/OpenMined/PySyft/pull/5378,[],Raise Reference error to prevent spurious network call,2,True,2021-03-26 18:23:31,2021-03-29 11:50:35,2021-03-29 11:50:35
+https://github.com/OpenMined/PySyft/pull/5376,[],API of user-defined model & Plan,1,True,2021-03-26 05:39:30,2021-04-23 09:02:04,2021-04-23 09:02:03
+https://github.com/OpenMined/PySyft/pull/5363,[],Iterator/GC fixes to solve store __delitem__ errors,1,True,2021-03-24 11:47:14,2021-03-25 19:40:46,2021-03-25 19:40:46
+https://github.com/OpenMined/PySyft/pull/5337,[],add numpy.ndarray,8,True,2021-03-22 05:58:06,2021-03-25 03:23:41,2021-03-25 03:23:40
+https://github.com/OpenMined/PySyft/pull/5333,[],Opacus and Plan use case demo,2,False,2021-03-21 02:44:28,2021-04-27 05:42:23,2021-04-27 05:42:23
+https://github.com/OpenMined/PySyft/pull/5277,[],Fixing issue 5167,1,True,2021-03-09 14:22:24,2021-03-19 05:11:22,2021-03-19 05:11:22
+https://github.com/OpenMined/PySyft/pull/5261,[],fixed code quality issues,11,True,2021-03-06 08:14:45,2021-03-27 07:00:21,2021-03-27 07:00:20
+https://github.com/OpenMined/PySyft/pull/5250,[],Torch vision api's added,15,True,2021-03-04 07:05:16,2021-03-19 17:43:14,2021-03-19 06:31:01
+https://github.com/OpenMined/PySyft/pull/5245,[],fix #5208 handler serde error,1,True,2021-03-03 04:24:00,2021-03-04 13:09:20,2021-03-04 13:08:53
+https://github.com/OpenMined/PySyft/pull/5230,[],Plan API,6,True,2021-03-01 09:50:35,2021-03-23 08:42:36,2021-03-23 08:42:35
+https://github.com/OpenMined/PySyft/pull/5229,[],notebook example for remote DataLoader,2,False,2021-03-01 06:28:47,2021-03-24 04:10:54,2021-03-24 04:10:53
+https://github.com/OpenMined/PySyft/pull/5228,[],Added Slice object in syft,19,True,2021-02-28 12:12:51,2021-03-24 02:49:44,2021-03-24 02:34:37
+https://github.com/OpenMined/PySyft/pull/5222,[],Add metaclass for custom tensor,3,False,2021-02-26 09:12:02,2021-03-19 09:30:18,2021-03-19 09:30:18
+https://github.com/OpenMined/PySyft/pull/5212,[],Information Flow,1,True,2021-02-23 23:36:42,2021-03-06 16:06:19,2021-03-06 16:06:19
+https://github.com/OpenMined/PySyft/pull/5209,[],splitnn fix,1,True,2021-02-23 07:30:06,2021-02-23 07:30:28,2021-02-23 07:30:28
+https://github.com/OpenMined/PySyft/pull/5206,"['bug ', 'priority: 2 - high :cold_sweat:', 'severity: 3 - medium :unamused:']",Fix/Update PyGrid User Messages,1,True,2021-02-22 07:47:07,2021-02-25 02:37:06,2021-02-25 02:37:05
+https://github.com/OpenMined/PySyft/pull/5194,[],CI: simplify install versions,2,True,2021-02-19 10:44:31,2021-02-23 08:41:57,2021-02-23 08:27:06
+https://github.com/OpenMined/PySyft/pull/5188,[],StorableObject refactor (Cherry picked),2,False,2021-02-19 02:15:42,2021-02-20 12:44:24,2021-02-20 12:44:24
+https://github.com/OpenMined/PySyft/pull/5165,[],Fixed return type on opacus get_privacy_spent,1,True,2021-02-17 04:36:44,2021-03-03 08:09:47,2021-03-03 08:09:47
+https://github.com/OpenMined/PySyft/pull/5153,[],[WIP]Fixing issues which are highlighted by bandit,2,True,2021-02-13 21:21:53,2021-02-19 07:38:29,2021-02-19 07:30:48
+https://github.com/OpenMined/PySyft/pull/5151,[],fixes broken request name with tag,3,False,2021-02-13 08:51:12,2021-03-02 10:48:31,2021-03-02 10:48:31
+https://github.com/OpenMined/PySyft/pull/5125,[],Issue 5075 - Investigate pytest warnings,1,True,2021-02-09 01:18:58,2021-02-11 07:12:45,2021-02-11 07:12:45
+https://github.com/OpenMined/PySyft/pull/5121,[],duet notebook examples (closes #4798 and #4796),2,False,2021-02-08 02:41:59,2021-02-08 03:13:58,2021-02-08 03:13:58
+https://github.com/OpenMined/PySyft/pull/5119,[],#5075 - Solve warnings on tests and open issues for the unsolved,1,True,2021-02-07 01:16:26,2021-02-08 05:03:20,2021-02-08 05:03:19
+https://github.com/OpenMined/PySyft/pull/5117,[],Add attributes to allowlist accessible through objects(closes #5031 and #5032 ),4,False,2021-02-06 03:03:09,2021-03-02 13:48:57,2021-03-02 10:46:36
+https://github.com/OpenMined/PySyft/pull/5110,[],updated pre commits hooks version in .pre-commit,1,True,2021-02-04 08:50:56,2021-02-05 14:35:00,2021-02-05 05:41:40
+https://github.com/OpenMined/PySyft/pull/5097,[],[WIP]Duet tests review,1,False,2021-02-02 18:44:49,2021-02-03 10:11:24,2021-02-03 10:11:24
+https://github.com/OpenMined/PySyft/pull/5095,[],"[wip] Add SyftTensor, FloatTensor, DataTensor, IntegerTensor",1,True,2021-02-02 15:25:31,2021-02-16 08:21:17,2021-02-16 08:21:17
+https://github.com/OpenMined/PySyft/pull/5089,[],Add attributes to allowlist which can be accessed through objects (closes #5031 and #5032 ),8,False,2021-02-02 08:41:51,2021-02-16 04:07:11,2021-02-16 04:07:11
+https://github.com/OpenMined/PySyft/pull/5088,[],Result of func/method/property/attribute inherites upstream tags,2,False,2021-02-02 04:20:24,2021-02-16 03:51:18,2021-02-16 03:51:17
+https://github.com/OpenMined/PySyft/pull/5071,[],Duet example - DCGAN Draft - review request #4798,5,False,2021-01-29 11:37:26,2021-02-08 02:52:17,2021-02-08 02:51:50
+https://github.com/OpenMined/PySyft/pull/5067,[],Autoapprove requests made by root clients #5015,2,False,2021-01-26 08:48:21,2021-02-04 03:03:02,2021-02-04 03:03:01
+https://github.com/OpenMined/PySyft/pull/5066,[],[WIP] Test #5032,6,False,2021-01-26 00:24:57,2021-02-09 06:26:15,2021-02-09 06:26:15
+https://github.com/OpenMined/PySyft/pull/5064,[],[WIP]  Testing #5033,5,False,2021-01-25 02:15:58,2021-02-09 06:09:37,2021-02-09 06:09:37
+https://github.com/OpenMined/PySyft/pull/5061,[],[WIP] Removing xfail annotations ,4,False,2021-01-23 16:21:16,2021-02-05 05:47:47,2021-02-05 05:47:35
+https://github.com/OpenMined/PySyft/pull/5059,[],Fix mean and std in Torchvision[Draft],1,False,2021-01-22 17:30:19,2021-02-02 08:44:32,2021-02-02 08:44:32
+https://github.com/OpenMined/PySyft/pull/5050,[],Try Fix Windows,1,False,2021-01-22 00:03:39,2021-01-22 00:14:21,2021-01-22 00:14:21
+https://github.com/OpenMined/PySyft/pull/5021,[],add paper link,1,False,2021-01-17 12:12:01,2021-01-18 10:58:19,2021-01-18 10:58:18
+https://github.com/OpenMined/PySyft/pull/4987,[],Support Syft 0.3.0 with torch 1.4.0,2,False,2021-01-02 22:06:11,2021-01-06 11:20:31,2021-01-05 05:51:06
+https://github.com/OpenMined/PySyft/pull/4985,[],Fix typos in example notebooks and readme,3,True,2021-01-01 19:19:45,2021-01-20 06:53:54,2021-01-20 06:53:54
+https://github.com/OpenMined/PySyft/pull/4959,[],Data Science Grid Mock API - schema mockup concepts,2,False,2020-12-29 12:40:30,2021-02-05 05:07:33,2021-02-05 05:07:33
+https://github.com/OpenMined/PySyft/pull/4955,[],Fix the example document more friendly,2,False,2020-12-28 11:39:25,2021-01-15 00:18:08,2021-01-15 00:18:08
+https://github.com/OpenMined/PySyft/pull/4937,[],Fix all warnings in syft_0.3.0 documentation - first partial implementation,2,True,2020-12-22 12:37:48,2021-01-22 06:03:36,2021-01-15 01:30:12
+https://github.com/OpenMined/PySyft/pull/4926,[],added location and locations printouts to remote and SMPC-encrypted nn.Module,2,True,2020-12-17 17:52:29,2020-12-18 08:05:04,2020-12-18 08:04:38
+https://github.com/OpenMined/PySyft/pull/4905,[],add github benchmark-actions support,1,True,2020-12-12 09:12:11,2020-12-13 05:19:26,2020-12-13 05:19:26
+https://github.com/OpenMined/PySyft/pull/4882,[],Len and Iter final touch,1,True,2020-12-01 13:41:22,2020-12-02 12:05:51,2020-12-02 12:05:50
+https://github.com/OpenMined/PySyft/pull/4877,['bug '],Fix issue with logging bool being backwards,1,True,2020-12-01 03:21:10,2020-12-02 03:56:20,2020-12-02 03:56:20
+https://github.com/OpenMined/PySyft/pull/4868,[],Added the upgradation info : PySyft 0.2.x to 0.3.x,1,False,2020-11-28 15:16:43,2020-12-21 19:35:47,2020-11-30 11:00:12
+https://github.com/OpenMined/PySyft/pull/4838,[],Fixed PyPI README by adding the complete URL ,2,True,2020-11-21 05:18:53,2020-11-24 05:54:17,2020-11-24 05:54:17
+https://github.com/OpenMined/PySyft/pull/4827,[],Fix StorableObject lossing .data .description .tags after serde,6,True,2020-11-18 04:18:32,2020-11-26 01:11:58,2020-11-25 14:05:11
+https://github.com/OpenMined/PySyft/pull/4801,[],debug pointer.svd (OpenMined#4616),1,True,2020-11-10 07:58:00,2020-11-16 09:09:45,2020-11-16 09:09:45
+https://github.com/OpenMined/PySyft/pull/4781,[],Fix the h5py version,1,True,2020-11-04 17:38:35,2020-11-05 07:45:57,2020-11-05 07:45:57
+https://github.com/OpenMined/PySyft/pull/4773,[],Add .ndim and .T to Tensor (OpenMined#4617),2,True,2020-11-04 07:07:49,2020-11-08 22:26:51,2020-11-08 22:26:51
+https://github.com/OpenMined/PySyft/pull/4752,[],fix comparison between FPT and AST,1,True,2020-11-01 16:14:26,2020-11-05 13:00:01,2020-11-05 12:59:50
+https://github.com/OpenMined/PySyft/pull/4714,[],Fix Flake8 C408 Error,1,True,2020-10-26 12:01:29,2020-10-26 13:48:42,2020-10-26 13:31:40
+https://github.com/OpenMined/PySyft/pull/4700,[],"Primitive support: Int, Float, List, Bool",1,True,2020-10-23 13:45:29,2020-10-23 19:46:04,2020-10-23 19:46:04
+https://github.com/OpenMined/PySyft/pull/4697,[],"Fix for RNN training on websockets, added instructions for Windows workaround installation",5,True,2020-10-22 08:49:56,2020-11-02 15:46:12,2020-11-02 15:46:12
+https://github.com/OpenMined/PySyft/pull/4655,[],changed all asset to if/raise to prevent disable of assert during PYTHONOPTIMISE env,5,True,2020-10-16 04:09:42,2020-10-20 13:14:41,2020-10-20 13:14:41
+https://github.com/OpenMined/PySyft/pull/4653,[],Add remote share for RST,2,True,2020-10-14 23:12:53,2020-11-11 07:03:09,2020-11-11 07:03:09
+https://github.com/OpenMined/PySyft/pull/4640,[],Updated simplify and detail for dflclient,1,True,2020-10-12 15:32:05,2020-10-13 03:03:35,2020-10-13 03:03:35
+https://github.com/OpenMined/PySyft/pull/4636,[],Added value of epochs in the tutorial,2,False,2020-10-10 13:19:39,2020-10-10 13:21:56,2020-10-10 13:21:35
+https://github.com/OpenMined/PySyft/pull/4635,[],Add Notebook comparing PySyft SMPC protocols: FSS and secureNN,6,True,2020-10-10 12:28:17,2020-11-11 12:00:41,2020-11-11 12:00:41
+https://github.com/OpenMined/PySyft/pull/4612,[],Bandit fix,1,True,2020-09-27 15:17:07,2020-09-27 16:52:17,2020-09-27 16:52:14
+https://github.com/OpenMined/PySyft/pull/4600,[],Make MNIST pass again!,1,False,2020-09-25 18:16:29,2020-09-25 19:45:06,2020-09-25 19:45:06
+https://github.com/OpenMined/PySyft/pull/4599,[],Optim scheduler fix,1,False,2020-09-25 16:38:28,2020-09-25 16:59:26,2020-09-25 16:59:26
+https://github.com/OpenMined/PySyft/pull/4550,"['bug ', 'priority: 3 - medium :unamused:', 'severity: 2 - high :cold_sweat:', 'status: completed :heavy_check_mark:']",update compatibility with pygrid,5,False,2020-09-11 21:13:27,2020-09-13 09:20:47,2020-09-13 09:20:47
+https://github.com/OpenMined/PySyft/pull/4539,[],Add a new tutorial,4,True,2020-09-07 20:57:25,2020-09-11 16:37:58,2020-09-11 16:37:54
+https://github.com/OpenMined/PySyft/pull/4538,[],Fixing broken link to tutorial 4,1,False,2020-09-07 15:37:21,2020-09-11 16:20:19,2020-09-11 16:20:19
+https://github.com/OpenMined/PySyft/pull/4522,[],Added support for FixedPrecisionTensor chain in ReplicatedSharingTensor (RST) ,4,True,2020-09-02 14:43:54,2020-12-12 08:03:01,2020-10-08 08:09:00
+https://github.com/OpenMined/PySyft/pull/4501,[],[WIP] Add support for FixedPrecisionTensor chain [Replicated Sharing Tensor (RST)],1,False,2020-08-29 15:58:47,2020-09-02 13:29:05,2020-09-02 13:14:00
+https://github.com/OpenMined/PySyft/pull/4484,[],Falcon module structure & design ,2,True,2020-08-26 11:49:53,2020-08-30 12:35:51,2020-08-30 12:35:51
+https://github.com/OpenMined/PySyft/pull/4476,[],ImportError due to Pillow version in torchvision --problem solved,3,False,2020-08-25 08:31:50,2020-09-05 17:23:26,2020-09-05 17:23:26
+https://github.com/OpenMined/PySyft/pull/4474,[],Falcon - Select share + evaluating,2,True,2020-08-25 07:19:25,2020-09-01 15:43:51,2020-09-01 15:43:50
+https://github.com/OpenMined/PySyft/pull/4469,[],Fix syft-proto version,1,True,2020-08-24 15:12:03,2020-08-24 21:18:35,2020-08-24 21:18:35
+https://github.com/OpenMined/PySyft/pull/4465,[],Add benchmark graph and script for tanh function approximation methods,5,True,2020-08-23 16:39:21,2020-08-24 10:55:30,2020-08-24 10:55:30
+https://github.com/OpenMined/PySyft/pull/4463,[],Throw error if protoc not found,1,True,2020-08-22 23:39:39,2020-08-24 15:30:35,2020-08-24 15:30:35
+https://github.com/OpenMined/PySyft/pull/4065,[],Added support for negative numbers in reciprocal method #4048,3,True,2020-08-22 13:44:20,2020-08-23 10:50:12,2020-08-23 10:50:12
+https://github.com/OpenMined/PySyft/pull/4064,[],"Added scripts, graphs for benchmarking AST operations",6,True,2020-08-22 10:56:20,2020-08-25 12:14:00,2020-08-25 12:13:59
+https://github.com/OpenMined/PySyft/pull/4047,[],[WIP] fixed the precision issue,1,False,2020-08-20 01:48:20,2020-09-01 18:27:06,2020-09-01 18:27:06
+https://github.com/OpenMined/PySyft/pull/4041,[],Typos fix,1,True,2020-08-19 09:07:12,2020-08-19 23:32:21,2020-08-19 13:46:34
+https://github.com/OpenMined/PySyft/pull/4038,[],Pointer docs,1,True,2020-08-18 22:18:28,2020-08-20 18:10:58,2020-08-20 18:10:58
+https://github.com/OpenMined/PySyft/pull/4035,[],FIX Return invalid dtype when MPC is applied,1,True,2020-08-18 12:19:03,2020-08-22 05:34:34,2020-08-22 05:34:34
+https://github.com/OpenMined/PySyft/pull/4032,[],Made tests fault tolerant to missing crypten module for windows,17,False,2020-08-17 17:09:54,2020-11-10 09:05:33,2020-11-10 09:00:57
+https://github.com/OpenMined/PySyft/pull/4031,[],"Add Benchmark Graph, Scripts for Sigmoid Approx. Methods",7,True,2020-08-17 17:05:25,2020-08-22 10:33:06,2020-08-19 19:50:53
+https://github.com/OpenMined/PySyft/pull/4021,[],Fast FixedPrecisonTensor Reciprocal Method (150x faster),10,True,2020-08-15 16:09:10,2020-08-18 07:57:19,2020-08-18 07:29:01
+https://github.com/OpenMined/PySyft/pull/4020,"['bug ', 'priority: 2 - high :cold_sweat:', 'status: review needed :raising_hand:', 'severity: 2 - high :cold_sweat:', 'status: in progress :star2:', 'status: investigating :mag:']",Grid clients serialisation correction,11,True,2020-08-15 09:11:28,2020-08-20 20:14:33,2020-08-20 20:14:33
+https://github.com/OpenMined/PySyft/pull/3990,[],Remote addition using pointers on Duet,2,True,2020-08-11 22:24:40,2020-08-12 16:53:49,2020-08-11 22:32:37
+https://github.com/OpenMined/PySyft/pull/3989,[],tensor.send(duet) and ptr.get() both work with duet (with tests),1,True,2020-08-11 19:48:52,2020-08-11 21:50:43,2020-08-11 20:09:51
+https://github.com/OpenMined/PySyft/pull/3960,[],Overload mod operator for the fixed precision tensor,1,True,2020-08-08 01:04:08,2020-08-11 15:18:14,2020-08-11 13:55:48
+https://github.com/OpenMined/PySyft/pull/3959,"['bug ', 'improvement ']",Update PyGrid URLs and cleanup Model-Centric notebooks a bit,2,True,2020-08-07 11:11:15,2020-08-07 18:50:27,2020-08-07 18:50:15
+https://github.com/OpenMined/PySyft/pull/3955,[],The `__repr__` on the `Network` class must return a `repr_str`,1,True,2020-08-06 16:05:06,2020-08-07 14:01:19,2020-08-07 12:38:09
+https://github.com/OpenMined/PySyft/pull/3951,[],Fix CrypTen tutorials,2,True,2020-08-05 22:29:05,2020-08-06 10:26:23,2020-08-06 10:26:23
+https://github.com/OpenMined/PySyft/pull/3945,[],quick fixes on types,1,True,2020-08-05 14:50:19,2020-08-05 15:06:10,2020-08-05 15:06:10
+https://github.com/OpenMined/PySyft/pull/3941,[],black src; black tests,1,True,2020-08-05 13:55:07,2020-08-05 13:55:32,2020-08-05 13:55:28
+https://github.com/OpenMined/PySyft/pull/3904,[],fix for copy,3,True,2020-07-27 23:39:34,2020-07-29 12:10:32,2020-07-29 12:10:31
+https://github.com/OpenMined/PySyft/pull/3894,[],Crypten Merge to Master,2,True,2020-07-23 12:30:12,2020-07-26 21:14:58,2020-07-26 21:14:53
+https://github.com/OpenMined/PySyft/pull/3860,[],test: Add RNN Plan example,4,True,2020-07-15 03:22:57,2020-07-24 19:07:28,2020-07-24 19:06:23
+https://github.com/OpenMined/PySyft/pull/3850,[],Fix wording in Part 2 notebook,1,True,2020-07-10 13:32:31,2020-07-10 13:39:52,2020-07-10 13:39:48
+https://github.com/OpenMined/PySyft/pull/3849,[],Fix wording in static FL Part 2 notebook,1,False,2020-07-10 13:27:29,2020-07-10 13:31:41,2020-07-10 13:31:36
+https://github.com/OpenMined/PySyft/pull/3843,[],New Fixes CrypTen branch,2,True,2020-07-09 16:27:32,2020-07-13 04:20:42,2020-07-13 04:20:42
+https://github.com/OpenMined/PySyft/pull/3830,[],Update install instructions in tutorial part 1,1,True,2020-07-07 17:22:16,2020-07-10 18:29:48,2020-07-10 18:29:47
+https://github.com/OpenMined/PySyft/pull/3823,[],updating the websocket client's timeout,5,False,2020-07-06 01:49:37,2020-07-10 23:51:10,2020-07-10 23:51:10
+https://github.com/OpenMined/PySyft/pull/3822,[],CrypTen Plan Inference ,2,True,2020-07-05 23:06:18,2020-07-08 18:50:00,2020-07-08 18:50:00
+https://github.com/OpenMined/PySyft/pull/3821,[],Quick Fix CrypTen Demo Jails,5,True,2020-07-05 20:01:23,2020-07-07 06:55:33,2020-07-07 06:55:33
+https://github.com/OpenMined/PySyft/pull/3817,[],Use OnnxModels for private inference,2,True,2020-07-04 20:04:20,2020-07-07 12:10:17,2020-07-07 12:10:17
+https://github.com/OpenMined/PySyft/pull/3807,['bug '],Fix issues in handle_func_command in syft tensors,3,True,2020-07-01 12:05:57,2020-07-14 08:47:59,2020-07-07 21:57:51
+https://github.com/OpenMined/PySyft/pull/3803,[],Add linter/bandit and tests stubs,1,True,2020-06-30 19:40:44,2020-07-06 20:48:43,2020-07-06 20:48:43
+https://github.com/OpenMined/PySyft/pull/3798,"['bug ', 'improvement ', 'status: review needed :raising_hand:']","Fix Plan trace for inplace ops, add Role actions pruning",1,True,2020-06-30 07:05:01,2020-07-05 12:41:33,2020-07-05 12:41:28
+https://github.com/OpenMined/PySyft/pull/3789,[],Fixed bug in set_model_params() in test_translation.py,1,True,2020-06-25 18:42:19,2020-06-29 21:23:59,2020-06-29 21:23:54
+https://github.com/OpenMined/PySyft/pull/3781,"['bug ', 'status: review needed :raising_hand:', 'severity: 2 - high :cold_sweat:']",Fixed bug in set_model_params() in Create Plan,1,True,2020-06-25 07:35:44,2020-06-25 11:18:16,2020-06-25 11:18:10
+https://github.com/OpenMined/PySyft/pull/3713,[],fixing threepio import bug,5,False,2020-06-16 19:16:14,2020-06-19 11:55:59,2020-06-19 11:55:59
+https://github.com/OpenMined/PySyft/pull/3705,"['bug ', 'priority: 2 - high :cold_sweat:']",Detecting duplicate worker IDs in crypten computation,1,True,2020-06-14 11:14:51,2020-06-14 12:37:54,2020-06-14 12:37:49
+https://github.com/OpenMined/PySyft/pull/3690,[],Update test_fv.py,1,True,2020-06-11 07:05:55,2020-06-11 08:53:37,2020-06-11 08:53:31
+https://github.com/OpenMined/PySyft/pull/3685,"['bug ', 'priority: 1 - immediate :fire:', 'severity: 1 - critical :fire:']",Removed `wrap()` on non-tensor pointers in `respond_to_search()`,1,True,2020-06-09 12:30:06,2020-06-14 19:02:43,2020-06-14 19:02:39
+https://github.com/OpenMined/PySyft/pull/3684,[],Update polynomial operations,1,True,2020-06-08 16:52:16,2020-06-09 05:37:12,2020-06-09 05:16:51
+https://github.com/OpenMined/PySyft/pull/3682,[],Add mean and var methods for AST,1,True,2020-06-07 21:24:53,2020-07-14 08:48:54,2020-06-10 15:17:07
+https://github.com/OpenMined/PySyft/pull/3680,[],Fix decorator issues for FSS in AST,1,True,2020-06-07 21:17:24,2020-07-14 08:49:17,2020-06-19 20:22:51
+https://github.com/OpenMined/PySyft/pull/3679,[],Fix dtype issues in AST,1,True,2020-06-07 21:14:01,2020-07-14 08:49:26,2020-06-18 15:35:32
+https://github.com/OpenMined/PySyft/pull/3678,[],Small dtype fix in securenn,1,False,2020-06-07 21:06:20,2020-09-15 07:05:07,2020-06-10 14:36:17
+https://github.com/OpenMined/PySyft/pull/3675,['bug '],Change `whitelist` to `allow_list`,1,True,2020-06-06 16:38:27,2020-06-07 18:55:41,2020-06-07 18:55:36
+https://github.com/OpenMined/PySyft/pull/3673,[],Plans wrapped frameworks fix,1,True,2020-06-05 21:19:25,2020-06-06 17:18:11,2020-06-06 17:18:11
+https://github.com/OpenMined/PySyft/pull/3664,"['bug ', 'priority: 1 - immediate :fire:', 'severity: 1 - critical :fire:']",Update AbstractSendable's send() method,3,False,2020-06-02 23:23:42,2020-06-03 17:13:44,2020-06-03 17:13:32
+https://github.com/OpenMined/PySyft/pull/3657,[],Update `syft-proto` to 0.4.7,1,True,2020-06-01 17:50:39,2020-06-01 18:50:52,2020-06-01 18:50:48
+https://github.com/OpenMined/PySyft/pull/3644,['bug '],"serde, torch: fix typo in numpy tensor serializer.",1,True,2020-05-30 18:14:17,2020-05-30 20:34:12,2020-05-30 19:11:42
+https://github.com/OpenMined/PySyft/pull/3621,[],Functional encryption She,1,False,2020-05-28 10:51:14,2020-05-28 10:53:01,2020-05-28 10:53:01
+https://github.com/OpenMined/PySyft/pull/3617,[],Support serialization of lists in Arg,1,True,2020-05-26 21:43:42,2020-05-29 00:34:46,2020-05-29 00:34:42
+https://github.com/OpenMined/PySyft/pull/3614,['bug '],Fix federated_avg side effect,2,True,2020-05-26 17:46:51,2020-05-27 13:32:46,2020-05-27 13:32:45
+https://github.com/OpenMined/PySyft/pull/3609,[],added connection speed,2,True,2020-05-26 10:37:35,2020-07-21 18:40:12,2020-06-09 08:11:15
+https://github.com/OpenMined/PySyft/pull/3606,[],requirements.txt updated with tornado compatible notebook version,1,True,2020-05-25 12:57:10,2020-05-28 17:11:32,2020-05-28 17:11:32
+https://github.com/OpenMined/PySyft/pull/3605,[],pip-dep/requirements.txt updated with required notebook version,4,False,2020-05-24 23:21:34,2020-05-25 12:57:41,2020-05-25 12:55:32
+https://github.com/OpenMined/PySyft/pull/3599,[],Remove protocol parameter in decrypt,1,True,2020-05-23 13:07:44,2020-05-28 15:41:18,2020-05-28 15:41:14
+https://github.com/OpenMined/PySyft/pull/3595,[],Implement msgpack serde for RoleAssignments,1,True,2020-05-22 12:34:22,2020-05-27 14:12:34,2020-05-27 14:12:30
+https://github.com/OpenMined/PySyft/pull/3593,[],Handle with grid unexpected errors properly,1,True,2020-05-22 06:41:15,2020-07-21 18:40:12,2020-05-22 14:00:29
+https://github.com/OpenMined/PySyft/pull/3591,[],Avoids multiple peers registration in the same grid environment.,1,True,2020-05-21 22:46:57,2020-07-21 18:40:12,2020-05-22 15:14:18
+https://github.com/OpenMined/PySyft/pull/3589,[],Print useful information on syft.grid.register(),1,True,2020-05-21 18:58:16,2020-07-21 18:40:12,2020-05-22 01:19:12
+https://github.com/OpenMined/PySyft/pull/3567,[],FL MNIST example with autograd tracing,2,True,2020-05-20 21:46:21,2020-05-24 20:20:24,2020-05-24 20:20:20
+https://github.com/OpenMined/PySyft/pull/3565,[],Full Demo: Training an Encrypted Neural Network across Workers using Crypten (with jails),4,True,2020-05-20 21:19:54,2020-06-04 08:41:48,2020-06-04 08:41:42
+https://github.com/OpenMined/PySyft/pull/3563,[],Solve webrtc notebook async calls,1,True,2020-05-20 17:26:26,2020-05-20 22:32:34,2020-05-20 22:32:34
+https://github.com/OpenMined/PySyft/pull/3560,[],Fix webrtc submodule path issues,1,True,2020-05-20 14:14:57,2020-05-20 15:15:24,2020-05-20 15:15:24
+https://github.com/OpenMined/PySyft/pull/3525,"['bug ', 'priority: 2 - high :cold_sweat:']",Fix stray objects from FSS `Worker/Plan` initialization,5,True,2020-05-13 21:58:36,2020-05-14 16:03:08,2020-05-14 16:03:08
+https://github.com/OpenMined/PySyft/pull/3511,['bug '],Add a missing `NodeClient` import to `AbstractGrid`,1,True,2020-05-12 14:55:54,2020-05-12 15:55:39,2020-05-12 15:55:38
+https://github.com/OpenMined/PySyft/pull/3506,[],Updated PR Template,1,True,2020-05-12 05:07:28,2020-05-12 19:07:28,2020-05-12 18:44:48
+https://github.com/OpenMined/PySyft/pull/3500,[],Update Part 13c - Secure Classification with Syft Keras and TFE - Pri…,1,True,2020-05-11 02:59:47,2020-06-01 11:26:45,2020-05-11 14:35:44
+https://github.com/OpenMined/PySyft/pull/3483,[],Added support for notebooks in Autoscale,2,True,2020-05-09 17:16:06,2020-05-16 17:09:40,2020-05-16 17:09:39
+https://github.com/OpenMined/PySyft/pull/3482,['bug '],Fix bug in get() of nn.Module ,3,False,2020-05-09 15:55:10,2020-05-10 05:30:43,2020-05-10 05:30:43
+https://github.com/OpenMined/PySyft/pull/3479,"['bug ', 'status: stale :bread:']",[WIP] Fix Identity Operations,3,False,2020-05-09 08:24:43,2020-07-06 00:08:30,2020-07-06 00:08:30
+https://github.com/OpenMined/PySyft/pull/3473,"['bug ', 'testing ']",Store the message log in `BaseWorker` in an unserialized format,1,True,2020-05-08 15:08:00,2020-05-10 17:04:56,2020-05-08 16:33:58
+https://github.com/OpenMined/PySyft/pull/3466,[],Update Part 13b - Secure Classification with Syft Keras and TFE - Sec…,1,True,2020-05-08 05:10:45,2020-06-01 11:26:45,2020-05-08 12:33:01
+https://github.com/OpenMined/PySyft/pull/3462,[],Add a check for docstring coverage to the Github Action tests,1,True,2020-05-07 15:29:39,2020-05-10 17:04:48,2020-05-07 15:59:13
+https://github.com/OpenMined/PySyft/pull/3454,[],Add async send_command to websocket client,2,True,2020-05-06 08:43:33,2020-05-08 20:49:40,2020-05-08 20:49:39
+https://github.com/OpenMined/PySyft/pull/3452,[],Send models with @run_multiworkers,1,True,2020-05-05 19:01:27,2020-05-09 10:39:35,2020-05-09 10:39:34
+https://github.com/OpenMined/PySyft/pull/3451,[],Bump version to `v0.2.5`,1,True,2020-05-05 18:06:00,2020-05-06 05:47:02,2020-05-05 18:35:44
+https://github.com/OpenMined/PySyft/pull/3449,[],Update Part 13a - Secure Classification with Syft Keras and TFE - Pub…,1,True,2020-05-05 05:01:50,2020-06-01 11:26:45,2020-05-08 12:32:00
+https://github.com/OpenMined/PySyft/pull/3445,[],Update Part 12 - Train an Encrypted Neural Network on Encrypted Data.…,1,True,2020-05-04 05:37:35,2020-06-01 11:26:45,2020-05-08 12:30:25
+https://github.com/OpenMined/PySyft/pull/3444,[],Update Part 11 - Secure Deep Learning Classification.ipynb,3,True,2020-05-03 23:17:17,2020-06-01 11:26:45,2020-05-30 01:24:42
+https://github.com/OpenMined/PySyft/pull/3442,['bug '],Fix `move` PT to its own location,1,True,2020-05-03 16:01:05,2020-05-12 14:51:11,2020-05-12 14:51:11
+https://github.com/OpenMined/PySyft/pull/3428,[],Fix double tracing bug,1,True,2020-04-30 07:50:30,2020-04-30 13:12:01,2020-04-30 13:12:00
+https://github.com/OpenMined/PySyft/pull/3427,"['bug ', 'testing ']",Increase sigmoid exp tol,1,True,2020-04-30 05:21:58,2020-04-30 11:29:04,2020-04-30 11:29:04
+https://github.com/OpenMined/PySyft/pull/3422,[],Fix plans,1,True,2020-04-29 11:30:30,2020-05-03 12:31:01,2020-05-03 12:31:00
+https://github.com/OpenMined/PySyft/pull/3418,[],Remove unused method .value(),1,True,2020-04-28 19:27:54,2020-04-28 19:56:53,2020-04-28 19:56:53
+https://github.com/OpenMined/PySyft/pull/3415,[],Modify Bengali translated notebooks,7,True,2020-04-28 17:09:30,2020-06-01 11:26:45,2020-05-08 04:58:25
+https://github.com/OpenMined/PySyft/pull/3411,[],Utility functions to convert pytroch model to onnx and load them back to crypten,1,True,2020-04-26 17:21:43,2020-05-03 13:03:26,2020-05-03 13:03:25
+https://github.com/OpenMined/PySyft/pull/3406,[],Crypten hook logic shifted to hook_crypten.py,3,True,2020-04-25 18:51:40,2020-05-13 05:15:30,2020-05-13 05:15:29
+https://github.com/OpenMined/PySyft/pull/3405,[],Auto-register Plan Torchscript translator,3,True,2020-04-25 02:26:54,2020-04-26 17:44:05,2020-04-26 17:44:04
+https://github.com/OpenMined/PySyft/pull/3403,"['bug ', 'priority: 2 - high :cold_sweat:']","Garbage Collection in `execute_computation_action`, Fix Inplace-Operation Identification",2,True,2020-04-24 17:18:22,2020-04-28 15:09:39,2020-04-28 15:09:39
+https://github.com/OpenMined/PySyft/pull/3399,[],Avg & Maxpooling with SMPC,3,True,2020-04-23 22:07:04,2020-04-26 20:12:19,2020-04-26 20:12:19
+https://github.com/OpenMined/PySyft/pull/3396,[],Fix bug with AST.dtype serde,1,True,2020-04-23 16:44:54,2020-04-23 17:57:08,2020-04-23 17:40:39
+https://github.com/OpenMined/PySyft/pull/3393,[],Test placeholder forward,4,False,2020-04-23 08:52:33,2020-06-04 09:49:51,2020-06-04 09:49:50
+https://github.com/OpenMined/PySyft/pull/3392,[],"Drop `custom` support in SecureNN, Flexibility over dtype in ASTs",5,True,2020-04-23 08:24:26,2020-05-03 15:28:36,2020-05-03 15:28:36
+https://github.com/OpenMined/PySyft/pull/3386,[],Adding a Protobuf/Msgpack Serializable Interface,1,True,2020-04-21 20:33:43,2020-05-11 19:44:29,2020-05-11 19:44:29
+https://github.com/OpenMined/PySyft/pull/3384,['bug '],[WIP] Add `Size` method to `TorchTensor` (native),1,False,2020-04-21 17:46:28,2020-05-05 13:21:56,2020-05-05 13:21:25
+https://github.com/OpenMined/PySyft/pull/3383,"['bug ', 'new feature ']",Fix `Plan` tracing that involves `backward()`/autograd,5,True,2020-04-21 15:08:38,2020-05-05 10:27:00,2020-05-05 10:26:59
+https://github.com/OpenMined/PySyft/pull/3380,[],Add Syft version checking,1,True,2020-04-20 15:10:55,2020-04-21 15:00:30,2020-04-21 15:00:30
+https://github.com/OpenMined/PySyft/pull/3377,[],Add Crypten changes to master,2,True,2020-04-20 12:39:43,2020-04-24 12:36:19,2020-04-24 12:36:19
+https://github.com/OpenMined/PySyft/pull/3376,[],Rework `PlanTranslatorTorchscript` so it doesn't strip `Parameters`,2,True,2020-04-19 18:20:42,2020-04-19 19:31:10,2020-04-19 19:31:10
+https://github.com/OpenMined/PySyft/pull/3375,[],Rework `PlanTranslatorTorchscript` so it doesn't strip `Parameters`,4,False,2020-04-19 17:01:57,2020-04-19 18:35:59,2020-04-19 18:35:59
+https://github.com/OpenMined/PySyft/pull/3374,[],Hooking crypten.nn.Module,1,True,2020-04-19 08:33:25,2020-04-22 15:01:08,2020-04-22 14:54:08
+https://github.com/OpenMined/PySyft/pull/3373,[],"Revert ""Translate Plan to torchscript""(#3361) and ""Handle torchscript arg""(#3360)",5,False,2020-04-18 15:50:54,2020-04-19 17:18:50,2020-04-19 17:18:50
+https://github.com/OpenMined/PySyft/pull/3372,"['bug ', 'testing ']",Skip the privacy attack notebooks during notebook tests,2,True,2020-04-17 15:31:52,2020-04-17 16:18:38,2020-04-17 16:18:38
+https://github.com/OpenMined/PySyft/pull/3370,['bug '],Don't assume `self` is in `known_workers` in `BaseWorker.serializer`,3,True,2020-04-17 14:46:59,2020-04-17 16:20:02,2020-04-17 16:20:02
+https://github.com/OpenMined/PySyft/pull/3366,['bug '],Restrict `pytest-randomly` version to avoid `3.3.0`,3,True,2020-04-15 15:00:26,2020-04-15 16:45:02,2020-04-15 16:45:02
+https://github.com/OpenMined/PySyft/pull/3364,[],Add method to add/remove operations from base worker,4,True,2020-04-15 13:05:40,2020-05-13 16:59:16,2020-05-13 16:59:16
+https://github.com/OpenMined/PySyft/pull/3358,[],Adjust comparison thresholds in `test_instantiate_tfe_layer`,1,True,2020-04-14 17:47:21,2020-04-14 18:09:21,2020-04-14 18:09:21
+https://github.com/OpenMined/PySyft/pull/3357,"['bug ', 'testing ']","Revert ""Translate Plan to torchscript on build time""",3,True,2020-04-14 15:55:27,2020-04-14 16:18:38,2020-04-14 16:18:27
+https://github.com/OpenMined/PySyft/pull/3356,"['bug ', 'testing ']",Fix flakiness in `test_local_remote_gradient_clipping`,1,True,2020-04-14 15:27:29,2020-04-14 17:32:10,2020-04-14 17:32:10
+https://github.com/OpenMined/PySyft/pull/3351,[],Changed costumer to customer,1,True,2020-04-14 00:55:51,2020-04-14 14:37:21,2020-04-14 14:37:21
+https://github.com/OpenMined/PySyft/pull/3346,[],Fix missing `device` param in `test_federated_client.py::test_fit`,1,True,2020-04-12 16:25:26,2020-04-12 17:05:46,2020-04-12 17:05:46
+https://github.com/OpenMined/PySyft/pull/3343,['bug '],Fix Memory Leak in AST Operations,2,True,2020-04-12 13:37:35,2020-04-20 11:47:33,2020-04-19 19:54:42
+https://github.com/OpenMined/PySyft/pull/3342,[],Fix Part 3 - Grid applied to Smart Cities and Smart Homes,1,True,2020-04-11 20:30:42,2020-04-20 01:08:14,2020-04-20 01:08:13
+https://github.com/OpenMined/PySyft/pull/3334,[],Whitelist `serde` from Random-Order Testing,1,False,2020-04-10 08:55:42,2020-04-10 13:05:09,2020-04-10 13:05:09
+https://github.com/OpenMined/PySyft/pull/3327,"['bug ', 'testing ']",Gradient clipping - add tolerance,2,True,2020-04-08 14:42:20,2020-04-17 16:02:57,2020-04-17 16:02:57
+https://github.com/OpenMined/PySyft/pull/3322,[],Remove unnecessary name off tutorials,1,True,2020-04-07 22:36:14,2020-04-17 16:12:22,2020-04-17 16:12:22
+https://github.com/OpenMined/PySyft/pull/3288,[],Target correct notebook version,1,True,2020-04-01 17:15:35,2020-04-01 17:58:29,2020-04-01 17:58:29
+https://github.com/OpenMined/PySyft/pull/3286,[],"Fix Circular import of RNNs, Correct Overloading",2,True,2020-04-01 16:21:04,2020-04-17 16:07:38,2020-04-17 16:07:38
+https://github.com/OpenMined/PySyft/pull/3285,[],Fix list tensor index,3,True,2020-03-31 22:53:09,2020-04-15 14:35:51,2020-04-15 14:35:51
+https://github.com/OpenMined/PySyft/pull/3284,[],Generalize `Role` to any type of `Action` (computation or communication),1,True,2020-03-31 21:29:33,2020-04-01 19:18:39,2020-04-01 19:18:39
+https://github.com/OpenMined/PySyft/pull/3276,[],FV homomorphic encryption scheme,5,True,2020-03-30 14:27:38,2020-08-25 06:51:51,2020-05-29 19:44:26
+https://github.com/OpenMined/PySyft/pull/3271,[],Remove implicit inplace fix_precision for PointerTensor,2,True,2020-03-29 14:41:59,2020-03-31 19:44:14,2020-03-31 19:44:14
+https://github.com/OpenMined/PySyft/pull/3269,[],Fix overloading for torch.nn and Functional modules,1,True,2020-03-29 03:44:31,2020-04-01 05:00:53,2020-03-31 19:49:17
+https://github.com/OpenMined/PySyft/pull/3266,['bug '],Send Dataset_pointer,2,True,2020-03-28 14:43:54,2020-04-09 17:13:11,2020-04-09 17:13:11
+https://github.com/OpenMined/PySyft/pull/3265,[],Merging tests run_websocket_server.py file ,5,True,2020-03-28 07:56:48,2020-04-04 19:42:47,2020-04-04 19:42:46
+https://github.com/OpenMined/PySyft/pull/3258,[],Model inversion attack tutorial,3,True,2020-03-26 18:58:56,2020-03-30 19:47:06,2020-03-30 19:47:06
+https://github.com/OpenMined/PySyft/pull/3256,[],Fix the placeholder serialization.,2,True,2020-03-26 14:57:58,2020-03-27 13:17:38,2020-03-27 13:17:25
+https://github.com/OpenMined/PySyft/pull/3254,[],Init Crypten Plan + Rebased,3,True,2020-03-26 00:12:36,2020-04-13 21:42:15,2020-04-13 21:42:15
+https://github.com/OpenMined/PySyft/pull/3241,['bug '],Fix relative imports in example notebooks,2,True,2020-03-22 16:34:52,2020-03-22 20:17:15,2020-03-22 20:17:14
+https://github.com/OpenMined/PySyft/pull/3234,[],Add a `protocol` kwarg to `encrypt()` method to select between MPC and Paillier HE,2,True,2020-03-21 14:28:45,2020-04-01 05:11:04,2020-03-30 11:37:24
+https://github.com/OpenMined/PySyft/pull/3221,[],included websockets-example-MNIST-parallel again,1,False,2020-03-18 21:24:37,2020-03-18 21:52:26,2020-03-18 21:52:26
+https://github.com/OpenMined/PySyft/pull/3205,[],Sigmoid aprox with tanh + fix sigmoid,1,True,2020-03-16 22:45:25,2020-03-22 13:49:23,2020-03-22 13:49:23
+https://github.com/OpenMined/PySyft/pull/3199,[],Improve Plans flexibility,1,True,2020-03-15 17:29:16,2020-03-16 12:39:20,2020-03-16 12:39:20
+https://github.com/OpenMined/PySyft/pull/3196,[],Websocket worker start Error,1,True,2020-03-15 09:04:03,2020-03-17 15:47:45,2020-03-15 11:31:48
+https://github.com/OpenMined/PySyft/pull/3190,['bug '],Removing grad tensors creation if tensor does not require grad.,2,False,2020-03-13 15:14:37,2020-03-15 22:20:21,2020-03-15 22:20:21
+https://github.com/OpenMined/PySyft/pull/3185,[],FL Training Plan fix & PyGrid hosting example,1,True,2020-03-12 18:43:17,2020-03-13 09:17:39,2020-03-13 09:17:38
+https://github.com/OpenMined/PySyft/pull/3165,[],Plans for CrypTen,2,False,2020-03-09 09:12:03,2020-03-27 00:42:46,2020-03-27 00:42:46
+https://github.com/OpenMined/PySyft/pull/3162,[],README.md update: specify python=3.7,2,True,2020-03-08 20:25:43,2020-03-17 23:15:12,2020-03-09 12:40:20
+https://github.com/OpenMined/PySyft/pull/3148,[],Modified securenn to work with >3 parties,15,True,2020-03-06 12:50:32,2020-05-06 10:22:37,2020-05-05 12:42:18
+https://github.com/OpenMined/PySyft/pull/3144,[],Added german language translated tutorial notebooks for 1-10 parts,3,False,2020-03-05 21:01:03,2020-03-11 12:48:14,2020-03-11 12:48:14
+https://github.com/OpenMined/PySyft/pull/3142,[],Training models in PySyft using CrypTen,1,False,2020-03-05 18:15:46,2020-04-05 09:48:03,2020-04-05 09:48:02
+https://github.com/OpenMined/PySyft/pull/3130,[],Add documentation,1,True,2020-03-02 09:32:32,2020-03-11 13:48:42,2020-03-06 14:18:46
+https://github.com/OpenMined/PySyft/pull/3120,[],Add and refine document,3,True,2020-02-28 22:37:42,2020-03-02 10:41:16,2020-03-02 10:41:16
+https://github.com/OpenMined/PySyft/pull/3115,[],Fix failing tests on master,1,True,2020-02-27 19:03:44,2020-02-27 19:22:22,2020-02-27 19:22:22
+https://github.com/OpenMined/PySyft/pull/3103,[],Update Part 10 - Federated Learning with Secure Aggregation.ipynb,2,True,2020-02-26 10:16:54,2020-02-28 18:42:03,2020-02-26 16:30:03
+https://github.com/OpenMined/PySyft/pull/3076,[],[WIP] Crypten POC for plans,1,False,2020-02-20 11:53:32,2020-04-02 14:54:08,2020-04-02 14:54:08
+https://github.com/OpenMined/PySyft/pull/3074,[],Syft load based ONLY on rank,3,False,2020-02-20 00:56:56,2020-03-19 10:36:19,2020-03-12 09:30:03
+https://github.com/OpenMined/PySyft/pull/3067,[],Remove decode instruction from tags/description,2,True,2020-02-19 08:51:26,2020-02-19 15:50:26,2020-02-19 15:50:25
+https://github.com/OpenMined/PySyft/pull/3057,[],Function Secret Sharing,6,True,2020-02-16 16:27:27,2020-05-01 12:07:42,2020-05-01 12:07:40
+https://github.com/OpenMined/PySyft/pull/3048,[],Fix broken asynchronous federated learning tutorial,1,True,2020-02-11 13:15:55,2020-03-11 11:45:57,2020-03-11 11:45:56
+https://github.com/OpenMined/PySyft/pull/3037,[],Fix potential medium/high severity security holes,4,True,2020-02-09 05:29:54,2020-02-18 00:52:30,2020-02-18 00:52:30
+https://github.com/OpenMined/PySyft/pull/3024,[],[Minor fix] badge for notebooks test at README is broken,1,False,2020-02-07 20:32:17,2020-02-07 21:32:28,2020-02-07 21:10:43
+https://github.com/OpenMined/PySyft/pull/3022,[],Tutorial Notebook 10 note on numpy hook,1,True,2020-02-07 19:03:45,2020-02-18 14:24:01,2020-02-18 14:24:00
+https://github.com/OpenMined/PySyft/pull/3021,[],Remove a stray line break to fix notebook test badge,1,False,2020-02-07 15:28:02,2020-02-09 15:02:54,2020-02-09 15:02:53
+https://github.com/OpenMined/PySyft/pull/3020,[],Translate PySyft Tutorials to Portuguese,2,True,2020-02-06 15:59:34,2020-02-10 20:32:28,2020-02-10 20:32:28
+https://github.com/OpenMined/PySyft/pull/3013,[],Remove travis,2,True,2020-02-05 03:18:35,2020-02-07 15:26:12,2020-02-07 15:26:12
+https://github.com/OpenMined/PySyft/pull/3004,[],Add tanh Chebyshev approx,1,True,2020-02-03 20:59:50,2020-02-26 16:36:38,2020-02-26 16:36:38
+https://github.com/OpenMined/PySyft/pull/2982,[],Increase field to 2**64,12,True,2020-01-30 22:37:23,2020-06-01 11:26:44,2020-04-20 17:19:47
+https://github.com/OpenMined/PySyft/pull/2963,[],Context of computation for crypten,2,True,2020-01-25 10:32:39,2020-02-05 11:04:17,2020-01-31 17:14:28
+https://github.com/OpenMined/PySyft/pull/2959,[],WIP: interim commit for feedback,4,False,2020-01-24 02:59:32,2020-02-09 15:11:28,2020-02-09 15:11:28
+https://github.com/OpenMined/PySyft/pull/2940,[],fix 3 bugs in the tutorial Part06-07,2,False,2020-01-21 15:38:24,2020-02-01 02:34:07,2020-02-01 02:34:07
+https://github.com/OpenMined/PySyft/pull/2936,[],Migrate CI tests to Github Actions,7,True,2020-01-20 17:15:47,2020-01-23 16:35:24,2020-01-23 16:35:23
+https://github.com/OpenMined/PySyft/pull/2922,"['bug ', 'documentation ']",Update hook.py,3,True,2020-01-18 01:29:19,2020-01-18 18:00:36,2020-01-18 18:00:19
+https://github.com/OpenMined/PySyft/pull/2919,[],Split notebook tests into separate tests per notebook,1,True,2020-01-17 19:11:24,2020-01-19 22:10:49,2020-01-19 22:10:48
+https://github.com/OpenMined/PySyft/pull/2918,[],Split tutorial notebook translation test into separate tests per lang,1,True,2020-01-17 18:02:27,2020-01-17 18:46:58,2020-01-17 18:46:57
+https://github.com/OpenMined/PySyft/pull/2909,[],"Hindi translations for Part 5, 6, 13b and 13c",8,True,2020-01-14 19:30:10,2020-02-07 16:03:10,2020-02-07 16:03:10
+https://github.com/OpenMined/PySyft/pull/2902,[],"Hindi Translation part 11,12 and 12-bis",1,True,2020-01-13 14:58:26,2020-01-19 16:20:41,2020-01-17 14:50:36
+https://github.com/OpenMined/PySyft/pull/2899,[],Translation to Indonesian Tutorial - Part 01,1,True,2020-01-12 09:09:22,2020-01-17 14:50:54,2020-01-17 14:50:54
+https://github.com/OpenMined/PySyft/pull/2891,[],Update Part 11 - Secure Deep Learning Classification.ipynb,1,True,2020-01-09 13:01:21,2020-01-11 14:41:01,2020-01-11 14:41:01
+https://github.com/OpenMined/PySyft/pull/2890,[],Add tutorial 2 romanian,1,True,2020-01-09 11:56:45,2020-01-14 09:32:47,2020-01-14 09:32:47
+https://github.com/OpenMined/PySyft/pull/2880,[],Add useful error message for failing notebook,3,False,2020-01-03 03:45:13,2020-01-17 19:31:17,2020-01-17 19:31:17
+https://github.com/OpenMined/PySyft/pull/2875,[],Add sk-learn to notebook docker image,2,True,2019-12-31 16:35:13,2020-01-07 17:03:42,2020-01-07 17:03:42
+https://github.com/OpenMined/PySyft/pull/2871,[],Make grad_fn serializable,13,True,2019-12-30 13:46:17,2020-01-13 05:30:51,2020-01-12 18:25:50
+https://github.com/OpenMined/PySyft/pull/2868,['bug '],fix: targets in makefile were faulty,1,True,2019-12-29 08:36:42,2020-01-16 00:47:48,2020-01-16 00:47:48
+https://github.com/OpenMined/PySyft/pull/2867,[],Update Part 08 - Introduction to Plans.ipynb,1,True,2019-12-28 04:29:15,2019-12-30 10:36:49,2019-12-30 10:36:49
+https://github.com/OpenMined/PySyft/pull/2857,[],Update Pytorch version in installation/readme docs,1,True,2019-12-25 23:01:54,2019-12-27 17:59:09,2019-12-27 17:59:08
+https://github.com/OpenMined/PySyft/pull/2856,[],Added `String` type to `msgpack/serde.py` to allow serialization,1,True,2019-12-25 12:36:44,2019-12-30 18:56:01,2019-12-30 18:56:01
+https://github.com/OpenMined/PySyft/pull/2849,[],Cleanup Protocol,1,True,2019-12-20 22:45:09,2019-12-20 23:22:44,2019-12-20 23:22:40
+https://github.com/OpenMined/PySyft/pull/2838,[],fix: fix problem with notebooks tests due to outdated library,1,False,2019-12-18 14:37:28,2020-01-17 19:13:47,2019-12-19 00:07:44
+https://github.com/OpenMined/PySyft/pull/2827,[],fix: fix test_fl_sms on test_notebooks.py,3,True,2019-12-16 21:50:50,2020-01-17 19:14:02,2019-12-21 00:05:08
+https://github.com/OpenMined/PySyft/pull/2814,[],fix: Translation issues in hindi notebook 1 in example,1,True,2019-12-11 17:54:02,2019-12-12 15:20:59,2019-12-12 14:36:18
+https://github.com/OpenMined/PySyft/pull/2807,[],Fixed installation command in Windows,1,True,2019-12-10 09:42:40,2019-12-13 21:46:34,2019-12-13 21:46:34
+https://github.com/OpenMined/PySyft/pull/2803,[],Add prototype of parameters() for pointer plans,3,True,2019-12-10 00:04:50,2019-12-27 14:19:45,2019-12-27 14:19:44
+https://github.com/OpenMined/PySyft/pull/2791,[],Deactivate plans in plans,1,True,2019-12-07 13:43:45,2019-12-27 15:37:40,2019-12-27 15:37:40
+https://github.com/OpenMined/PySyft/pull/2790,[],Fixed Docstring inconsistencies,3,False,2019-12-06 18:20:34,2019-12-20 15:10:36,2019-12-20 15:10:36
+https://github.com/OpenMined/PySyft/pull/2787,[],feat: Added the Part 01 Tutorial in Hindi,4,True,2019-12-06 02:45:54,2019-12-11 17:30:15,2019-12-08 17:21:32
+https://github.com/OpenMined/PySyft/pull/2762,[],Complete serde unit tests,6,True,2019-11-30 20:40:48,2019-12-08 17:17:48,2019-12-08 17:17:48
+https://github.com/OpenMined/PySyft/pull/2757,[],Issue regarding library path and tests,1,True,2019-11-25 23:20:09,2019-12-09 20:24:56,2019-12-09 20:24:56
+https://github.com/OpenMined/PySyft/pull/2756,[],Fix some problem regarding to {RuntimeError} (please see PR details},1,False,2019-11-25 13:37:06,2019-11-25 13:43:13,2019-11-25 13:43:13
+https://github.com/OpenMined/PySyft/pull/2755,[],[MRG] Notebook test,16,True,2019-11-24 17:01:41,2019-12-09 22:47:24,2019-12-07 19:20:24
+https://github.com/OpenMined/PySyft/pull/2749,[],Fix import in worker Docker image,1,True,2019-11-20 18:08:24,2019-11-20 18:43:24,2019-11-20 18:43:23
+https://github.com/OpenMined/PySyft/pull/2746,[],Fixed SMPC tutorial link,1,True,2019-11-19 08:18:42,2019-11-19 14:45:21,2019-11-19 14:45:21
+https://github.com/OpenMined/PySyft/pull/2741,[],"Create tensor directly on worker - zeros, tensor, rand, randn",4,True,2019-11-17 02:04:48,2019-11-20 14:40:51,2019-11-20 14:40:51
+https://github.com/OpenMined/PySyft/pull/2733,[],Fix test_websocket_worker_multiple_output_response unit test,4,True,2019-11-14 00:22:36,2019-11-14 10:51:02,2019-11-14 10:50:35
+https://github.com/OpenMined/PySyft/pull/2722,['bug '],Changed handle_command_function to use @overloaded.module for syft tensors,4,False,2019-11-07 15:21:07,2020-01-26 12:23:16,2020-01-26 12:23:16
+https://github.com/OpenMined/PySyft/pull/2713,[],Making changes to avoid errors on avgpool layer,4,True,2019-10-30 12:54:45,2019-12-20 15:23:36,2019-12-20 15:23:07
+https://github.com/OpenMined/PySyft/pull/2709,[],Private Tensors,3,True,2019-10-28 17:15:31,2019-12-04 15:29:17,2019-12-04 15:29:16
+https://github.com/OpenMined/PySyft/pull/2698,[],Added missing WebsocketClientWorker.ipynb ,1,True,2019-10-24 18:12:18,2019-11-20 14:50:44,2019-11-20 14:50:44
+https://github.com/OpenMined/PySyft/pull/2692,[],Add python context to base worker,3,True,2019-10-22 17:52:59,2019-10-29 15:23:16,2019-10-29 15:23:16
+https://github.com/OpenMined/PySyft/pull/2691,[],Fix errors / warnings with test of encrypted linear regression,3,True,2019-10-22 16:57:52,2019-10-22 17:41:14,2019-10-22 17:10:40
+https://github.com/OpenMined/PySyft/pull/2690,[],WIP: enable cuda processing in PySyft,1,False,2019-10-22 15:41:11,2019-11-15 11:51:52,2019-11-15 11:51:52
+https://github.com/OpenMined/PySyft/pull/2684,[],Added `String` and `StringPointer` types,16,True,2019-10-19 17:58:53,2019-12-24 16:27:58,2019-12-24 16:27:57
+https://github.com/OpenMined/PySyft/pull/2659,[],Add support for exp and log (with approx) on additive shared tensors,3,True,2019-10-11 16:55:00,2019-12-27 17:57:12,2019-12-27 17:57:11
+https://github.com/OpenMined/PySyft/pull/2657,[],Fixed tutorial on Encrypted LR after changes in worker.search(),1,True,2019-10-11 13:48:42,2019-10-14 05:39:18,2019-10-14 05:39:18
+https://github.com/OpenMined/PySyft/pull/2652,[],"Fix tutorial part 6, to fix issue #1893",3,True,2019-10-09 05:53:29,2019-10-28 09:24:09,2019-10-28 09:24:08
+https://github.com/OpenMined/PySyft/pull/2648,[],Fix tutorial part 7,1,True,2019-10-08 15:21:55,2019-10-09 07:44:28,2019-10-09 07:44:27
+https://github.com/OpenMined/PySyft/pull/2639,[],Currently virtualworker search requires a list,1,True,2019-10-03 11:40:40,2019-10-03 12:03:51,2019-10-03 12:03:50
+https://github.com/OpenMined/PySyft/pull/2636,[],Make installation friendlier for alt framework users,1,True,2019-10-01 16:50:05,2019-10-24 04:56:09,2019-10-24 04:56:09
+https://github.com/OpenMined/PySyft/pull/2630,[],Added tutorial for encrypted linear regression and fixed some errors in the LR implementation,2,True,2019-09-26 15:17:11,2019-10-03 11:24:12,2019-10-03 11:24:12
+https://github.com/OpenMined/PySyft/pull/2614,[],[WIP] Fix nested structure in Serde output,5,False,2019-09-11 17:26:18,2019-11-20 15:05:07,2019-11-20 15:05:06
+https://github.com/OpenMined/PySyft/pull/2613,[],Improvements to the Federated Recurrent Neural Network notebook,1,True,2019-09-11 08:18:53,2019-09-12 13:11:10,2019-09-12 13:11:09
+https://github.com/OpenMined/PySyft/pull/2611,[],"TypeError with storage=""large""",1,False,2019-09-11 06:18:19,2019-09-11 06:21:02,2019-09-11 06:19:09
+https://github.com/OpenMined/PySyft/pull/2610,[],Continue the work on Promises and PromiseTensors,2,True,2019-09-10 22:54:18,2019-12-03 16:05:27,2019-12-03 16:05:27
+https://github.com/OpenMined/PySyft/pull/2593,[],Version,3,False,2019-09-06 05:34:59,2019-11-20 15:07:24,2019-11-20 15:07:23
+https://github.com/OpenMined/PySyft/pull/2591,[],Generalize and improve hook_args.py implementation,4,True,2019-09-05 23:12:58,2019-09-09 11:16:40,2019-09-09 11:16:39
+https://github.com/OpenMined/PySyft/pull/2584,[],Pulling out generic frameworks logic into syft/generic,1,True,2019-09-03 19:24:31,2019-09-04 15:13:34,2019-09-04 15:13:33
+https://github.com/OpenMined/PySyft/pull/2578,[],Partial fix for #2573,2,True,2019-08-30 10:50:16,2019-11-20 15:09:40,2019-11-20 15:09:14
+https://github.com/OpenMined/PySyft/pull/2575,[],Fixed performance issue due to mul_and_div,1,True,2019-08-29 09:33:34,2019-09-03 11:35:41,2019-09-03 11:35:40
+https://github.com/OpenMined/PySyft/pull/2545,[],Fixing RNN tests,1,True,2019-08-22 15:08:14,2019-08-24 15:08:24,2019-08-22 18:27:28
+https://github.com/OpenMined/PySyft/pull/2543,[],fix: spdz_mul fails when values are shared between more than 2 workers,6,True,2019-08-22 12:26:33,2019-11-20 15:27:18,2019-11-20 15:16:39
+https://github.com/OpenMined/PySyft/pull/2526,[],Modified Gradient Clipping to work with real remote/local model parameters,5,True,2019-08-18 10:52:16,2019-08-26 15:09:23,2019-08-26 15:09:22
+https://github.com/OpenMined/PySyft/pull/2502,[],Modularizing frameworks,1,True,2019-08-13 20:03:01,2019-08-19 19:49:38,2019-08-19 19:49:37
+https://github.com/OpenMined/PySyft/pull/2497,[],Add error message when passing internal_type if not needed,1,True,2019-08-12 22:18:21,2019-08-21 12:49:36,2019-08-21 12:49:36
+https://github.com/OpenMined/PySyft/pull/2492,[],Remote Gradient Clipping for PySyft Tensors,2,True,2019-08-10 07:20:52,2019-08-16 16:29:15,2019-08-16 16:29:15
+https://github.com/OpenMined/PySyft/pull/2491,[],Fix build issues by downgrading torch,1,True,2019-08-10 00:16:43,2019-08-16 12:48:03,2019-08-12 09:16:54
+https://github.com/OpenMined/PySyft/pull/2479,[],fix test_loader to load train data instead of test,2,True,2019-08-09 01:58:32,2019-08-12 10:06:35,2019-08-12 10:06:35
+https://github.com/OpenMined/PySyft/pull/2445,[],Add disable_garbage_collection  flags to native.py  ,2,True,2019-08-06 20:47:24,2019-08-12 20:11:40,2019-08-12 20:11:40
+https://github.com/OpenMined/PySyft/pull/2443,[],Add support for float_prec() on pointer tensors,4,True,2019-08-06 16:52:32,2019-09-10 08:14:01,2019-09-10 08:14:01
+https://github.com/OpenMined/PySyft/pull/2441,[],Docker image for the WebsocketServerWorker,8,True,2019-08-03 20:15:44,2019-11-20 18:15:15,2019-11-20 17:22:39
+https://github.com/OpenMined/PySyft/pull/2439,[],Move serde type constants to a separate file,21,True,2019-08-03 05:12:50,2019-11-12 21:08:51,2019-11-12 21:08:51
+https://github.com/OpenMined/PySyft/pull/2437,[],explicitly call get_obj() from BaseWorker,2,True,2019-08-02 13:37:31,2019-08-12 09:56:14,2019-08-12 09:56:14
+https://github.com/OpenMined/PySyft/pull/2436,[],Created an actual Message type and moved Plan out of federated,1,True,2019-08-02 12:38:10,2019-08-02 14:15:58,2019-08-02 14:15:58
+https://github.com/OpenMined/PySyft/pull/2434,[],fix private tensor disclosure via execute_command,7,True,2019-08-02 08:32:47,2019-08-02 12:05:44,2019-08-02 09:06:25
+https://github.com/OpenMined/PySyft/pull/2431,[],Make the local worker aware of itself on TorchHook creation.,3,True,2019-08-01 20:09:54,2019-08-02 07:43:09,2019-08-02 07:43:09
+https://github.com/OpenMined/PySyft/pull/2415,[],make use of secureNN div for AdditiveSharingTensor,2,True,2019-07-30 22:21:04,2019-08-16 19:05:50,2019-08-16 19:05:50
+https://github.com/OpenMined/PySyft/pull/2411,[],Add encrypted training on MNIST demo,1,True,2019-07-29 17:20:56,2020-01-23 08:42:33,2019-07-31 22:40:19
+https://github.com/OpenMined/PySyft/pull/2407,[],One worker bug,4,True,2019-07-28 23:29:26,2019-08-01 17:40:49,2019-08-01 17:40:49
+https://github.com/OpenMined/PySyft/pull/2406,[],notebook with more instruction and some changes in scripts,2,True,2019-07-28 22:14:12,2019-07-31 10:33:23,2019-07-31 10:33:23
+https://github.com/OpenMined/PySyft/pull/2405,[],notebook with more instruction and some changes in scripts,1,False,2019-07-28 21:09:24,2019-07-28 22:11:11,2019-07-28 22:11:04
+https://github.com/OpenMined/PySyft/pull/2402,[],[WIP] Refactor Polynomial Tensor ,3,False,2019-07-28 10:49:11,2019-11-21 01:16:32,2019-11-21 01:16:32
+https://github.com/OpenMined/PySyft/pull/2395,[],reduced the timeout interval on windows due to C timeval overflowerror,3,True,2019-07-25 16:21:09,2019-07-26 20:50:33,2019-07-26 20:50:33
+https://github.com/OpenMined/PySyft/pull/2387,[],Fix broken Openmined.org demo,5,True,2019-07-23 22:25:03,2019-08-01 17:32:44,2019-08-01 17:32:43
+https://github.com/OpenMined/PySyft/pull/2367,[],Fix typos,1,True,2019-07-18 22:27:32,2019-07-19 15:11:40,2019-07-19 15:11:40
+https://github.com/OpenMined/PySyft/pull/2364,[],Added fix_prec for Linear Object,2,True,2019-07-17 11:52:30,2019-07-18 15:08:59,2019-07-17 19:06:46
+https://github.com/OpenMined/PySyft/pull/2360,[],Monitor network usage with pyshark,13,True,2019-07-16 16:04:05,2019-07-28 15:02:38,2019-07-27 15:33:52
+https://github.com/OpenMined/PySyft/pull/2358,[],Added serialization and deserialization methods for AutogradTensor,8,True,2019-07-14 13:58:17,2019-08-08 13:13:41,2019-08-08 13:13:41
+https://github.com/OpenMined/PySyft/pull/2356,[],Minor Typo fixes in Tutorials,2,True,2019-07-13 16:23:22,2019-07-13 18:58:24,2019-07-13 18:58:07
+https://github.com/OpenMined/PySyft/pull/2353,[],Fix operations on pointers to additive shared tensors #2352,1,True,2019-07-12 09:19:03,2019-10-26 18:07:05,2019-07-12 18:30:48
+https://github.com/OpenMined/PySyft/pull/2349,[],Implementation of RNNs in python with linear layers for MPC,3,True,2019-07-10 20:58:40,2019-08-20 18:24:22,2019-08-20 18:24:22
+https://github.com/OpenMined/PySyft/pull/2345,[],Modularize creation of a websocket worker for tests,2,True,2019-07-09 20:48:37,2019-08-19 14:59:18,2019-08-19 14:59:17
+https://github.com/OpenMined/PySyft/pull/2343,[],Added size() method for remote tensors,7,False,2019-07-09 11:39:13,2020-01-23 12:01:20,2019-08-01 17:24:15
+https://github.com/OpenMined/PySyft/pull/2342,[],Fixing __mul__ error for int multiplication issue 2341,2,False,2019-07-09 08:42:39,2019-07-09 11:07:48,2019-07-09 11:07:48
+https://github.com/OpenMined/PySyft/pull/2339,[],Multiple workers with same id issues #2333,5,True,2019-07-05 18:54:17,2020-05-06 11:38:59,2019-07-09 19:34:12
+https://github.com/OpenMined/PySyft/pull/2328,[],Fix typos,1,True,2019-07-03 00:38:48,2019-07-03 15:50:55,2019-07-03 13:38:34
+https://github.com/OpenMined/PySyft/pull/2321,[],"run static type checker in CI, fix annotations in syft/grid.py",1,True,2019-06-29 19:28:28,2019-11-20 15:29:44,2019-11-20 15:29:44
+https://github.com/OpenMined/PySyft/pull/2320,[],Fixed typo in instructions about the part number,2,True,2019-06-29 14:17:26,2019-06-29 16:26:52,2019-06-29 16:26:47
+https://github.com/OpenMined/PySyft/pull/2309,[],CRT tensor,4,True,2019-06-25 07:46:55,2019-07-31 22:52:26,2019-07-31 22:52:26
+https://github.com/OpenMined/PySyft/pull/2300,[],Addition of missing SecureNN protocols,4,True,2019-06-18 20:14:13,2019-07-12 11:47:57,2019-07-12 11:47:57
+https://github.com/OpenMined/PySyft/pull/2289,[],POC: asynchronous federated training on MNIST using websockets and jit ,1,True,2019-06-15 19:04:58,2019-06-19 15:19:28,2019-06-19 15:19:24
+https://github.com/OpenMined/PySyft/pull/2288,[],Added Advanced Tutorial Example - SMS spam prediction with handcrafted GRU,1,True,2019-06-15 00:12:47,2019-06-15 14:53:38,2019-06-15 14:53:38
+https://github.com/OpenMined/PySyft/pull/2263,[],[WIP] Fixed Precision in Zq,2,False,2019-06-10 21:53:58,2019-06-26 07:06:29,2019-06-26 07:06:29
+https://github.com/OpenMined/PySyft/pull/2262,[],Add special case for torch function which dont have tensors as input,2,True,2019-06-10 17:43:18,2019-06-10 20:56:17,2019-06-10 18:02:27
+https://github.com/OpenMined/PySyft/pull/2254,[],Fix TFEWorker Windows bug,3,True,2019-06-07 17:37:45,2019-06-10 19:14:04,2019-06-10 19:14:04
+https://github.com/OpenMined/PySyft/pull/2247,[],introduce and use TFECluster,6,True,2019-06-07 13:30:41,2019-07-13 00:09:05,2019-07-13 00:09:05
+https://github.com/OpenMined/PySyft/pull/2244,[],Plans should be built by the blueprint owner,1,True,2019-06-06 20:06:12,2019-06-20 20:09:33,2019-06-14 18:14:35
+https://github.com/OpenMined/PySyft/pull/2239,[],Raising error if PointerTensor got called with .item,2,True,2019-06-05 17:54:52,2019-06-06 21:59:40,2019-06-06 21:59:40
+https://github.com/OpenMined/PySyft/pull/2238,[],TrainConfig basic implementation,4,True,2019-06-05 15:21:11,2019-06-07 09:08:08,2019-06-07 09:08:08
+https://github.com/OpenMined/PySyft/pull/2237,[],Raising error if PointerTensor got called with .item,3,False,2019-06-05 14:20:59,2019-06-05 17:55:50,2019-06-05 17:55:50
+https://github.com/OpenMined/PySyft/pull/2230,[],"Create a serde folder with serde.py, native_serde.py and torch_serde.py",1,True,2019-06-04 15:33:34,2019-06-12 15:55:38,2019-06-12 15:55:38
+https://github.com/OpenMined/PySyft/pull/2226,[],Fixed predict method in RNN jupyter notebook example,1,True,2019-06-03 10:09:03,2019-06-03 13:17:50,2019-06-03 13:17:50
+https://github.com/OpenMined/PySyft/pull/2220,[],Update tutorials,1,True,2019-06-01 21:46:56,2019-06-03 19:07:43,2019-06-01 22:02:09
+https://github.com/OpenMined/PySyft/pull/2197,[],corrected import error for PointerTensor,2,True,2019-05-30 18:10:25,2019-05-30 18:33:59,2019-05-30 18:33:58
+https://github.com/OpenMined/PySyft/pull/2192,[],fixed notebook ordering,1,True,2019-05-30 07:15:52,2019-05-30 07:16:26,2019-05-30 07:16:21
+https://github.com/OpenMined/PySyft/pull/2188,[],Modification to have operations between FPT>AST and FPT>torch,10,True,2019-05-29 22:09:47,2019-06-11 06:39:38,2019-06-11 06:23:25
+https://github.com/OpenMined/PySyft/pull/2178,[],Add tuto on secure aggegration,1,True,2019-05-29 11:31:34,2019-06-03 19:08:07,2019-05-29 12:54:09
+https://github.com/OpenMined/PySyft/pull/2170,[],[wip] TFE Keras integration,1,True,2019-05-28 08:13:07,2019-05-29 20:05:43,2019-05-29 20:05:43
+https://github.com/OpenMined/PySyft/pull/2166,[],small fix so that the tutorial works with torch 1.1.0,1,True,2019-05-23 23:26:19,2019-05-24 15:59:59,2019-05-24 15:59:59
+https://github.com/OpenMined/PySyft/pull/2165,[],Solving #2117 Conv2d not working in MPC,2,True,2019-05-23 21:21:57,2019-05-29 20:27:08,2019-05-29 09:41:01
+https://github.com/OpenMined/PySyft/pull/2160,[],Added support for LSTM and GRU Cells in PySyft and merged PR #1995,10,True,2019-05-21 16:54:25,2019-06-05 06:50:19,2019-05-31 12:45:11
+https://github.com/OpenMined/PySyft/pull/2159,[],"Added support for LSTM and GRU Cells in PySyft, ",1,False,2019-05-21 16:44:24,2019-05-21 16:48:10,2019-05-21 16:48:10
+https://github.com/OpenMined/PySyft/pull/2155,[],Plans jit experimental,1,False,2019-05-21 03:04:48,2019-05-29 19:26:21,2019-05-22 12:20:49
+https://github.com/OpenMined/PySyft/pull/2153,[],[WIP] Paillier Tensor,5,False,2019-05-20 06:17:38,2019-11-20 15:13:34,2019-11-20 15:13:34
+https://github.com/OpenMined/PySyft/pull/2152,[],Fix typo in tuto 9,2,True,2019-05-18 20:58:14,2019-05-26 17:57:14,2019-05-26 17:57:10
+https://github.com/OpenMined/PySyft/pull/2147,[],Large Precision Tensor,3,True,2019-05-17 15:04:00,2019-06-25 18:33:00,2019-06-25 18:33:00
+https://github.com/OpenMined/PySyft/pull/2129,[],Fix broken cell at tutorial part 10,1,True,2019-05-08 20:34:05,2019-05-11 23:38:48,2019-05-11 23:38:48
+https://github.com/OpenMined/PySyft/pull/2128,[],Recurrent Neural Network for Text Classification - Advanced Example,4,True,2019-05-08 17:22:22,2019-05-09 19:07:22,2019-05-09 19:07:22
+https://github.com/OpenMined/PySyft/pull/2127,[],Fixed backpropagation for models using parameters.grad,2,True,2019-05-07 16:10:04,2019-05-08 17:33:04,2019-05-08 17:33:04
+https://github.com/OpenMined/PySyft/pull/2125,[],"added testing of plan functions, small bugfix",2,True,2019-05-07 09:21:17,2019-05-07 15:29:24,2019-05-07 15:29:24
+https://github.com/OpenMined/PySyft/pull/2113,[],FederatedClient draft,13,True,2019-04-29 20:56:25,2019-06-11 20:49:41,2019-05-17 16:34:01
+https://github.com/OpenMined/PySyft/pull/2102,[],Fix minor bug in class FederatedDataset,1,True,2019-04-25 14:17:59,2019-04-25 15:12:04,2019-04-25 14:32:37
+https://github.com/OpenMined/PySyft/pull/2098,[],Plans should not be workers,2,False,2019-04-25 01:39:02,2019-04-25 10:30:20,2019-04-25 10:30:20
+https://github.com/OpenMined/PySyft/pull/2095,[],Continuing Mcleonard autograd tensor,1,True,2019-04-23 21:56:07,2019-06-03 19:08:18,2019-05-17 12:39:59
+https://github.com/OpenMined/PySyft/pull/2087,[],Add WebSocket over TLS,1,True,2019-04-23 08:37:59,2019-04-25 18:53:54,2019-04-25 18:53:54
+https://github.com/OpenMined/PySyft/pull/2084,[], Fixed a timeout issue occuring on raspberry PIs or low-power devices,5,True,2019-04-21 06:51:35,2019-04-23 20:26:02,2019-04-23 20:26:01
+https://github.com/OpenMined/PySyft/pull/2068,[],Plans Design Doc discussion,9,False,2019-04-13 02:39:57,2019-06-15 17:17:35,2019-06-15 17:17:34
+https://github.com/OpenMined/PySyft/pull/2050,[],Remove PlanPointer,2,True,2019-04-09 12:16:16,2019-04-10 12:52:22,2019-04-10 12:52:21
+https://github.com/OpenMined/PySyft/pull/2028,[],Websocket worker example,2,True,2019-04-01 10:20:50,2019-04-06 04:07:27,2019-04-06 04:07:08
+https://github.com/OpenMined/PySyft/pull/2021,[],Preparation for SecureNN,1,False,2019-03-28 22:38:18,2019-04-09 14:20:56,2019-04-01 07:34:30
+https://github.com/OpenMined/PySyft/pull/1994,[],[Issue 1456] add type annotations and address pylint errors in some files,2,True,2019-03-14 14:25:12,2019-03-18 18:00:26,2019-03-18 18:00:26
+https://github.com/OpenMined/PySyft/pull/1993,[],A few more type annotations,3,True,2019-03-14 08:18:37,2019-03-27 08:57:50,2019-03-27 08:57:50
+https://github.com/OpenMined/PySyft/pull/1983,[],Handling remote commands with complex response; fix #1975,2,True,2019-03-09 15:18:05,2019-03-12 15:38:02,2019-03-12 15:17:31
+https://github.com/OpenMined/PySyft/pull/1979,[],Removing **kwargs from FederatedDataLoader func,1,False,2019-03-06 19:54:42,2019-03-08 13:59:50,2019-03-08 12:43:59
+https://github.com/OpenMined/PySyft/pull/1977,[],Type annotation,4,True,2019-03-06 10:35:59,2019-03-08 09:30:14,2019-03-08 09:30:03
+https://github.com/OpenMined/PySyft/pull/1965,[],Fix moving a module to cuda,1,False,2019-03-03 21:35:30,2019-03-04 10:32:52,2019-03-04 10:32:52
+https://github.com/OpenMined/PySyft/pull/1964,[],Fix error in tutorial 2,1,True,2019-03-03 21:07:43,2019-03-04 13:56:21,2019-03-03 22:35:40
+https://github.com/OpenMined/PySyft/pull/1938,[],Add draft version of a plan,2,True,2019-02-22 17:04:56,2019-04-02 14:18:53,2019-03-19 15:17:27
+https://github.com/OpenMined/PySyft/pull/1914,[],Add serialization of torch.device to support hook of .to(device),3,True,2019-02-18 09:03:43,2019-03-06 08:45:37,2019-02-19 14:55:14
+https://github.com/OpenMined/PySyft/pull/1856,[],create_sandbox convenience functin and tutorial,1,True,2019-02-03 17:51:25,2019-02-03 23:26:53,2019-02-03 23:26:53
+https://github.com/OpenMined/PySyft/pull/1848,[],federated learning working but there are still some strange bugs about,1,True,2019-02-02 00:53:15,2019-02-02 01:34:58,2019-02-02 01:03:47
+https://github.com/OpenMined/PySyft/pull/1843,[],adds support for pointers to attributes on remote tensors,1,True,2019-02-01 16:56:42,2019-02-01 17:19:50,2019-02-01 17:18:43
+https://github.com/OpenMined/PySyft/pull/1841,[],change tests to not use class structure and fix some typos,3,False,2019-02-01 13:30:20,2019-02-04 22:54:23,2019-02-04 22:54:23
+https://github.com/OpenMined/PySyft/pull/1834,[],Polynomial Tensor Torch_1,1,False,2019-01-29 12:53:12,2019-02-15 16:27:31,2019-02-15 16:27:31
+https://github.com/OpenMined/PySyft/pull/1830,[],Minor Changes,1,True,2019-01-28 19:33:26,2019-01-28 22:25:00,2019-01-28 22:24:36
+https://github.com/OpenMined/PySyft/pull/1829,[],Improve Garbage Collection verifications,3,True,2019-01-25 10:41:00,2019-01-29 16:16:07,2019-01-28 16:32:11
+https://github.com/OpenMined/PySyft/pull/1821,[],Add x.max() for fixp shared tensor,1,True,2019-01-17 16:52:47,2019-01-29 16:16:19,2019-01-17 17:26:03
+https://github.com/OpenMined/PySyft/pull/1814,[],LogTensor and decentralized handling of commands,1,True,2019-01-10 18:54:49,2019-01-15 12:49:14,2019-01-15 12:49:14
+https://github.com/OpenMined/PySyft/pull/1808,[],[WIP] Async operations,4,False,2019-01-06 16:34:43,2019-01-15 08:08:38,2019-01-13 21:54:03
+https://github.com/OpenMined/PySyft/pull/1805,[],Torch 1 and (not) headless tensor chains - send/get - GC - ptr.method() - etc.,9,True,2019-01-02 22:47:37,2019-01-29 16:16:38,2019-01-09 17:30:16
+https://github.com/OpenMined/PySyft/pull/1796,[],Initial Garbage Collection Support,4,False,2018-12-24 20:34:10,2019-01-09 20:16:52,2019-01-08 15:31:53
+https://github.com/OpenMined/PySyft/pull/1793,[],Added AbstractTensor.serlialize() convenience function w/ tests; added inline documentation,1,True,2018-12-24 04:59:18,2018-12-24 18:33:12,2018-12-24 18:33:12
+https://github.com/OpenMined/PySyft/pull/1792,[],Fix #1785; Modify documentation generation code to use napoleon,1,True,2018-12-23 14:27:37,2018-12-23 14:56:49,2018-12-23 14:56:49
+https://github.com/OpenMined/PySyft/pull/1780,[],WIP: Serde Logic for PointerTensor,2,True,2018-12-20 13:59:56,2018-12-22 13:57:45,2018-12-22 13:57:45
+https://github.com/OpenMined/PySyft/pull/1752,[],Torch 1749 serde posthook,6,False,2018-12-06 15:41:23,2018-12-10 11:49:13,2018-12-10 11:49:13
+https://github.com/OpenMined/PySyft/pull/1736,[],Fix the search function accordingly to ex/torch/toy sockets workers,1,True,2018-11-29 13:48:31,2018-11-29 17:33:54,2018-11-29 16:13:06
+https://github.com/OpenMined/PySyft/pull/1728,[],Fix typos in introduction,1,True,2018-11-26 00:12:40,2018-12-02 15:36:54,2018-12-02 15:36:54
+https://github.com/OpenMined/PySyft/pull/1702,[],Solved: Fix travis ci build process #1685,1,True,2018-11-17 09:46:03,2018-11-18 18:59:30,2018-11-18 18:59:30
+https://github.com/OpenMined/PySyft/pull/1692,[],"In `handle_call` for the ""end_get"" case need to call get() on a _SyftTensor",2,True,2018-11-16 13:35:29,2018-11-19 18:51:15,2018-11-19 15:52:08
+https://github.com/OpenMined/PySyft/pull/1684,[],Solved: Add serde logic for np.ndarray #1670,1,True,2018-11-15 15:59:59,2018-11-15 19:52:06,2018-11-15 19:51:51
+https://github.com/OpenMined/PySyft/pull/1681,[],Solved: Add serde logic for range #1664,1,True,2018-11-15 09:24:30,2018-11-15 11:03:02,2018-11-15 11:03:02
+https://github.com/OpenMined/PySyft/pull/1653,[],[WIP] Fix websocketworker,2,True,2018-11-03 00:00:59,2018-11-14 13:46:18,2018-11-14 13:45:02
+https://github.com/OpenMined/PySyft/pull/1650,[],Fix flake 8,1,True,2018-10-30 05:36:45,2018-11-09 22:17:44,2018-11-02 11:18:26
+https://github.com/OpenMined/PySyft/pull/1646,[],Fix for issue #1645.,1,True,2018-10-29 12:56:08,2018-10-29 19:56:55,2018-10-29 19:56:55
+https://github.com/OpenMined/PySyft/pull/1644,[],Update MNIST Example.ipynb,1,True,2018-10-27 07:08:44,2018-10-27 11:09:48,2018-10-27 11:09:48
+https://github.com/OpenMined/PySyft/pull/1643,[],Wrong import path fixed.,1,True,2018-10-24 10:32:36,2018-10-25 13:19:19,2018-10-25 13:19:00
+https://github.com/OpenMined/PySyft/pull/1640,[],Fix regexp for black exclude option in pyproject.toml,2,True,2018-10-19 18:03:22,2018-10-23 17:39:40,2018-10-23 17:39:40
+https://github.com/OpenMined/PySyft/pull/1634,[],fixed the relative imports issue #1631,1,False,2018-10-14 19:17:43,2018-11-02 11:18:42,2018-11-02 11:18:42
+https://github.com/OpenMined/PySyft/pull/1630,[],[WIP] Add profiling in BaseWorker.send_msg,2,True,2018-10-14 10:17:18,2018-10-23 17:45:06,2018-10-23 17:44:05
+https://github.com/OpenMined/PySyft/pull/1612,[],"Fixes #1592, should replace all modulos (%) with `torch.fmod`",4,True,2018-10-10 02:45:39,2018-10-11 23:41:07,2018-10-11 18:01:58
+https://github.com/OpenMined/PySyft/pull/1584,[],Pandas project,2,False,2018-10-02 08:48:36,2018-10-11 18:02:13,2018-10-11 18:02:13
+https://github.com/OpenMined/PySyft/pull/1583,[],Update ISSUE_TEMPLATE.md to fix issue #1549,1,True,2018-10-01 02:41:03,2018-10-02 11:10:29,2018-10-01 12:20:56
+https://github.com/OpenMined/PySyft/pull/1580,[],Math operations for fixedTensors added + Unit Tests,5,True,2018-09-29 13:56:21,2018-10-05 02:42:57,2018-10-04 19:11:38
+https://github.com/OpenMined/PySyft/pull/1578,[],Mathematical ops for FTensors added,2,False,2018-09-28 14:27:01,2018-09-29 09:04:14,2018-09-29 09:04:14
+https://github.com/OpenMined/PySyft/pull/1570,[],Rename Pointer -> Pointer -> Data Example.ipynb to Pointer_Pointer_Da…,2,False,2018-09-27 15:54:35,2018-09-27 15:57:43,2018-09-27 15:57:07
+https://github.com/OpenMined/PySyft/pull/1568,[],Sigmoid,2,False,2018-09-27 03:37:39,2018-10-30 12:35:19,2018-10-30 12:34:55
+https://github.com/OpenMined/PySyft/pull/1566,[],[WIP] Add Federated Learning and Differential Privacy demos,6,True,2018-09-26 10:53:35,2018-11-02 11:19:40,2018-11-02 11:19:40
+https://github.com/OpenMined/PySyft/pull/1561,[],Original state issue 1532,1,False,2018-09-25 16:43:58,2018-09-28 10:33:16,2018-09-28 10:33:15
+https://github.com/OpenMined/PySyft/pull/1560,[],adds getting workers from gpt,5,True,2018-09-25 09:09:58,2018-09-25 22:27:22,2018-09-25 14:38:59
+https://github.com/OpenMined/PySyft/pull/1554,[],Issue1508 rename mpc tensor to spdz tensor,1,True,2018-09-24 02:37:22,2018-09-24 17:26:09,2018-09-24 12:15:31
+https://github.com/OpenMined/PySyft/pull/1552,[],PATE with PyTorch ,1,True,2018-09-23 17:42:43,2018-09-23 17:56:39,2018-09-23 17:56:39
+https://github.com/OpenMined/PySyft/pull/1551,[],Variable x MPC FixedPrecision (send / get / addition),1,True,2018-09-23 12:43:46,2018-09-27 18:44:54,2018-09-27 18:44:54
+https://github.com/OpenMined/PySyft/pull/1543,[],[WIP] Context session,7,False,2018-09-22 09:04:49,2019-01-29 16:17:02,2018-11-20 10:50:27
+https://github.com/OpenMined/PySyft/pull/1537,[],[WIP] Federated learning with tensorflow demo,6,False,2018-09-21 11:37:33,2018-11-20 10:49:54,2018-11-20 10:49:53
+https://github.com/OpenMined/PySyft/pull/1523,[],Added keras examples and changed optimizer to work with keras,2,True,2018-09-20 05:06:26,2018-09-20 10:08:12,2018-09-20 10:08:12
+https://github.com/OpenMined/PySyft/pull/1476,[],"Format all html,css and js files in docs folder",1,True,2018-09-09 09:17:15,2018-09-17 19:06:48,2018-09-17 19:06:48
+https://github.com/OpenMined/PySyft/pull/1471,[],Added custom optimizer for federated averaging,1,False,2018-09-07 21:14:15,2018-09-08 11:25:10,2018-09-08 11:25:10
+https://github.com/OpenMined/PySyft/pull/1458,[],Mpc tensor,2,True,2018-08-29 14:34:46,2018-09-18 19:54:40,2018-09-18 19:54:40
+https://github.com/OpenMined/PySyft/pull/1457,[],[Pointers are tensors] Improve the get_pointer_to func: Add a pointer referencing system,1,True,2018-08-28 17:48:03,2018-08-28 17:52:24,2018-08-28 17:52:17
+https://github.com/OpenMined/PySyft/pull/1455,[],Strings id + Unittest ,1,True,2018-08-28 09:58:15,2018-08-28 13:00:03,2018-08-28 12:59:38
+https://github.com/OpenMined/PySyft/pull/1453,[],set up precommit and fixed flake8 compliance issues,2,True,2018-08-15 01:45:33,2018-10-10 14:47:48,2018-08-15 16:20:33
+https://github.com/OpenMined/PySyft/pull/1437,[],Style guide adopted,1,True,2018-07-30 17:11:51,2018-07-30 19:29:30,2018-07-30 19:29:14
+https://github.com/OpenMined/PySyft/pull/1432,[],[Pointers are tensors] Playing with PlusIsMinus Tensor : full support on Torch Tensors,1,True,2018-07-30 08:21:35,2018-07-30 09:20:45,2018-07-30 09:20:45
+https://github.com/OpenMined/PySyft/pull/1424,[],Created a basic class for pandas,1,True,2018-07-24 14:57:27,2018-07-24 20:18:44,2018-07-24 20:18:25
+https://github.com/OpenMined/PySyft/pull/1423,[],Add Docker Container,1,True,2018-07-24 14:41:19,2018-07-25 11:43:47,2018-07-25 11:43:47
+https://github.com/OpenMined/PySyft/pull/1408,[],Update guard.py,4,False,2018-07-19 12:49:15,2018-08-30 15:07:59,2018-08-30 15:07:50
+https://github.com/OpenMined/PySyft/pull/1400,[],Unit tests for multi output methods were added,1,True,2018-07-14 17:29:22,2018-07-16 11:20:55,2018-07-16 11:20:30
+https://github.com/OpenMined/PySyft/pull/1399,[],Seeded test_federated_learning and added test for remote optim.step(),4,True,2018-07-13 19:46:18,2018-07-14 11:50:09,2018-07-14 11:50:05
+https://github.com/OpenMined/PySyft/pull/1395,[],Handling more sophisticated args and kwargs when calling torch func,2,True,2018-07-10 08:06:42,2018-07-13 16:05:47,2018-07-13 16:05:47
+https://github.com/OpenMined/PySyft/pull/1393,[],Unit tests for binary methods were added,1,True,2018-07-07 09:54:55,2018-07-10 14:42:37,2018-07-10 14:42:37
+https://github.com/OpenMined/PySyft/pull/1392,[],Unit test for _add method was added,3,True,2018-07-07 09:34:33,2018-07-10 14:44:10,2018-07-10 14:44:09
+https://github.com/OpenMined/PySyft/pull/1388,[],added whoami to SocketWorker and removed redundant paramter from Base…,2,True,2018-07-05 15:23:03,2018-07-06 13:41:33,2018-07-06 13:41:33
+https://github.com/OpenMined/PySyft/pull/1383,[],"Fixes Issue #1382 : Call of torch functions on remote Variable (ex: torch.matmul(x,y))",2,True,2018-07-03 14:35:46,2018-07-04 16:06:04,2018-07-04 16:06:04
+https://github.com/OpenMined/PySyft/pull/1371,[],Allow socket connection to remote machines,1,True,2018-06-27 09:42:04,2018-06-27 11:49:45,2018-06-27 11:33:27
+https://github.com/OpenMined/PySyft/pull/1366,[],cleaned up syft/core/workers and added documentation to SocketWorker,1,True,2018-06-25 17:27:16,2018-06-26 15:47:21,2018-06-26 15:47:21
+https://github.com/OpenMined/PySyft/pull/1360,[],Fix broken links to Virtual Worker Tutorial notebook,1,True,2018-06-23 06:20:15,2018-06-23 16:28:15,2018-06-23 16:28:15
+https://github.com/OpenMined/PySyft/pull/1357,[],Adding binder support for repository,1,True,2018-06-22 12:48:52,2018-06-22 13:29:01,2018-06-22 13:29:01
+https://github.com/OpenMined/PySyft/pull/1356,[],Adding notebook testing [WIP],4,True,2018-06-22 08:07:51,2020-02-01 12:55:14,2018-06-22 17:32:58
+https://github.com/OpenMined/PySyft/pull/1336,[],Wrong variable reference,4,False,2018-06-09 06:22:51,2018-06-09 19:54:08,2018-06-09 07:16:49
+https://github.com/OpenMined/PySyft/pull/1329,[],Grid to syft merge,1,True,2018-05-22 16:38:11,2018-06-02 20:02:59,2018-06-02 20:02:59
+https://github.com/OpenMined/PySyft/pull/1326,[],Activating Open Collective,1,False,2018-04-05 07:07:44,2018-04-07 21:13:54,2018-04-07 21:13:54
+https://github.com/OpenMined/PySyft/pull/1322,[],Adresses #1162 add rsqrt functionality,2,True,2018-02-18 19:28:56,2018-02-19 15:49:25,2018-02-19 10:48:33
+https://github.com/OpenMined/PySyft/pull/1315,[],Applied fix for issue #1314,1,True,2018-01-31 22:24:32,2018-02-01 18:46:28,2018-02-01 18:46:28
+https://github.com/OpenMined/PySyft/pull/1312,[],MPC Tensor Addition,1,False,2018-01-29 22:35:27,2018-04-07 21:04:40,2018-04-07 21:04:40
+https://github.com/OpenMined/PySyft/pull/1309,[],Feature/view  int tensor,2,True,2018-01-28 17:05:39,2018-01-28 18:35:36,2018-01-28 17:12:46
+https://github.com/OpenMined/PySyft/pull/1306,[],feat: keras interface predict function update,1,True,2018-01-25 17:40:01,2018-01-27 00:17:48,2018-01-27 00:17:37
+https://github.com/OpenMined/PySyft/pull/1301,[],Feature/keras,1,True,2018-01-21 07:15:02,2018-01-25 16:18:26,2018-01-21 09:06:23
+https://github.com/OpenMined/PySyft/pull/1296,[],added sin cpu and gpu functionality for Int tensors.,3,True,2018-01-17 12:26:35,2018-01-18 07:45:00,2018-01-18 03:32:03
+https://github.com/OpenMined/PySyft/pull/1295,[],Feature/transpose  int tensor,1,True,2018-01-16 18:12:25,2018-01-18 10:57:59,2018-01-18 10:43:38
+https://github.com/OpenMined/PySyft/pull/1288,[],Implemented IntTensor Lt and inline Lt on CPU,1,True,2018-01-14 19:09:50,2018-01-15 01:53:18,2018-01-15 01:53:18
+https://github.com/OpenMined/PySyft/pull/1287,[],added sign function for Int Tensor,2,True,2018-01-14 15:34:07,2018-01-15 22:50:25,2018-01-15 22:50:25
+https://github.com/OpenMined/PySyft/pull/1280,[],Add trace function to intTensor,1,True,2018-01-13 21:09:22,2018-01-13 21:31:12,2018-01-13 21:31:05
+https://github.com/OpenMined/PySyft/pull/1132,[],Add instructions for Anaconda installation to README,2,False,2018-01-13 14:26:55,2018-07-22 16:44:45,2018-01-16 11:15:15
+https://github.com/OpenMined/PySyft/pull/758,[],__add__ method for IntTensor,4,True,2018-01-11 23:35:00,2018-01-13 00:27:02,2018-01-12 22:56:57
+https://github.com/OpenMined/PySyft/pull/756,[],"[WIP] Implementing Stricter NumPy, PEP8 and PEP257 Standards for Docs and code",1,False,2018-01-11 00:21:54,2018-02-13 15:15:14,2018-02-13 15:15:14
+https://github.com/OpenMined/PySyft/pull/754,[],bugfix: do not delete results for inline aritmetic operations,1,True,2018-01-09 15:45:14,2018-01-09 22:39:58,2018-01-09 22:37:56
+https://github.com/OpenMined/PySyft/pull/752,[],bugfix no-params-func,1,True,2018-01-08 20:58:13,2018-01-08 21:06:25,2018-01-08 21:06:25
+https://github.com/OpenMined/PySyft/pull/748,[],implement model.evaluate() function,4,True,2018-01-06 13:48:59,2018-01-15 08:21:17,2018-01-15 02:16:18
+https://github.com/OpenMined/PySyft/pull/747,[],Implemented hyperparameter forwarding Keras,1,True,2018-01-06 11:55:43,2018-01-06 13:50:41,2018-01-06 13:50:32
+https://github.com/OpenMined/PySyft/pull/742,[],pysyft side of the openmined -> pysyft grid communication,3,True,2018-01-05 19:17:51,2018-01-05 20:05:31,2018-01-05 20:05:25
+https://github.com/OpenMined/PySyft/pull/740,[],Reducing default epsilon for RMSProp and Adam to fit in float,1,True,2018-01-05 18:56:21,2018-01-05 19:55:00,2018-01-05 19:54:50
+https://github.com/OpenMined/PySyft/pull/701,[],Messaging and typed values (Syft side),3,False,2017-12-14 23:03:24,2017-12-15 21:36:15,2017-12-15 15:05:49
+https://github.com/OpenMined/PySyft/pull/397,[],do not use hard coded type sizes,1,True,2017-11-10 14:06:08,2017-11-10 14:19:37,2017-11-10 14:19:37
+https://github.com/OpenMined/PySyft/pull/396,[],Implement default set functionality resolves #93,1,True,2017-11-10 13:35:27,2017-11-10 13:52:49,2017-11-10 13:52:49
+https://github.com/OpenMined/PySyft/pull/394,[],"rolled back to using phe's floating point, until we have a better solution",1,True,2017-11-02 20:09:32,2017-11-03 14:47:26,2017-11-03 14:47:26
+https://github.com/OpenMined/PySyft/pull/392,[],Add cross functionality for Base Tensor Type,2,True,2017-11-02 19:06:29,2017-11-03 07:02:26,2017-11-03 07:02:26
+https://github.com/OpenMined/PySyft/pull/391,[],Split tensor,10,True,2017-10-31 09:08:36,2017-11-01 10:33:53,2017-11-01 10:33:53
+https://github.com/OpenMined/PySyft/pull/389,[],first non linearity,2,False,2017-10-31 02:02:33,2017-10-31 05:17:11,2017-10-31 05:17:11
+https://github.com/OpenMined/PySyft/pull/388,[],Dense to sparse matrix,4,True,2017-10-30 21:15:08,2017-11-04 02:43:52,2017-11-04 02:43:52
+https://github.com/OpenMined/PySyft/pull/387,[],Remove capsule dependency from notebooks,3,True,2017-10-30 16:39:21,2017-11-03 14:47:59,2017-11-03 14:47:59
+https://github.com/OpenMined/PySyft/pull/376,[],Dense to sparse matrix,3,False,2017-10-28 19:54:08,2017-10-30 21:06:39,2017-10-30 21:06:39
+https://github.com/OpenMined/PySyft/pull/375,[],Initial BV API,1,False,2017-10-27 17:34:32,2017-11-18 23:21:59,2017-11-18 23:21:59
+https://github.com/OpenMined/PySyft/pull/374,[],changes multinomial to match PyTorch's API,1,True,2017-10-24 19:45:20,2017-10-25 01:51:05,2017-10-25 01:51:05
+https://github.com/OpenMined/PySyft/pull/373,[],Added Swish Activation Function 🐍,4,False,2017-10-24 19:36:01,2017-10-29 12:50:45,2017-10-29 12:45:49
+https://github.com/OpenMined/PySyft/pull/371,[],Added Negative Sampling module in word2vec for word2vec implementation with HE,2,False,2017-10-24 14:49:13,2017-10-26 03:38:21,2017-10-26 03:38:21
+https://github.com/OpenMined/PySyft/pull/370,[],Update abstract_model.py,1,True,2017-10-24 09:00:39,2017-10-29 14:08:34,2017-10-24 15:57:17
+https://github.com/OpenMined/PySyft/pull/369,[],chore/removes django installation,1,True,2017-10-24 05:15:17,2017-10-24 13:52:40,2017-10-24 08:58:28
+https://github.com/OpenMined/PySyft/pull/367,[],Implement Default multinomial Functionality for Base Tensor Type,9,True,2017-10-23 07:02:55,2017-10-24 21:46:56,2017-10-23 18:40:23
+https://github.com/OpenMined/PySyft/pull/366,[],Naming convention on test files solved #365,3,True,2017-10-22 16:49:04,2017-10-23 19:18:33,2017-10-23 17:43:17
+https://github.com/OpenMined/PySyft/pull/360,[],Fix incorrect documentation,1,True,2017-10-21 15:27:33,2017-10-22 06:08:36,2017-10-22 06:08:02
+https://github.com/OpenMined/PySyft/pull/357,[],Fixed 'high is out of bounds for int32' which occurs in windows,1,False,2017-10-19 15:14:47,2017-10-21 16:36:50,2017-10-21 16:36:50
+https://github.com/OpenMined/PySyft/pull/344,[],ignore capsule style errors,1,True,2017-10-17 01:41:46,2017-10-17 09:02:26,2017-10-17 08:54:19
+https://github.com/OpenMined/PySyft/pull/342,[],update iadd and isub methods,1,True,2017-10-16 16:54:52,2017-10-19 17:09:21,2017-10-19 16:09:53
+https://github.com/OpenMined/PySyft/pull/337,[],Updated LinearClassifier,1,True,2017-10-15 21:56:19,2017-10-19 08:55:34,2017-10-19 08:55:34
+https://github.com/OpenMined/PySyft/pull/320,[],Feature/paillier fixed point functionality,7,True,2017-10-11 01:21:58,2017-10-23 08:16:27,2017-10-23 08:16:27
+https://github.com/OpenMined/PySyft/pull/314,[],"handle slices on 1 dim tensors, resolves #311",1,True,2017-10-10 10:13:12,2017-10-10 16:01:17,2017-10-10 16:00:57
+https://github.com/OpenMined/PySyft/pull/306,[],remove cached pyc files before running tests,1,True,2017-10-08 18:08:45,2017-10-08 18:44:53,2017-10-08 18:44:53
+https://github.com/OpenMined/PySyft/pull/288,[],Feature/paillier fixed point functionality  fp for paillier tensors,2,False,2017-10-04 01:13:01,2017-10-07 22:51:18,2017-10-07 22:51:18
+https://github.com/OpenMined/PySyft/pull/278,[],Git fix,1,True,2017-10-02 04:48:33,2017-10-02 12:58:54,2017-10-02 12:24:04
+https://github.com/OpenMined/PySyft/pull/275,[],Implements Default half Functionality #52,4,True,2017-10-01 14:32:42,2017-10-17 15:22:31,2017-10-05 15:02:18
+https://github.com/OpenMined/PySyft/pull/273,[],#252 Inline Documentation Consistency,23,True,2017-10-01 09:52:49,2017-10-04 17:13:58,2017-10-04 02:10:21
+https://github.com/OpenMined/PySyft/pull/267,[],Changed weights initialization & added stride functionality #100,18,True,2017-09-30 13:12:02,2017-10-19 15:42:11,2017-10-19 15:41:56
+https://github.com/OpenMined/PySyft/pull/264,[],BMM functionality - issue #28,5,True,2017-09-30 11:47:35,2017-10-02 04:59:03,2017-10-02 04:37:39
+https://github.com/OpenMined/PySyft/pull/225,[],syft.he.paillier ModuleNotFoundError misspelling fix.,1,True,2017-09-09 18:06:09,2017-09-10 11:50:03,2017-09-10 11:49:51
+https://github.com/OpenMined/PySyft/pull/200,[],change Paillier to paillier to be consistant with PEP8 and fix case-s…,1,True,2017-09-01 06:27:55,2017-09-30 23:03:43,2017-09-01 22:51:14
+https://github.com/OpenMined/PySyft/pull/176,[],Fix for an indentation error on ceil,2,False,2017-08-22 22:35:34,2017-08-23 08:55:56,2017-08-23 08:55:35
+https://github.com/OpenMined/PySyft/pull/163,[],fixed the CI test commands,2,False,2017-08-19 23:55:31,2017-08-20 00:19:30,2017-08-20 00:16:23
+https://github.com/OpenMined/PySyft/pull/160,[],fix-pep8-tests,8,True,2017-08-19 10:45:06,2017-08-20 09:47:17,2017-08-20 00:44:44
+https://github.com/OpenMined/PySyft/pull/156,[],Fixes #142,2,True,2017-08-18 15:15:41,2017-08-18 16:04:46,2017-08-18 16:04:46
+https://github.com/OpenMined/PySyft/pull/155,[],"CI setup: automated docker build, tests, and docker image hosting (issue #119)",1,True,2017-08-17 19:41:09,2017-08-18 22:11:19,2017-08-17 22:53:56
+https://github.com/OpenMined/PySyft/pull/145,[],Add Cumprod & erros fix,1,True,2017-08-16 10:57:25,2017-08-16 14:22:22,2017-08-16 14:22:21
+https://github.com/OpenMined/PySyft/pull/4,[],"Corrected Issue of missing math libraries: mpc, mpfr, gmp",1,True,2017-07-24 20:33:44,2017-07-24 22:21:08,2017-07-24 22:21:08

@@ -1,0 +1,146 @@
+url,label,title,comments,created_time,updated_time,closed_time
+https://github.com/tensorflow/federated/issues/1811,['bug'],Minimal Stand-Alone Implementation of Federated Averaging doesnt work after the last commit,2,2021-09-13 13:41:28,2021-09-14 18:38:09,2021-09-14 18:38:09
+https://github.com/tensorflow/federated/issues/1784,[],How to deal with disconnection issues.,3,2021-09-07 07:29:02,2021-09-08 17:18:17,2021-09-08 17:18:17
+https://github.com/tensorflow/federated/issues/1739,['bug'],TensorFlow Federated (TFF) TypeError in tff.templates.IterativeProcess.next() when clients_per_round exceed 99,2,2021-08-23 10:46:06,2021-08-25 08:50:10,2021-08-25 08:50:09
+https://github.com/tensorflow/federated/issues/1593,['bug'],Multiple processes cannot simultaneously read StackOverflow word counts,5,2021-07-09 22:29:18,2021-07-18 23:53:37,2021-07-18 23:53:37
+https://github.com/tensorflow/federated/issues/1570,['bug'],"Got ""RuntimeError: Event loop is closed"" when change the optimizer from SGD to DPGradientDescentGaussianOptimizer in emnist_fedavg tensorflow federated",10,2021-07-08 02:04:12,2021-07-22 01:14:13,2021-07-22 01:14:13
+https://github.com/tensorflow/federated/issues/1471,['bug'],How do I modify this Python code?,2,2021-06-15 19:42:12,2021-06-19 15:52:33,2021-06-18 16:30:19
+https://github.com/tensorflow/federated/issues/1470,['bug'],How do I modify this Python code?,1,2021-06-15 19:41:56,2021-06-18 16:30:43,2021-06-18 16:30:43
+https://github.com/tensorflow/federated/issues/1458,['bug'],How do I modify this code?,1,2021-06-10 05:17:44,2021-06-18 16:30:53,2021-06-18 16:30:53
+https://github.com/tensorflow/federated/issues/1434,['bug'],Jax serialization of tff.types.StructType,3,2021-06-01 09:39:29,2021-06-03 10:04:11,2021-06-02 17:07:26
+https://github.com/tensorflow/federated/issues/1381,['bug'],DPKerasSGDOptimizer throws AssertionError,3,2021-05-04 10:41:35,2021-07-06 05:20:47,2021-05-05 00:51:47
+https://github.com/tensorflow/federated/issues/1358,['bug'],experimental_simulation_loop=True throws in multi-gpu computers,1,2021-04-24 08:51:47,2021-04-24 12:03:34,2021-04-24 12:03:34
+https://github.com/tensorflow/federated/issues/1336,['bug'],Missing imports and inconsistent documentation for tff.simulation for tensorflow-federated-nightly,1,2021-04-20 07:12:40,2021-04-20 10:49:47,2021-04-20 10:49:47
+https://github.com/tensorflow/federated/issues/1270,['bug'],TFF fails to load Stackoverflow dataset,1,2021-03-29 14:25:53,2021-03-29 14:48:43,2021-03-29 14:48:43
+https://github.com/tensorflow/federated/issues/1265,['bug'],DataLossError upon loading dataset using tf.data.experimental.load,7,2021-03-24 19:25:15,2021-06-30 20:06:42,2021-06-30 20:06:42
+https://github.com/tensorflow/federated/issues/1245,['bug'],Memory explodes,4,2021-03-17 16:12:28,2021-04-09 17:25:36,2021-04-09 17:25:36
+https://github.com/tensorflow/federated/issues/1232,[],TFF GCP Setup Tutorial/Guide syntax error,2,2021-03-15 12:11:03,2021-03-16 01:50:29,2021-03-16 01:50:29
+https://github.com/tensorflow/federated/issues/1215,['bug'],Exploding memory consumption when training FL model with varying number of participants per round,1,2021-03-10 03:11:51,2021-03-11 18:01:26,2021-03-11 18:01:26
+https://github.com/tensorflow/federated/issues/1212,[],"Problem of ""no attribute 'from_compiled_keras_model'"", any alternative?",1,2021-03-07 20:33:08,2021-03-10 05:31:19,2021-03-10 05:31:19
+https://github.com/tensorflow/federated/issues/1029,['bug'],Fed Avg on single machine multi GPU -- only ONE GPU is actually used ,10,2021-01-11 07:22:32,2021-04-17 03:52:17,2021-04-17 03:52:17
+https://github.com/tensorflow/federated/issues/972,[],a problem of parameter,1,2020-12-21 07:53:26,2020-12-21 15:41:15,2020-12-21 15:41:14
+https://github.com/tensorflow/federated/issues/951,[],A problem of tff.learning. build _ federated _ averaging _ process?,1,2020-12-14 00:50:04,2020-12-14 14:48:10,2020-12-14 14:48:10
+https://github.com/tensorflow/federated/issues/930,['bug'],import error in google colab,2,2020-12-01 08:33:05,2021-03-31 15:15:20,2021-03-31 15:15:19
+https://github.com/tensorflow/federated/issues/929,['bug'],a problem of bazel,1,2020-11-28 10:28:01,2020-11-30 15:00:35,2020-11-30 15:00:34
+https://github.com/tensorflow/federated/issues/928,['bug'],a problem of import,3,2020-11-28 07:56:02,2021-03-31 15:18:56,2021-03-31 15:18:56
+https://github.com/tensorflow/federated/issues/924,[],Custom Keras Model with TFF and Optimizers,2,2020-11-10 12:35:56,2020-11-16 18:47:01,2020-11-16 18:47:01
+https://github.com/tensorflow/federated/issues/922,[],Non-IID data distribution for a custom dataset,2,2020-11-09 10:57:19,2020-12-07 05:05:35,2020-12-07 05:05:35
+https://github.com/tensorflow/federated/issues/920,[],"ValueError: Expected a TensorFlow computation, got lambda.",2,2020-11-03 08:49:02,2020-12-28 22:03:27,2020-11-04 13:21:02
+https://github.com/tensorflow/federated/issues/917,['bug'],"Expected TFF type {float32*}@CLIENTS, which is not assignable from <<float32,float32>,<float32>,<float32,float32,float32>>.",3,2020-10-27 07:10:13,2020-10-29 05:52:53,2020-10-29 05:04:10
+https://github.com/tensorflow/federated/issues/914,['bug'],TensorBoard errors in Federated Learning for Image Classification tutorial,1,2020-10-06 17:14:41,2020-11-02 16:48:04,2020-11-02 16:48:04
+https://github.com/tensorflow/federated/issues/912,['bug'],federated/tensorflow_federated/python/examples/simple_fedavg/emnist_fedavg_main.py does not run from fresh install,7,2020-09-28 17:45:46,2020-11-09 01:22:20,2020-11-09 01:22:20
+https://github.com/tensorflow/federated/issues/903,['bug'],Memory explosion,4,2020-09-08 06:26:24,2021-04-09 17:26:28,2021-04-09 17:26:28
+https://github.com/tensorflow/federated/issues/902,['bug'],Can't run 'federated-learning-for-text-generation.ipynb' colab,3,2020-09-07 13:11:28,2020-10-29 05:08:07,2020-10-29 05:08:07
+https://github.com/tensorflow/federated/issues/897,['bug'],`tff.learning.from_keras_model` does not accept subclassed Keras model,2,2020-09-02 23:22:50,2021-02-17 15:55:35,2021-02-17 15:55:35
+https://github.com/tensorflow/federated/issues/896,['bug'],`tff.simulation.datasets.emnist.load_data()` extract(unzip) the dataset every time it runs,3,2020-09-02 23:17:28,2021-02-20 15:59:19,2021-02-20 15:59:19
+https://github.com/tensorflow/federated/issues/895,[],Failed to build from source,4,2020-08-31 08:47:27,2020-09-02 00:19:06,2020-09-02 00:19:06
+https://github.com/tensorflow/federated/issues/893,[],Unable to interpret an argument of type numpy.ndarray as a type spec.,2,2020-08-21 12:12:56,2021-02-17 06:07:57,2021-02-17 06:07:57
+https://github.com/tensorflow/federated/issues/892,['bug'],Got error when run personalization experiment,5,2020-08-13 01:53:39,2020-08-16 08:36:49,2020-08-16 08:36:49
+https://github.com/tensorflow/federated/issues/890,['bug'],research/targeted_attack: emnist targeted attack doesnt run,5,2020-08-05 17:02:16,2020-08-06 21:09:46,2020-08-06 20:44:58
+https://github.com/tensorflow/federated/issues/886,['bug'],Mandatory installation of tensorflow-cpu 1.15.3 when installing tensorflow_federated 0.2.0,1,2020-07-31 07:46:14,2020-08-03 20:26:11,2020-08-03 20:26:11
+https://github.com/tensorflow/federated/issues/884,['bug'],asyncio loop error in Google Colab,4,2020-07-27 15:55:54,2020-07-30 03:42:15,2020-07-30 03:42:14
+https://github.com/tensorflow/federated/issues/882,['bug'],Empty TFF runtime docker image when running dockerized TFF on GCP,1,2020-07-21 22:08:07,2020-08-14 17:38:18,2020-08-14 17:38:18
+https://github.com/tensorflow/federated/issues/881,['bug'],Docs of traced functions link to wrong source code location,1,2020-07-21 15:45:16,2020-08-03 20:22:19,2020-08-03 20:22:19
+https://github.com/tensorflow/federated/issues/878,['bug'],Failed to build the TensorFlow Federated pip package ,1,2020-07-10 18:53:55,2020-07-14 20:41:17,2020-07-14 20:41:17
+https://github.com/tensorflow/federated/issues/876,['bug'],Failing test related to encoding_utils,2,2020-07-02 20:20:22,2020-07-03 07:47:35,2020-07-03 07:47:34
+https://github.com/tensorflow/federated/issues/874,['bug'],Does TFF support windows10 system?,2,2020-06-28 02:09:29,2020-07-27 16:41:46,2020-07-27 16:40:59
+https://github.com/tensorflow/federated/issues/872,['bug'],ERROR: No matching distribution found for tensorflow-addons~=0.9.1 (from tensorflow_federated),4,2020-06-25 01:38:46,2020-07-06 02:18:39,2020-07-06 02:18:39
+https://github.com/tensorflow/federated/issues/869,['bug'],Kernel freezes after running tff.federated_computation,2,2020-06-10 06:44:45,2020-06-13 06:27:24,2020-06-13 06:27:23
+https://github.com/tensorflow/federated/issues/868,['bug'],ERROR: No matching distribution found for tensorflow-addons~=0.9.1 (from tensorflow_federated),1,2020-06-08 22:18:24,2020-06-09 00:13:03,2020-06-09 00:13:02
+https://github.com/tensorflow/federated/issues/867,['bug'],Script aborts due to ModuleNotFoundError,2,2020-06-06 05:58:20,2020-06-15 18:20:18,2020-06-15 18:20:18
+https://github.com/tensorflow/federated/issues/866,['bug'],Installation failing,1,2020-06-06 04:34:30,2020-06-06 05:53:53,2020-06-06 05:53:53
+https://github.com/tensorflow/federated/issues/861,['bug'],Cannot run the event loop while another loop is running,5,2020-06-02 09:21:56,2020-06-15 18:15:28,2020-06-15 18:15:28
+https://github.com/tensorflow/federated/issues/860,['bug'],tf_computation returns garbage when used with `**` operator,2,2020-06-01 09:42:02,2020-06-03 09:08:19,2020-06-03 07:52:40
+https://github.com/tensorflow/federated/issues/854,[],A problem of evaluation,2,2020-05-22 08:42:25,2020-05-25 09:55:19,2020-05-25 09:55:19
+https://github.com/tensorflow/federated/issues/851,['bug'],Performance drops significantly with 2 federated code,4,2020-05-19 12:49:36,2020-05-26 18:41:32,2020-05-26 18:41:31
+https://github.com/tensorflow/federated/issues/850,[],Cannot run the event loop while another loop is running,3,2020-05-18 07:15:31,2020-05-28 01:44:19,2020-05-18 16:47:12
+https://github.com/tensorflow/federated/issues/846,[],Possible bug in cifar100 data loading module,1,2020-05-13 12:41:43,2020-05-14 16:04:43,2020-05-14 16:04:43
+https://github.com/tensorflow/federated/issues/844,['bug'],protobuf issues: computation_pb2 and protobuf version issues,8,2020-05-11 20:25:27,2020-05-12 21:00:17,2020-05-12 21:00:16
+https://github.com/tensorflow/federated/issues/842,['bug'],RuntimeError: Cannot run the event loop while another loop is running,2,2020-05-04 06:17:52,2020-05-11 20:39:38,2020-05-11 20:39:38
+https://github.com/tensorflow/federated/issues/837,['bug'],User-level DP with emnist and stackoverflow not running!,2,2020-04-28 03:12:52,2020-05-04 03:14:42,2020-05-04 03:14:42
+https://github.com/tensorflow/federated/issues/832,['bug'],Code doesn't run on GPU,34,2020-04-20 14:13:51,2021-04-17 03:55:13,2021-04-17 03:55:13
+https://github.com/tensorflow/federated/issues/831,['bug'],Documentaiton: optimization bazel,1,2020-04-18 21:13:17,2020-04-20 18:29:03,2020-04-20 18:29:03
+https://github.com/tensorflow/federated/issues/827,['bug'],tensorflow_gpu 2.1 and dependencies,7,2020-04-16 14:19:05,2020-04-20 14:18:08,2020-04-20 14:18:08
+https://github.com/tensorflow/federated/issues/825,['bug'],Invalid argument: Default MaxPoolingOp only supports NHWC on device type CPU,27,2020-04-14 22:58:14,2020-04-21 12:55:36,2020-04-18 22:14:09
+https://github.com/tensorflow/federated/issues/823,[],Jupyter notebook freezes when executing a cell more than once,2,2020-04-10 08:49:20,2020-04-14 16:30:46,2020-04-14 16:30:46
+https://github.com/tensorflow/federated/issues/822,[],bulid tensorflow federated failed,4,2020-04-06 01:19:00,2020-04-14 17:09:31,2020-04-14 17:09:31
+https://github.com/tensorflow/federated/issues/820,[],Issue when running stackoverflow_lr,4,2020-04-03 15:34:32,2020-04-25 04:29:19,2020-04-25 04:29:19
+https://github.com/tensorflow/federated/issues/819,[],AttributeError: type object 'DatasetV2' has no attribute 'TextLineDataset',5,2020-04-01 15:01:53,2020-04-14 16:42:28,2020-04-14 16:42:28
+https://github.com/tensorflow/federated/issues/817,[],Two issues when I tried to reimplement the result training emnist using adam,10,2020-03-30 05:10:41,2020-04-01 21:22:42,2020-04-01 21:22:42
+https://github.com/tensorflow/federated/issues/816,[],Error while using GPU based execution,6,2020-03-29 20:38:24,2020-07-08 04:14:54,2020-07-08 04:14:54
+https://github.com/tensorflow/federated/issues/815,[],Preprocessing error: TypeError: <lambda>() takes 1 positional argument but 2 were given,1,2020-03-27 13:31:00,2020-03-27 13:54:08,2020-03-27 13:54:07
+https://github.com/tensorflow/federated/issues/814,[],ModuleNotFoundError: No module named 'tensorflow_federated.python.research',4,2020-03-23 13:21:06,2020-03-25 09:20:55,2020-03-25 09:20:55
+https://github.com/tensorflow/federated/issues/809,[],How to aggregate only part of client model weights?,6,2020-03-19 11:24:32,2020-05-08 20:37:13,2020-05-08 20:37:13
+https://github.com/tensorflow/federated/issues/808,[],AttributeError: module 'tensorflow' has no attribute 'contrib',2,2020-03-19 03:58:13,2020-03-21 01:31:28,2020-03-21 01:31:27
+https://github.com/tensorflow/federated/issues/805,[], RuntimeError: This event loop is already running,5,2020-03-16 15:24:11,2020-03-18 11:39:49,2020-03-16 23:16:01
+https://github.com/tensorflow/federated/issues/804,[],Bad Time Performance with  a lot of clients,3,2020-03-10 18:25:46,2020-06-15 18:23:37,2020-06-15 18:23:37
+https://github.com/tensorflow/federated/issues/803,[],Does tff.tf_computation support tf.numpy_function?,3,2020-03-09 11:43:49,2020-07-08 04:22:17,2020-07-08 04:22:17
+https://github.com/tensorflow/federated/issues/802,[],tf_nightly-1.15.0.dev20190805,3,2020-03-09 02:53:05,2020-03-09 18:19:47,2020-03-09 16:37:49
+https://github.com/tensorflow/federated/issues/799,[],Loosen dependency on TFA,3,2020-02-20 01:37:45,2020-02-22 00:02:47,2020-02-20 19:56:29
+https://github.com/tensorflow/federated/issues/798,[],Learning parameters of each simulated device,1,2020-02-18 16:24:15,2020-02-18 16:28:15,2020-02-18 16:28:14
+https://github.com/tensorflow/federated/issues/797,[],"InvalidArgumentError: TypeError: endswith first arg must be bytes or a tuple of bytes, not str",3,2020-02-12 02:40:47,2020-02-28 12:41:31,2020-02-20 07:39:37
+https://github.com/tensorflow/federated/issues/795,[],Text generation colab notebook throws error on keras evaluation,2,2020-02-07 18:17:46,2020-02-12 23:03:38,2020-02-12 23:03:38
+https://github.com/tensorflow/federated/issues/793,[],Use data generator to federated framework when train on large dataset ,9,2020-01-21 06:56:19,2020-03-06 04:23:17,2020-03-06 04:23:17
+https://github.com/tensorflow/federated/issues/790,[],Can't find tff research in released version,1,2019-12-10 19:12:43,2019-12-10 19:20:01,2019-12-10 19:20:01
+https://github.com/tensorflow/federated/issues/786,[],Making federated data!,5,2019-11-20 02:45:24,2020-01-16 18:05:07,2020-01-16 18:05:07
+https://github.com/tensorflow/federated/issues/785,[],Model with multiple inputs of varying shape,10,2019-11-13 12:40:07,2020-04-19 10:50:27,2019-11-13 18:04:45
+https://github.com/tensorflow/federated/issues/780,[],FileCheckpointManager causes exception on windows,6,2019-11-06 10:29:12,2020-06-15 18:23:05,2020-06-15 18:23:05
+https://github.com/tensorflow/federated/issues/779,[],windows support,5,2019-10-24 13:46:49,2020-05-14 03:55:37,2020-05-13 06:00:04
+https://github.com/tensorflow/federated/issues/776,[],How does tff allocate processes or threads?,1,2019-10-22 07:56:28,2019-11-07 13:01:03,2019-11-07 13:00:59
+https://github.com/tensorflow/federated/issues/774,[],NotFoundError on import after pip install,2,2019-10-16 20:05:27,2019-10-17 16:57:04,2019-10-17 16:57:03
+https://github.com/tensorflow/federated/issues/771,[],Unable to build from source on macOS,2,2019-10-14 12:32:51,2019-11-01 02:54:00,2019-11-01 02:54:00
+https://github.com/tensorflow/federated/issues/770,[],cannot import name 'computation_pb2',3,2019-10-09 14:13:10,2019-10-10 03:36:26,2019-10-10 03:36:26
+https://github.com/tensorflow/federated/issues/769,[],Unable to run tutorial code in Python 3,3,2019-10-04 04:47:22,2019-12-06 20:01:11,2019-12-06 20:01:10
+https://github.com/tensorflow/federated/issues/767,[],"TypeError : Expected a TensorFlow computation, found intrinsic.",1,2019-09-28 14:45:59,2019-09-29 03:18:38,2019-09-29 03:18:38
+https://github.com/tensorflow/federated/issues/766,[],Installation problem,3,2019-09-28 08:49:41,2019-10-09 15:36:19,2019-10-09 15:36:18
+https://github.com/tensorflow/federated/issues/765,[],The best version of frameworks that support federated,1,2019-09-21 01:29:17,2019-09-23 18:04:04,2019-09-23 18:04:04
+https://github.com/tensorflow/federated/issues/764,[],"TypeError: Expected a TensorFlow computation, found intrinsic.",2,2019-09-20 21:39:42,2019-12-20 12:01:02,2019-09-24 20:42:21
+https://github.com/tensorflow/federated/issues/763,[],Manipulating weight delta element-wisely,1,2019-09-20 15:54:10,2019-10-02 15:29:51,2019-10-02 15:29:51
+https://github.com/tensorflow/federated/issues/761,[],"TypeError: Expected collections.abc.Iterable, found method.",3,2019-09-11 11:27:32,2019-09-12 23:42:23,2019-09-12 23:42:23
+https://github.com/tensorflow/federated/issues/759,[],Problem with 'tf-nightly version',6,2019-09-09 08:50:35,2019-10-08 02:15:37,2019-09-10 13:19:21
+https://github.com/tensorflow/federated/issues/758,[],How to manually reset the model weights of federated averaging algo？,10,2019-09-06 00:16:58,2019-09-19 15:40:13,2019-09-19 15:40:13
+https://github.com/tensorflow/federated/issues/755,[],TypeError: `dataset_or_iterator` must be a Dataset or Iterator object,10,2019-09-02 07:13:08,2019-10-02 08:52:26,2019-09-09 03:03:38
+https://github.com/tensorflow/federated/issues/752,[],Fail to test the tff in macos,2,2019-08-23 08:05:13,2019-08-24 04:58:41,2019-08-24 04:58:41
+https://github.com/tensorflow/federated/issues/751,[],Memory blows up using CNN model with multiple clients,4,2019-08-22 20:52:07,2019-12-01 19:58:34,2019-12-01 19:58:34
+https://github.com/tensorflow/federated/issues/748,[],The official document should be updated,2,2019-08-22 05:59:56,2019-09-02 13:25:41,2019-09-02 13:25:40
+https://github.com/tensorflow/federated/issues/747,[],"Need help for ""federated_learning_for_text_generation""",4,2019-08-21 11:18:07,2019-09-06 04:12:04,2019-09-06 04:12:04
+https://github.com/tensorflow/federated/issues/744,[],Cannot use with tf-nightly-gpu,1,2019-08-12 01:55:13,2019-08-12 16:00:23,2019-08-12 16:00:23
+https://github.com/tensorflow/federated/issues/743,[],Unable to run Image classification example,2,2019-08-08 06:25:13,2019-08-09 06:10:54,2019-08-09 06:10:54
+https://github.com/tensorflow/federated/issues/741,[],TF 2.0 migration,3,2019-07-31 22:35:02,2019-10-24 14:16:26,2019-10-24 14:16:25
+https://github.com/tensorflow/federated/issues/724,[],"Can't run the result of ""hello world""",9,2019-07-23 06:40:09,2019-08-13 16:04:51,2019-08-13 16:04:51
+https://github.com/tensorflow/federated/issues/717,[],Can't be installed in Macos,4,2019-07-22 11:06:43,2019-10-24 14:17:11,2019-10-24 14:17:10
+https://github.com/tensorflow/federated/issues/709,[],"Unsuccessfully running tensorflow federated ""Hello world"" example",2,2019-07-19 13:30:38,2019-08-27 16:00:15,2019-08-27 16:00:14
+https://github.com/tensorflow/federated/issues/677,[],front page example does not run,2,2019-07-11 10:34:09,2019-07-12 07:02:44,2019-07-12 06:58:52
+https://github.com/tensorflow/federated/issues/611,[],AttributeError: module 'tensorflow._api.v1.data.experimental' has no attribute 'NestedStructure',1,2019-06-25 16:24:34,2019-06-25 16:52:03,2019-06-25 16:52:03
+https://github.com/tensorflow/federated/issues/610,[],"The error ""ImportError: cannot import name 'computation_pb2'"" still appears",3,2019-06-25 11:13:01,2019-07-10 22:43:03,2019-07-10 22:43:03
+https://github.com/tensorflow/federated/issues/609,[],tff tutorial notebooks are broken,2,2019-06-25 10:08:11,2019-06-25 16:51:11,2019-06-25 16:51:11
+https://github.com/tensorflow/federated/issues/593,[],Federated with KerasRegressor?,1,2019-06-23 10:33:18,2019-06-23 14:00:35,2019-06-23 14:00:35
+https://github.com/tensorflow/federated/issues/578,[],Cannot use GPU to train in 0.5.0,7,2019-06-17 07:43:44,2019-12-06 20:27:22,2019-12-06 20:27:21
+https://github.com/tensorflow/federated/issues/534,[],Why the evaluation on test using the sample_clients from training in the EMNIST tutorial?,1,2019-06-04 00:32:53,2019-06-05 03:04:37,2019-06-05 03:04:34
+https://github.com/tensorflow/federated/issues/522,[],Follow up on #258 TFF with BatchNormalization,6,2019-06-01 18:50:08,2019-06-06 21:00:57,2019-06-06 21:00:57
+https://github.com/tensorflow/federated/issues/494,[],cannot install v0.5.0,1,2019-05-29 06:51:36,2019-05-29 07:01:21,2019-05-29 07:01:21
+https://github.com/tensorflow/federated/issues/493,[],Results cannot improve by rounding (.next): Federated TF ,1,2019-05-29 01:30:22,2019-06-05 03:05:13,2019-05-29 18:46:30
+https://github.com/tensorflow/federated/issues/448,[],Issue of AssignAddVariableOp,3,2019-05-17 08:13:43,2019-05-20 15:35:25,2019-05-20 15:35:25
+https://github.com/tensorflow/federated/issues/418,[],Error tf.keras.losses,7,2019-05-13 01:34:46,2019-05-15 14:22:19,2019-05-15 14:22:19
+https://github.com/tensorflow/federated/issues/416,[],Multiple inputs with keras model?,3,2019-05-12 01:49:41,2019-05-15 17:09:54,2019-05-15 17:09:54
+https://github.com/tensorflow/federated/issues/399,[],How adpot other datasets,1,2019-05-07 04:49:33,2019-05-07 15:48:54,2019-05-07 15:48:54
+https://github.com/tensorflow/federated/issues/395,[],AttributeError: module 'tensorflow' has no attribute 'function',2,2019-05-06 08:57:42,2019-05-16 16:11:09,2019-05-16 16:11:09
+https://github.com/tensorflow/federated/issues/373,[],Why TFF runs slowly even with only one client?,6,2019-04-29 11:44:21,2020-03-09 04:34:53,2020-03-09 04:34:52
+https://github.com/tensorflow/federated/issues/361,[],Using GPU produces error after upgrading to 0.4.0,2,2019-04-24 23:51:44,2019-12-06 20:02:33,2019-12-06 20:02:33
+https://github.com/tensorflow/federated/issues/345,[],Can we offer nightly pip packages? ,3,2019-04-19 06:41:59,2019-05-31 15:37:49,2019-05-31 15:37:49
+https://github.com/tensorflow/federated/issues/333,[],How to train on multiple GPUs?,4,2019-04-12 02:39:41,2019-05-31 15:38:35,2019-05-31 15:38:35
+https://github.com/tensorflow/federated/issues/326,[],is it work in win10,1,2019-04-10 12:43:33,2019-05-03 17:57:51,2019-05-03 17:57:50
+https://github.com/tensorflow/federated/issues/304,[],Memory blow up when using when not flattened image array,6,2019-04-04 06:07:24,2019-06-21 20:42:46,2019-06-21 20:42:46
+https://github.com/tensorflow/federated/issues/281,[],"Tutorial ""Federated Learning for Image Classification"" does not work.",5,2019-03-29 13:59:47,2019-04-04 20:25:15,2019-04-04 20:25:15
+https://github.com/tensorflow/federated/issues/262,[],AttributeError: module 'tensorflow_federated.python' has no attribute 'federated_mean',3,2019-03-22 14:51:52,2021-06-18 03:02:59,2019-03-22 15:29:38
+https://github.com/tensorflow/federated/issues/258,[],Keras set_weights function not working with batch normalization layer in the network,8,2019-03-20 20:58:09,2019-06-01 16:52:28,2019-04-01 17:30:47
+https://github.com/tensorflow/federated/issues/250,[],"No output from tff.federated_computation(), image classification example",3,2019-03-15 06:26:42,2019-03-25 04:53:59,2019-03-22 15:32:16
+https://github.com/tensorflow/federated/issues/247,[],examples/mnist problem,2,2019-03-14 09:08:40,2019-03-20 01:11:45,2019-03-20 01:11:45
+https://github.com/tensorflow/federated/issues/241,[],Error building the pip package with Bazel,8,2019-03-12 20:22:24,2019-05-31 15:34:12,2019-05-31 15:34:12
+https://github.com/tensorflow/federated/issues/236,[],Tensor is not an element of this graph,2,2019-03-12 09:56:59,2019-03-13 04:36:48,2019-03-13 04:36:48
+https://github.com/tensorflow/federated/issues/235,[],install and import problem,4,2019-03-12 03:34:25,2019-03-22 15:31:34,2019-03-22 15:31:34
+https://github.com/tensorflow/federated/issues/231,[],ImportError: cannot import name 'computation_pb2',10,2019-03-10 05:20:29,2019-06-25 11:11:59,2019-03-22 15:31:18
+https://github.com/tensorflow/federated/issues/225,[],No 'loss' attribute,3,2019-03-06 15:42:24,2019-03-06 17:21:07,2019-03-06 17:21:07
+https://github.com/tensorflow/federated/issues/224,[],Installing with pip breaks because TF2.0 doesn't have contrib,2,2019-03-06 14:01:46,2019-03-13 01:01:13,2019-03-13 01:01:12
+https://github.com/tensorflow/federated/issues/220,[],Issues with enabling eager execution.,1,2019-03-05 07:33:07,2019-03-05 09:17:28,2019-03-05 09:15:43
+https://github.com/tensorflow/federated/issues/103,[],Error in pip installation in venv: No matching distribution found,6,2019-02-07 19:31:35,2019-03-07 04:20:09,2019-02-07 19:47:09

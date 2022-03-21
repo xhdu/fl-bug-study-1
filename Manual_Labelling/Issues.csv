@@ -1,0 +1,193 @@
+﻿Bug,Framework,Source of Bug,Bug Type,Symptom,Root Cause
+https://github.com/OpenMined/PySyft/issues/5608,PySyft,FL framework,Framework evolution,Crash,FL Framework Evolution
+https://github.com/OpenMined/PySyft/issues/5530,PySyft,FL framework,Framework evolution,Crash,FL Framework Evolution
+https://github.com/OpenMined/PySyft/issues/5507,PySyft,FL framework,Framework evolution,Crash,FL Framework Evolution
+https://github.com/OpenMined/PySyft/issues/5132,PySyft,FL framework,Framework evolution,Crash,FL Framework Evolution
+https://github.com/OpenMined/PySyft/issues/4917,PySyft,FL framework,Framework evolution,Crash,FL Framework Evolution
+https://github.com/OpenMined/PySyft/issues/4745,PySyft,FL framework,FL-Others,Crash,API Evolution Issue
+https://github.com/OpenMined/PySyft/issues/4495,PySyft,FL framework,Framework evolution,Crash,FL Framework Evolution
+https://github.com/OpenMined/PySyft/issues/4492,PySyft,FL framework,Framework evolution,Crash,FL Framework Evolution
+https://github.com/OpenMined/PySyft/issues/4491,PySyft,FL framework,Framework evolution,Crash,FL Framework Evolution
+https://github.com/OpenMined/PySyft/issues/3774,PySyft,FL application,FL Configuration,Connection Refused,Improper Interaction Initialization/Establiah
+https://github.com/OpenMined/PySyft/issues/3558,PySyft,FL application,Environment,Crash,Unclear Environmental Issue
+https://github.com/OpenMined/PySyft/issues/3464,PySyft,FL framework,FL Configuration,Incorrect Functionality,Improper Interaction Initialization/Establiah
+https://github.com/OpenMined/PySyft/issues/3463,PySyft,FL application,Framework evolution,Crash,FL Framework Evolution
+https://github.com/OpenMined/PySyft/issues/3388,PySyft,FL application,Dependency,Crash,Dependency Incompatibility
+https://github.com/OpenMined/PySyft/issues/3369,PySyft,FL framework,Model building,Incorrect Functionality,Unsuitable ML/DL Algorithm Selection
+https://github.com/OpenMined/PySyft/issues/3261,PySyft,FL framework,Transformation & Transfer,Incorrect Functionality,Incorrect Tensor-related Implementation
+https://github.com/OpenMined/PySyft/issues/3260,PySyft,FL framework,Security mechanism,Crash,Incorrect Parameter/Message Transfer
+https://github.com/OpenMined/PySyft/issues/3259,PySyft,FL framework,Transformation & Transfer,Crash,Incorrect Tensor-related Implementation
+https://github.com/OpenMined/PySyft/issues/3250,PySyft,FL application,Misuse,Incorrect Functionality,API Misuse
+https://github.com/OpenMined/PySyft/issues/3245,PySyft,FL framework,FL Configuration,Crash,Improper Interaction Initialization/Establiah
+https://github.com/OpenMined/PySyft/issues/3214,PySyft,FL framework,Transformation & Transfer,Incorrect Functionality,Incorrect Parameter/Message Transfer
+https://github.com/OpenMined/PySyft/issues/3174,PySyft,FL application,Environment,Crash,Unclear Environmental Issue
+https://github.com/OpenMined/PySyft/issues/3131,PySyft,FL framework,Model building,Crash,Unsuitable ML/DL Algorithm Selection
+https://github.com/OpenMined/PySyft/issues/3095,PySyft,FL application,Misuse,Crash,"Incorrect Data Type, Shape & Format"
+https://github.com/OpenMined/PySyft/issues/3091,PySyft,FL application,Misuse,Crash,API Misuse
+https://github.com/OpenMined/PySyft/issues/3063,PySyft,FL framework,Prediction & Evaluation,Crash,"Incorrect Data Type, Shape & Format"
+https://github.com/OpenMined/PySyft/issues/3014,PySyft,FL application,FL Configuration,Connection Refused,Improper Interaction Initialization/Establiah
+https://github.com/OpenMined/PySyft/issues/3002,PySyft,FL application,Model building,Crash,Improper Interaction Initialization/Establiah
+https://github.com/OpenMined/PySyft/issues/2715,PySyft,FL application,FL Configuration,Crash,Improper Interaction Initialization/Establiah
+https://github.com/OpenMined/PySyft/issues/2669,PySyft,FL application,Misuse,Crash,Improper Interaction Initialization/Establiah
+https://github.com/OpenMined/PySyft/issues/2631,PySyft,FL framework,FL Configuration,Crash,Incorrect FL Algorithm Implementation
+https://github.com/OpenMined/PySyft/issues/2576,PySyft,FL framework,Framework evolution,Incorrect Functionality,FL Framework Evolution
+https://github.com/OpenMined/PySyft/issues/2556,PySyft,FL application,Misuse,Crash,Missing/Incorrect Encryption Implementation
+https://github.com/OpenMined/PySyft/issues/2494,PySyft,FL framework,FL Configuration,Crash,Incorrect FL Algorithm Implementation
+https://github.com/OpenMined/PySyft/issues/2447,PySyft,FL framework,Transformation & Transfer,Incorrect Functionality,Incorrect Parameter/Message Transfer
+https://github.com/OpenMined/PySyft/issues/2447,PySyft,FL framework,Security mechanism,Incorrect Functionality,Incorrect Parameter/Message Transfer
+https://github.com/OpenMined/PySyft/issues/2392,PySyft,FL framework,Data loading & processing,Crash,API Misuse
+https://github.com/OpenMined/PySyft/issues/2390,PySyft,FL framework,FL Configuration,Connection Refused,Improper Interaction Initialization/Establiah
+https://github.com/OpenMined/PySyft/issues/2365,PySyft,FL application,Misuse,Crash,Incorrect Parameter/Message Transfer
+https://github.com/OpenMined/PySyft/issues/2361,PySyft,FL application,Misuse,Incorrect Functionality,API Misuse
+https://github.com/OpenMined/PySyft/issues/2346,PySyft,FL application,Model building,Poor Performance,Improper Hyperparameter
+https://github.com/OpenMined/PySyft/issues/2346,PySyft,FL application,Dependency,Poor Performance,Dependency Incompatibility
+https://github.com/OpenMined/PySyft/issues/2333,PySyft,FL framework,FL Configuration,Incorrect Functionality,Incorrect FL Algorithm Implementation
+https://github.com/OpenMined/PySyft/issues/2281,PySyft,FL framework,FL Configuration,Crash,Improper Interaction Initialization/Establiah
+https://github.com/OpenMined/PySyft/issues/2267,PySyft,FL application,Dependency,Crash,Dependency Incompatibility
+https://github.com/OpenMined/PySyft/issues/2243,PySyft,FL application,Dependency,Crash,Dependency Incompatibility
+https://github.com/OpenMined/PySyft/issues/2234,PySyft,FL application,Dependency,Crash,Dependency Incompatibility
+https://github.com/OpenMined/PySyft/issues/2207,PySyft,FL application,FL-Others,Incorrect Functionality,Model Initialization Issue
+https://github.com/OpenMined/PySyft/issues/2202,PySyft,FL framework,Broadcast,Crash,Missing/Incorrect Exception Checking
+https://github.com/OpenMined/PySyft/issues/2168,PySyft,FL application,Dependency,Crash,API Misuse
+https://github.com/OpenMined/PySyft/issues/2135,PySyft,FL application,Dependency,Crash,Dependency Incompatibility
+https://github.com/OpenMined/PySyft/issues/2132,PySyft,FL application,Misuse,Crash,Unsuitable ML/DL Algorithm Selection
+https://github.com/OpenMined/PySyft/issues/2070,PySyft,FL framework,Model building,Crash,Incorrect Training Strategy
+https://github.com/OpenMined/PySyft/issues/2047,PySyft,FL framework,FL-Others,Crash,Incorrect Tensor-related Implementation
+https://github.com/OpenMined/PySyft/issues/2011,PySyft,FL application,Misuse,Incorrect Functionality,Incorrect Training Strategy
+https://github.com/OpenMined/PySyft/issues/1992,PySyft,FL framework,FL Configuration,Crash,Incorrect FL Algorithm Implementation
+https://github.com/OpenMined/PySyft/issues/1978,PySyft,FL framework,Data loading & processing,Crash,API Misuse
+https://github.com/OpenMined/PySyft/issues/1919,PySyft,FL application,FL Configuration,Crash,Improper Interaction Initialization/Establiah
+https://github.com/OpenMined/PySyft/issues/1655,PySyft,FL framework,Framework evolution,Crash,FL Framework Evolution
+https://github.com/OpenMined/PySyft/issues/1645,PySyft,FL framework,Data loading & processing,Incorrect Functionality,Data-Others
+https://github.com/OpenMined/PySyft/issues/1502,PySyft,FL framework,Security mechanism,Security Risk,Missing/Incorrect Encryption Implementation
+https://github.com/OpenMined/PySyft/issues/1442,PySyft,FL application,Misuse,Crash,Unsuitable ML/DL Algorithm Selection
+https://github.com/OpenMined/PySyft/issues/1381,PySyft,FL application,Misuse,Crash,API Misuse
+https://github.com/OpenMined/PySyft/issues/1350,PySyft,FL framework,Broadcast,Crash,Incorrect Parameter/Message Transfer
+https://github.com/OpenMined/PySyft/issues/1314,PySyft,FL framework,Dependency,Crash,Missing Dependency Import
+https://github.com/OpenMined/PySyft/issues/393,PySyft,FL framework,Security mechanism,Crash,Incorrect Tensor-related Implementation
+https://github.com/OpenMined/PySyft/issues/390,PySyft,FL framework,Security mechanism,Crash,Incorrect Tensor-related Implementation
+https://github.com/OpenMined/PySyft/issues/118,PySyft,FL framework,Dependency,Incorrect Functionality,API Misuse
+https://github.com/OpenMined/PySyft/issues/74,PySyft,FL framework,Transformation & Transfer,Incorrect Functionality,Incorrect Tensor-related Implementation
+https://github.com/OpenMined/PySyft/issues/74,PySyft,FL framework,Security mechanism,Incorrect Functionality,Incorrect Tensor-related Implementation
+https://github.com/FederatedAI/FATE/issues/3132,FATE,FL application,FL Configuration,Crash,Incorrect Data Loading
+https://github.com/FederatedAI/FATE/issues/2977,FATE,FL framework,User interface,Incorrect Functionality,"Incorrect Data Type, Shape & Format"
+https://github.com/FederatedAI/FATE/issues/2909,FATE,FL application,Deployment,Deployment Failure,Incorrect deployment
+https://github.com/FederatedAI/FATE/issues/2834,FATE,FL application,Misuse,Crash,Unsuitable ML/DL Algorithm Selection
+https://github.com/FederatedAI/FATE/issues/2817,FATE,FL application,Data loading & processing,Crash,Data-Others
+https://github.com/FederatedAI/FATE/issues/2758,FATE,FL framework,Aggregation & Update,Poor Performance,Improper Entity Alignment
+https://github.com/FederatedAI/FATE/issues/2452,FATE,FL framework,Misuse,Incorrect Functionality,Unsuitable ML/DL Algorithm Selection
+https://github.com/FederatedAI/FATE/issues/2449,FATE,FL application,FL Configuration,Connection Refused,Improper Interaction Initialization/Establiah
+https://github.com/FederatedAI/FATE/issues/2440,FATE,FL application,Input Data Error,Crash,"Incorrect Data Type, Shape & Format"
+https://github.com/FederatedAI/FATE/issues/2412,FATE,FL application,Environment,Hang,Others
+https://github.com/FederatedAI/FATE/issues/2332,FATE,FL application,FL Configuration,Crash,Improper Interaction Initialization/Establiah
+https://github.com/FederatedAI/FATE/issues/2153,FATE,FL application,Misuse,Crash,API Misuse
+https://github.com/FederatedAI/FATE/issues/2082,FATE,FL framework,FL-Others,Incorrect Functionality,Improper Memory Usage
+https://github.com/FederatedAI/FATE/issues/1824,FATE,FL application,Input Data Error,Crash,Incorrect Data Loading
+https://github.com/FederatedAI/FATE/issues/1699,FATE,FL application,Environment,Crash,Unclear Environmental Issue
+https://github.com/FederatedAI/FATE/issues/1670,FATE,FL application,Misuse,Crash,"Incorrect Data Type, Shape & Format"
+https://github.com/FederatedAI/FATE/issues/1624,FATE,FL application,Misuse,Crash,Improper Entity Alignment
+https://github.com/FederatedAI/FATE/issues/1551,FATE,FL framework,Security mechanism,Crash,Incorrect Tensor-related Implementation
+https://github.com/FederatedAI/FATE/issues/1535,FATE,FL application,FL Configuration,Connection Refused,Improper Interaction Initialization/Establiah
+https://github.com/FederatedAI/FATE/issues/1410,FATE,FL application,Misuse,Incorrect Functionality,Missing/Incorrect Encryption Implementation
+https://github.com/FederatedAI/FATE/issues/1409,FATE,FL framework,Deployment,Crash,Data Absence
+https://github.com/FederatedAI/FATE/issues/1408,FATE,FL framework,Model building,Poor Performance,Improper Hyperparameter
+https://github.com/FederatedAI/FATE/issues/1408,FATE,FL framework,Prediction & Evaluation,Poor Performance,Improper Hyperparameter
+https://github.com/FederatedAI/FATE/issues/1399,FATE,FL framework,Client computation,Low Efficiency,Improper Memory Usage
+https://github.com/FederatedAI/FATE/issues/1377,FATE,FL framework,Framework evolution,Crash,FL Framework Evolution
+https://github.com/FederatedAI/FATE/issues/1376,FATE,FL framework,Model building,Crash,"Incorrect Data Type, Shape & Format"
+https://github.com/FederatedAI/FATE/issues/1374,FATE,FL framework,Client computation,Incorrect Functionality,Incorrect Parameter/Message Transfer
+https://github.com/FederatedAI/FATE/issues/1373,FATE,FL application,Environment,Crash,Unclear Environmental Issue
+https://github.com/FederatedAI/FATE/issues/1247,FATE,FL framework,Security mechanism,Security Risk,Improper Interaction Initialization/Establiah
+https://github.com/FederatedAI/FATE/issues/1157,FATE,FL framework,Aggregation & Update,Crash,Incorrect FL Algorithm Implementation
+https://github.com/FederatedAI/FATE/issues/1156,FATE,FL application,Dependency,Deployment Failure,Incorrect deployment
+https://github.com/FederatedAI/FATE/issues/1089,FATE,FL framework,Prediction & Evaluation,Crash,"Incorrect Data Type, Shape & Format"
+https://github.com/FederatedAI/FATE/issues/1060,FATE,FL application,Misuse,Crash,API Misuse
+https://github.com/FederatedAI/FATE/issues/1047,FATE,FL framework,Broadcast,Crash,Data Absence
+https://github.com/FederatedAI/FATE/issues/1009,FATE,FL framework,Transformation & Transfer,Crash,Improper Entity Alignment
+https://github.com/FederatedAI/FATE/issues/980,FATE,FL application,Dependency,Crash,Dependency Incompatibility
+https://github.com/FederatedAI/FATE/issues/938,FATE,FL application,Deployment,Deployment Failure,Incorrect deployment
+https://github.com/FederatedAI/FATE/issues/887,FATE,FL application,Data loading & processing,Crash,Incorrect Data Split
+https://github.com/FederatedAI/FATE/issues/872,FATE,FL framework,Transformation & Transfer,Crash,Improper Hyperparameter
+https://github.com/FederatedAI/FATE/issues/869,FATE,FL framework,Aggregation & Update,Security Risk,Missing/Incorrect Encryption Implementation
+https://github.com/FederatedAI/FATE/issues/777,FATE,FL application ,Client computation,Crash,"Incorrect Data Type, Shape & Format"
+https://github.com/FederatedAI/FATE/issues/733,FATE,FL application,Environment,Connection Refused,Unclear Environmental Issue
+https://github.com/FederatedAI/FATE/issues/701,FATE,FL framework,FL-Others,Crash,Missing/Incorrect Exception Checking
+https://github.com/FederatedAI/FATE/issues/700,FATE,FL framework,Security mechanism,Security Risk,Missing/Incorrect Exception Checking
+https://github.com/FederatedAI/FATE/issues/697,FATE,FL framework,Client computation,Crash,"Incorrect Data Type, Shape & Format"
+https://github.com/FederatedAI/FATE/issues/695,FATE,FL framework,Client computation,Crash,Others
+https://github.com/FederatedAI/FATE/issues/646,FATE,FL framework,Client computation,Incorrect Functionality,Incorrect FL Algorithm Implementation
+https://github.com/FederatedAI/FATE/issues/632,FATE,FL application,Environment,Crash,Unclear Environmental Issue
+https://github.com/FederatedAI/FATE/issues/625,FATE,FL application,Environment,Crash,Unclear Environmental Issue
+https://github.com/FederatedAI/FATE/issues/566,FATE,FL framework,FL Configuration,Crash,Others
+https://github.com/FederatedAI/FATE/issues/549,FATE,FL application,Deployment,Deployment Failure,Incorrect deployment
+https://github.com/FederatedAI/FATE/issues/540,FATE,FL framework,Model building,Crash,Incorrect FL Algorithm Implementation
+https://github.com/FederatedAI/FATE/issues/518,FATE,FL application,Deployment,Deployment Failure,Incorrect deployment
+https://github.com/FederatedAI/FATE/issues/390,FATE,FL application,Deployment,Deployment Failure,Incorrect deployment
+https://github.com/FederatedAI/FATE/issues/313,FATE,FL framework,User interface,,Data Absence
+https://github.com/FederatedAI/FATE/issues/230,FATE,FL framework,Data loading & processing,Crash,Wrong Dependency Import
+https://github.com/FederatedAI/FATE/issues/229,FATE,FL application,Deployment,Hang,Incorrect deployment
+https://github.com/FederatedAI/FATE/issues/182,FATE,FL application,Dependency,Crash,Dependency Incompatibility
+https://github.com/FederatedAI/FATE/issues/170,FATE,FL framework,Prediction & Evaluation,Incorrect Functionality,"Incorrect Data Type, Shape & Format"
+https://github.com/FederatedAI/FATE/issues/135,FATE,FL application,Deployment,Deployment Failure,Incorrect deployment
+https://github.com/FederatedAI/FATE/issues/101,FATE,FL framework,Model building,Incorrect Functionality,Incorrect FL Algorithm Implementation
+https://github.com/FederatedAI/FATE/issues/93,FATE,FL framework,Model building,Incorrect Functionality,Incorrect FL Algorithm Implementation
+https://github.com/FederatedAI/FATE/issues/77,FATE,FL framework,Data loading & processing,,Missing/Incorrect Exception Checking
+https://github.com/FederatedAI/FATE/issues/55,FATE,FL framework,Dependency,Low Efficiency,Missing/Incorrect Exception Checking
+https://github.com/FederatedAI/FATE/issues/43,FATE,FL framework,Environment,Crash,Unclear Environmental Issue
+https://github.com/FederatedAI/FATE/issues/27,FATE,FL framework,Client computation,Crash,Incorrect FL Algorithm Implementation
+https://github.com/tensorflow/federated/issues/1811,TFF,FL framework,Aggregation & Update,Crash,Incorrect FL Algorithm Implementation
+https://github.com/tensorflow/federated/issues/1570,TFF,FL application,Model building,Crash,Incorrect Training Strategy
+https://github.com/tensorflow/federated/issues/1245,TFF,FL framework,Data loading & processing,Incorrect Functionality,Improper Memory Usage
+https://github.com/tensorflow/federated/issues/929,TFF,FL application,Deployment,Deployment Failure,Incorrect deployment
+https://github.com/tensorflow/federated/issues/928,TFF,FL application,Deployment,Deployment Failure,Incorrect deployment
+https://github.com/tensorflow/federated/issues/902,TFF,FL application,Environment,Crash,Unclear Environmental Issue
+https://github.com/tensorflow/federated/issues/897,TFF,FL application,Misuse,Crash,API Misuse
+https://github.com/tensorflow/federated/issues/896,TFF,FL framework,Data loading & processing,Incorrect Functionality,Incorrect Data Loading
+https://github.com/tensorflow/federated/issues/895,TFF,FL application,Deployment,Deployment Failure,Incorrect deployment
+https://github.com/tensorflow/federated/issues/892,TFF,FL application,Framework evolution,Crash,FL Framework Evolution
+https://github.com/tensorflow/federated/issues/884,TFF,FL application,Environment,,Unclear Environmental Issue
+https://github.com/tensorflow/federated/issues/876,TFF,FL application,Framework evolution,Crash,FL Framework Evolution
+https://github.com/tensorflow/federated/issues/860,TFF,FL application,Misuse,Incorrect Functionality,API Misuse
+https://github.com/tensorflow/federated/issues/820,TFF,FL application,Data loading & processing,Crash,"Incorrect Data Type, Shape & Format"
+https://github.com/tensorflow/federated/issues/751,TFF,FL application,Dependency,Crash,Dependency Incompatibility
+https://github.com/tensorflow/federated/issues/611,TFF,FL application,Framework evolution,Crash,FL Framework Evolution
+https://github.com/tensorflow/federated/issues/609,TFF,FL application,Framework evolution,Crash,FL Framework Evolution
+https://github.com/tensorflow/federated/issues/416,TFF,FL framework,Transformation & Transfer,Crash,"Incorrect Data Type, Shape & Format"
+https://github.com/adap/flower/issues/807,Flower,FL application,Misuse,Crash,"Incorrect Data Type, Shape & Format"
+https://github.com/adap/flower/issues/756,Flower,FL application,FL Configuration,Crash,Improper Interaction Initialization/Establiah
+https://github.com/adap/flower/issues/710,Flower,FL application,Environment,Crash,Unclear Environmental Issue
+https://github.com/adap/flower/issues/659,Flower,FL application,Prediction & Evaluation,Crash,Improper Evaluation Metrics
+https://github.com/adap/flower/issues/540,Flower,FL framework,Prediction & Evaluation,Incorrect Functionality,Incorrect Interaction Closing
+https://github.com/adap/flower/issues/537,Flower,FL application,FL Configuration,Crash,Improper Interaction Initialization/Establiah
+https://github.com/adap/flower/issues/408,Flower,FL framework,Client computation,Crash,Incorrect Interaction Closing
+https://github.com/bytedance/fedlearner/issues/402,Fedlearner,FL framework,Data loading & processing,Crash,Others
+https://github.com/bytedance/fedlearner/issues/395,Fedlearner,FL framework,Data loading & processing,Crash,Data-Others
+https://github.com/PaddlePaddle/PaddleFL/issues/85,PaddleFL,FL application,FL Configuration,Poor Performance,Improper Interaction Initialization/Establiah
+https://github.com/PaddlePaddle/PaddleFL/issues/80,PaddleFL,FL application,Misuse,Crash,API Misuse
+https://github.com/OpenMined/PySyft/issues/5559,PySyft,FL framework,Others-Test,Crash,
+https://github.com/OpenMined/PySyft/issues/5080,PySyft,FL framework,Others,Crash,
+https://github.com/OpenMined/PySyft/issues/4961,PySyft,FL framework,Others,Crash,
+https://github.com/OpenMined/PySyft/issues/3503,PySyft,FL framework,Others-Test,Crash,
+https://github.com/OpenMined/PySyft/issues/3467,PySyft,FL framework,Others-Test,Crash,
+https://github.com/OpenMined/PySyft/issues/3355,PySyft,FL framework,Others-Test,Crash,
+https://github.com/OpenMined/PySyft/issues/3344,PySyft,FL framework,Others-Test,Crash,
+https://github.com/OpenMined/PySyft/issues/1511,PySyft,FL framework,Others,Incorrect Functionality,
+https://github.com/OpenMined/PySyft/issues/1396,PySyft,FL framework,Others,Incorrect Functionality,
+https://github.com/FederatedAI/FATE/issues/2646,FATE,FL application,Others,Hang,
+https://github.com/FederatedAI/FATE/issues/788,FATE,FL framework,Others-Log,Incorrect Functionality,
+https://github.com/FederatedAI/FATE/issues/299,FATE,FL framework,Others-Test,Crash,
+https://github.com/FederatedAI/FATE/issues/191,FATE,FL framework,Others-Log,Incorrect Functionality,
+https://github.com/OpenMined/PySyft/issues/3333,PySyft,FL framework,Documentation,,
+https://github.com/OpenMined/PySyft/issues/3208,PySyft,FL framework,Documentation,,
+https://github.com/OpenMined/PySyft/issues/3045,PySyft,FL framework,Documentation,,
+https://github.com/OpenMined/PySyft/issues/2682,PySyft,FL framework,Documentation,,
+https://github.com/OpenMined/PySyft/issues/2478,PySyft,FL framework,Documentation,,
+https://github.com/OpenMined/PySyft/issues/2359,PySyft,FL framework,Documentation,,
+https://github.com/OpenMined/PySyft/issues/195,PySyft,FL framework,Documentation,,
+https://github.com/FederatedAI/FATE/issues/1162,FATE,FL framework,Documentation,,
+https://github.com/FederatedAI/FATE/issues/897,FATE,FL framework,Documentation,,
+https://github.com/FederatedAI/FATE/issues/626,FATE,FL framework,Documentation,,
+https://github.com/tensorflow/federated/issues/1336,TFF,FL framework,Documentation,,
+https://github.com/tensorflow/federated/issues/795,TFF,FL framework,Documentation,,
+https://github.com/tensorflow/federated/issues/748,TFF,FL framework,Documentation,,
+https://github.com/tensorflow/federated/issues/236,TFF,FL framework,Documentation,,

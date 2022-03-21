@@ -1,0 +1,48 @@
+Bug,Framework,Source of Bug,Bug Type,Root Cause,Symptom
+https://stackoverflow.com/questions/68412517,SO,FL application,Model building,"Incorrect Data Type, Shape & Format",Crash
+https://stackoverflow.com/questions/65434193,SO,FL application,Model building,Wrong GPU Usage,Crash
+https://stackoverflow.com/questions/66206118,SO,FL application,Data loading & processing,API Evolution Issue,Crash
+https://stackoverflow.com/questions/66206118,SO,FL application,Framework evolution,API Evolution Issue,Crash
+https://stackoverflow.com/questions/66557738,SO,FL application,Model building,Improper Memory Usage,Crash
+https://stackoverflow.com/questions/62754913,SO,FL application,Model building,Model Initialization Issue,Crash
+https://stackoverflow.com/questions/65471612,SO,FL application,Framework evolution,API Evolution Issue,Crash
+https://stackoverflow.com/questions/67053731,SO,FL application,Framework evolution,API Evolution Issue,Crash
+https://stackoverflow.com/questions/57381329,SO,FL application,Model building,Incorrect FL Algorithm Implementation,Crash
+https://stackoverflow.com/questions/60181180,SO,FL application,Framework evolution,"Incorrect Data Type, Shape & Format",Crash
+https://stackoverflow.com/questions/60181180,SO,FL application,Data loading & processing,"Incorrect Data Type, Shape & Format",Crash
+https://stackoverflow.com/questions/60457040,SO,FL application,Model building,Improper Hyperparameter,Crash
+https://stackoverflow.com/questions/60903579,SO,FL application,Deployment,Incorrect deployment,Deployment Failure
+https://stackoverflow.com/questions/62332459,SO,FL application,Data loading & processing,"Incorrect Data Type, Shape & Format",Crash
+https://stackoverflow.com/questions/62398225,SO,FL application,Model building,"Incorrect Data Type, Shape & Format",Crash
+https://stackoverflow.com/questions/62786889,SO,FL application,Model building,"Incorrect Data Type, Shape & Format",Crash
+https://stackoverflow.com/questions/62906596,SO,FL application,Model building,Incorrect FL Algorithm Implementation,Crash
+https://stackoverflow.com/questions/65481370,SO,FL application,Client computation,"Incorrect Data Type, Shape & Format",Crash
+https://stackoverflow.com/questions/67138338,SO,FL application,Framework evolution,API Evolution Issue,Crash
+https://stackoverflow.com/questions/67147951,SO,FL application,Framework evolution,API Evolution Issue,Crash
+https://stackoverflow.com/questions/68691256,SO,FL framework,Framework evolution,FL Framework Evolution,Crash
+https://stackoverflow.com/questions/68891143,SO,FL application,FL Configuration,Improper Interaction Initialization/Establiah,Crash
+https://stackoverflow.com/questions/69614134,SO,FL application,Aggregation & Update,"Incorrect Data Type, Shape & Format",Crash
+https://stackoverflow.com/questions/58484719,SO,FL application,Data loading & processing,"Incorrect Data Type, Shape & Format",Crash
+https://stackoverflow.com/questions/61882422,SO,FL application,Data loading & processing,API Evolution Issue,Crash
+https://stackoverflow.com/questions/61882422,SO,FL application,Framework evolution,API Evolution Issue,Crash
+https://stackoverflow.com/questions/66304067,SO,FL framework,Data loading & processing,FL Framework Evolution,Crash
+https://stackoverflow.com/questions/69325272,SO,FL application,Model building,"Incorrect Data Type, Shape & Format",Crash
+https://stackoverflow.com/questions/69619028,SO,FL application,Aggregation & Update,Incorrect FL Algorithm Implementation,Crash
+https://stackoverflow.com/questions/60202610,SO,FL framework,FL Configuration,Improper Interaction Initialization/Establiah,Crash
+https://stackoverflow.com/questions/66680070,SO,FL application,Dependency,Dependency Incompatibility,Crash
+https://stackoverflow.com/questions/61850455,SO,FL application,Deployment,Incorrect deployment,Deployment Failure
+https://stackoverflow.com/questions/66483639,SO,FL framework,Framework evolution,FL Framework Evolution,Crash
+https://stackoverflow.com/questions/65236793,SO,FL application,Model building,Model Initialization Issue,Crash
+https://stackoverflow.com/questions/60365627,SO,FL framework,Framework evolution,FL Framework Evolution,Crash
+https://stackoverflow.com/questions/59741397,SO,FL application,Data loading & processing,"Incorrect Data Type, Shape & Format",Crash
+https://stackoverflow.com/questions/65578498,SO,FL application,Data loading & processing,"Incorrect Data Type, Shape & Format",Crash
+https://stackoverflow.com/questions/67533039,SO,FL application,Model building,Unsuitable ML/DL Algorithm Selection,Crash
+https://stackoverflow.com/questions/60815004,SO,FL application,Deployment,Incorrect deployment,Deployment Failure
+https://stackoverflow.com/questions/60920524,SO,FL application,Deployment,Incorrect deployment,Deployment Failure
+https://stackoverflow.com/questions/60982530,SO,FL application,Model building,Model Initialization Issue,Crash
+https://stackoverflow.com/questions/60866002,SO,FL application,FL Configuration,Incorrect Interaction Closing,Crash
+https://stackoverflow.com/questions/59484278,SO,FL application,Data loading & processing,Incorrect Data Split,Crash
+https://stackoverflow.com/questions/68018178,SO,FL application,Framework evolution,API Evolution Issue,Crash
+https://stackoverflow.com/questions/58367187,SO,FL application,Dependency,Wrong Dependency Import,Crash
+https://stackoverflow.com/questions/57581345,SO,FL application,Model building,Model Initialization Issue,Crash
+https://stackoverflow.com/questions/59239818,SO,FL application,Others,,Crash

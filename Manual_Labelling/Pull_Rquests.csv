@@ -1,0 +1,210 @@
+﻿Bug,Framework,Source of Bug,Bug Type,Root Cause
+https://github.com/OpenMined/PySyft/pull/4640,PySyft,FL framework,Transformation & Transfer,Incorrect Parameter/Message Transfer
+https://github.com/OpenMined/PySyft/pull/3705,PySyft,FL framework,Security mechanism,Missing/Incorrect Exception Checking
+https://github.com/OpenMined/PySyft/pull/3680,PySyft,FL framework,Security mechanism,Missing/Incorrect Encryption Implementation
+https://github.com/OpenMined/PySyft/pull/3679,PySyft,FL framework,Data loading & processing,"Incorrect Data Type, Shape & Format"
+https://github.com/OpenMined/PySyft/pull/3595,PySyft,FL framework,Transformation & Transfer,Improper Interaction Initialization/Establiah
+https://github.com/OpenMined/PySyft/pull/3593,PySyft,FL framework,FL Configuration,Incorrect Parameter/Message Transfer
+https://github.com/OpenMined/PySyft/pull/3591,PySyft,FL framework,FL Configuration,Improper Interaction Initialization/Establiah
+https://github.com/OpenMined/PySyft/pull/3567,PySyft,FL framework,Client computation,Improper Hyperparameter
+https://github.com/OpenMined/PySyft/pull/3563,PySyft,FL framework,FL Configuration,Incorrect Parameter/Message Transfer
+https://github.com/OpenMined/PySyft/pull/3560,PySyft,FL framework,Dependency,Wrong Dependency Import
+https://github.com/OpenMined/PySyft/pull/3525,PySyft,FL framework,Model building,Improper Interaction Initialization/Establiah
+https://github.com/OpenMined/PySyft/pull/3511,PySyft,FL framework,Dependency,Missing Dependency Import
+https://github.com/OpenMined/PySyft/pull/3405,PySyft,FL framework,FL Configuration,Improper Interaction Initialization/Establiah
+https://github.com/OpenMined/PySyft/pull/3396,PySyft,FL framework,Data loading & processing,"Incorrect Data Type, Shape & Format"
+https://github.com/OpenMined/PySyft/pull/3376,PySyft,FL framework,Model building,Incorrect Tensor-related Implementation
+https://github.com/OpenMined/PySyft/pull/3288,PySyft,FL framework,Environment,Dependency Incompatibility
+https://github.com/OpenMined/PySyft/pull/3285,PySyft,FL framework,Transformation & Transfer,Incorrect Tensor-related Implementation
+https://github.com/OpenMined/PySyft/pull/3271,PySyft,FL framework,Transformation & Transfer,Incorrect Tensor-related Implementation
+https://github.com/OpenMined/PySyft/pull/3205,PySyft,FL framework,Model building,Improper Hyperparameter
+https://github.com/OpenMined/PySyft/pull/3199,PySyft,FL framework,Model building,Others
+https://github.com/OpenMined/PySyft/pull/3196,PySyft,FL framework,Dependency,Dependency Incompatibility
+https://github.com/OpenMined/PySyft/pull/3067,PySyft,FL framework,Framework evolution,FL Framework Evolution
+https://github.com/OpenMined/PySyft/pull/2749,PySyft,FL framework,Dependency,Wrong Dependency Import
+https://github.com/OpenMined/PySyft/pull/2733,PySyft,FL framework,Broadcast,Incorrect Parameter/Message Transfer
+https://github.com/OpenMined/PySyft/pull/2733,PySyft,FL framework,Aggregation & Update,Incorrect Parameter/Message Transfer
+https://github.com/OpenMined/PySyft/pull/2543,PySyft,FL framework,Security mechanism,"Incorrect Data Type, Shape & Format"
+https://github.com/OpenMined/PySyft/pull/2491,PySyft,FL framework,Dependency,Dependency Incompatibility
+https://github.com/OpenMined/PySyft/pull/2437,PySyft,FL framework,Security mechanism,Missing/Incorrect Exception Checking
+https://github.com/OpenMined/PySyft/pull/2431,PySyft,FL framework,FL Configuration,Improper Interaction Initialization/Establiah
+https://github.com/OpenMined/PySyft/pull/2407,PySyft,FL framework,Data loading & processing,Incorrect Data Split
+https://github.com/OpenMined/PySyft/pull/2395,PySyft,FL framework,FL Configuration,Improper Interaction Initialization/Establiah
+https://github.com/OpenMined/PySyft/pull/2339,PySyft,FL framework,FL Configuration,Incorrect FL Algorithm Implementation
+https://github.com/OpenMined/PySyft/pull/2262,PySyft,FL framework,Model building,Missing/Incorrect Exception Checking
+https://github.com/OpenMined/PySyft/pull/2239,PySyft,FL framework,Security mechanism,Missing/Incorrect Exception Checking
+https://github.com/OpenMined/PySyft/pull/2102,PySyft,FL framework,Data loading & processing,"Incorrect Data Type, Shape & Format"
+https://github.com/OpenMined/PySyft/pull/2050,PySyft,FL framework,Client computation,Incorrect Tensor-related Implementation
+https://github.com/OpenMined/PySyft/pull/1736,PySyft,FL framework,Broadcast,Improper Interaction Initialization/Establiah
+https://github.com/OpenMined/PySyft/pull/1736,PySyft,FL framework,Aggregation & Update,Improper Interaction Initialization/Establiah
+https://github.com/OpenMined/PySyft/pull/1646,PySyft,FL framework,Data loading & processing,Data-Others
+https://github.com/OpenMined/PySyft/pull/1643,PySyft,FL framework,Dependency,Wrong Dependency Import
+https://github.com/OpenMined/PySyft/pull/742,PySyft,FL framework,FL Configuration,Improper Interaction Initialization/Establiah
+https://github.com/OpenMined/PySyft/pull/740,PySyft,FL framework,Model building,Incorrect Training Strategy
+https://github.com/OpenMined/PySyft/pull/314,PySyft,FL framework,Transformation & Transfer,Incorrect Tensor-related Implementation
+https://github.com/OpenMined/PySyft/pull/145,PySyft,FL framework,FL-Others,Incorrect Tensor-related Implementation
+https://github.com/FederatedAI/FATE/pull/2578,FATE,FL framework,Model building,Incorrect FL Algorithm Implementation
+https://github.com/FederatedAI/FATE/pull/2518,FATE,FL framework,Data loading & processing,API Misuse
+https://github.com/FederatedAI/FATE/pull/2450,FATE,FL framework,Model building,"Incorrect Data Type, Shape & Format"
+https://github.com/FederatedAI/FATE/pull/2432,FATE,FL framework,Prediction & Evaluation,Others
+https://github.com/FederatedAI/FATE/pull/2400,FATE,FL framework,Client computation,Improper Interaction Initialization/Establiah
+https://github.com/FederatedAI/FATE/pull/2384,FATE,FL framework,FL-Others,Improper Interaction Initialization/Establiah
+https://github.com/FederatedAI/FATE/pull/2309,FATE,FL framework,Security mechanism,Incorrect Tensor-related Implementation
+https://github.com/FederatedAI/FATE/pull/2228,FATE,FL framework,Data loading & processing,Incorrect Data Loading
+https://github.com/FederatedAI/FATE/pull/2116,FATE,FL framework,Model building,"Incorrect Data Type, Shape & Format"
+https://github.com/FederatedAI/FATE/pull/2060,FATE,FL framework,Data loading & processing,Missing/Incorrect Exception Checking
+https://github.com/FederatedAI/FATE/pull/1961,FATE,FL framework,Model building,Incorrect FL Algorithm Implementation
+https://github.com/FederatedAI/FATE/pull/1918,FATE,FL framework,Prediction & Evaluation,Improper Evaluation Metrics
+https://github.com/FederatedAI/FATE/pull/1910,FATE,FL framework,Model building,Incorrect FL Algorithm Implementation
+https://github.com/FederatedAI/FATE/pull/1855,FATE,FL framework,Transformation & Transfer,Incorrect Tensor-related Implementation
+https://github.com/FederatedAI/FATE/pull/1781,FATE,FL framework,FL Configuration,Improper Interaction Initialization/Establiah
+https://github.com/FederatedAI/FATE/pull/1757,FATE,FL framework,Data loading & processing,"Incorrect Data Type, Shape & Format"
+https://github.com/FederatedAI/FATE/pull/1749,FATE,FL framework,Data loading & processing,Incorrect Data Split
+https://github.com/FederatedAI/FATE/pull/1746,FATE,FL framework,Transformation & Transfer,Improper Entity Alignment
+https://github.com/FederatedAI/FATE/pull/1712,FATE,FL framework,Framework evolution,API Evolution Issue
+https://github.com/FederatedAI/FATE/pull/1711,FATE,FL framework,FL-Others,Improper Interaction Initialization/Establiah
+https://github.com/FederatedAI/FATE/pull/1683,FATE,FL framework,Model building,"Incorrect Data Type, Shape & Format"
+https://github.com/FederatedAI/FATE/pull/1683,FATE,FL framework,Model building,"Incorrect Data Type, Shape & Format"
+https://github.com/FederatedAI/FATE/pull/1650,FATE,FL framework,Transformation & Transfer,Improper Entity Alignment
+https://github.com/FederatedAI/FATE/pull/1609,FATE,FL framework,Model building,Incorrect FL Algorithm Implementation
+https://github.com/FederatedAI/FATE/pull/1536,FATE,FL framework,Model building,"Incorrect Data Type, Shape & Format"
+https://github.com/FederatedAI/FATE/pull/1536,FATE,FL framework,Model building,Model Initialization Issue
+https://github.com/FederatedAI/FATE/pull/1482,FATE,FL framework,FL-Others,Incorrect FL Algorithm Implementation
+https://github.com/FederatedAI/FATE/pull/1449,FATE,FL framework,FL-Others,Others
+https://github.com/FederatedAI/FATE/pull/1444,FATE,FL framework,Prediction & Evaluation,"Incorrect Data Type, Shape & Format"
+https://github.com/FederatedAI/FATE/pull/1441,FATE,FL framework,Transformation & Transfer,Improper Entity Alignment
+https://github.com/FederatedAI/FATE/pull/1436,FATE,FL framework,Transformation & Transfer,Improper Entity Alignment
+https://github.com/FederatedAI/FATE/pull/1424,FATE,FL framework,Prediction & Evaluation,Improper Evaluation Metrics
+https://github.com/FederatedAI/FATE/pull/1421,FATE,FL framework,Transformation & Transfer,Improper Entity Alignment
+https://github.com/FederatedAI/FATE/pull/1415,FATE,FL framework,Prediction & Evaluation,Improper Evaluation Metrics
+https://github.com/FederatedAI/FATE/pull/1411,FATE,FL framework,Prediction & Evaluation,Unsuitable ML/DL Algorithm Selection
+https://github.com/FederatedAI/FATE/pull/1342,FATE,FL framework,Security mechanism,Incorrect FL Algorithm Implementation
+https://github.com/FederatedAI/FATE/pull/1200,FATE,FL framework,Model building,Incorrect FL Algorithm Implementation
+https://github.com/FederatedAI/FATE/pull/1197,FATE,FL framework,Framework evolution,API Evolution Issue
+https://github.com/FederatedAI/FATE/pull/1180,FATE,FL framework,Model building,Incorrect FL Algorithm Implementation
+https://github.com/FederatedAI/FATE/pull/1139,FATE,FL framework,Model building,Others
+https://github.com/FederatedAI/FATE/pull/1118,FATE,FL framework,Model building,Incorrect FL Algorithm Implementation
+https://github.com/FederatedAI/FATE/pull/1116,FATE,FL framework,Data loading & processing,Incorrect Data Loading
+https://github.com/FederatedAI/FATE/pull/963,FATE,FL framework,Deployment,Incorrect deployment
+https://github.com/tensorflow/federated/pull/1423,TFF,FL framework,Client computation,Improper Interaction Initialization/Establiah
+https://github.com/tensorflow/federated/pull/807,TFF,FL framework,Aggregation & Update,Incorrect FL Algorithm Implementation
+https://github.com/tensorflow/federated/pull/807,TFF,FL framework,Client computation,Others
+https://github.com/tensorflow/federated/pull/667,TFF,FL framework,Client computation,Incorrect Tensor-related Implementation
+https://github.com/tensorflow/federated/pull/640,TFF,FL framework,Client computation,Incorrect Tensor-related Implementation
+https://github.com/tensorflow/federated/pull/591,TFF,FL framework,Client computation,"Incorrect Data Type, Shape & Format"
+https://github.com/tensorflow/federated/pull/590,TFF,FL framework,Client computation,Incorrect Tensor-related Implementation
+https://github.com/tensorflow/federated/pull/571,TFF,FL framework,Client computation,Incorrect Tensor-related Implementation
+https://github.com/tensorflow/federated/pull/515,TFF,FL framework,Prediction & Evaluation,Improper Evaluation Metrics
+https://github.com/tensorflow/federated/pull/507,TFF,FL framework,Transformation & Transfer,Incorrect Tensor-related Implementation
+https://github.com/tensorflow/federated/pull/468,TFF,FL framework,Transformation & Transfer,Incorrect Tensor-related Implementation
+https://github.com/tensorflow/federated/pull/433,TFF,FL framework,Transformation & Transfer,Incorrect Tensor-related Implementation
+https://github.com/tensorflow/federated/pull/476,TFF,FL framework,Dependency,API Evolution Issue
+https://github.com/tensorflow/federated/pull/476,TFF,FL framework,Dependency,Missing Dependency Import
+https://github.com/tensorflow/federated/pull/400,TFF,FL framework,Dependency,API Evolution Issue
+https://github.com/tensorflow/federated/pull/400,TFF,FL framework,Dependency,Missing Dependency Import
+https://github.com/tensorflow/federated/pull/385,TFF,FL framework,Transformation & Transfer,Incorrect Tensor-related Implementation
+https://github.com/tensorflow/federated/pull/384,TFF,FL framework,Dependency,Missing/Incorrect Exception Checking
+https://github.com/tensorflow/federated/pull/319,TFF,FL framework,Dependency,Missing Dependency Import
+https://github.com/tensorflow/federated/pull/318,TFF,FL framework,Transformation & Transfer,Incorrect Tensor-related Implementation
+https://github.com/tensorflow/federated/pull/300,TFF,FL framework,Data loading & processing,Incorrect Data Loading
+https://github.com/tensorflow/federated/pull/284,TFF,FL framework,Model building,Model Initialization Issue
+https://github.com/tensorflow/federated/pull/238,TFF,FL framework,Dependency,API Evolution Issue
+https://github.com/tensorflow/federated/pull/238,TFF,FL framework,Dependency,Missing Dependency Import
+https://github.com/tensorflow/federated/pull/164,TFF,FL framework,Dependency,API Evolution Issue
+https://github.com/tensorflow/federated/pull/164,TFF,FL framework,Dependency,Missing Dependency Import
+https://github.com/tensorflow/federated/pull/146,TFF,FL framework,Data loading & processing,Missing/Incorrect Exception Checking
+https://github.com/tensorflow/federated/pull/143,TFF,FL framework,Dependency,Wrong Dependency Import
+https://github.com/tensorflow/federated/pull/134,TFF,FL framework,Deployment,Incorrect deployment
+https://github.com/adap/flower/pull/826,Flower,FL framework,Dependency,API Evolution Issue
+https://github.com/adap/flower/pull/673,Flower,FL framework,Prediction & Evaluation,Improper Evaluation Metrics
+https://github.com/bytedance/fedlearner/pull/852,Fedlearner,FL framework,Data loading & processing,"Incorrect Data Type, Shape & Format"
+https://github.com/bytedance/fedlearner/pull/844,Fedlearner,FL framework,FL Configuration,Improper Interaction Initialization/Establiah
+https://github.com/bytedance/fedlearner/pull/775,Fedlearner,FL framework,Deployment,Incorrect deployment
+https://github.com/bytedance/fedlearner/pull/749,Fedlearner,FL framework,Transformation & Transfer,Data-Others
+https://github.com/bytedance/fedlearner/pull/730,Fedlearner,FL framework,Transformation & Transfer,Others
+https://github.com/bytedance/fedlearner/pull/600,Fedlearner,FL framework,FL Configuration,Improper Interaction Initialization/Establiah
+https://github.com/bytedance/fedlearner/pull/583,Fedlearner,FL framework,User interface,Others
+https://github.com/bytedance/fedlearner/pull/519,Fedlearner,FL framework,FL-Others,Others
+https://github.com/bytedance/fedlearner/pull/498,Fedlearner,FL framework,FL Configuration,Incorrect Parameter/Message Transfer
+https://github.com/bytedance/fedlearner/pull/341,Fedlearner,FL framework,FL-Others,Others
+https://github.com/bytedance/fedlearner/pull/75,Fedlearner,FL framework,User interface,Others
+https://github.com/PaddlePaddle/PaddleFL/pull/203,PaddleFL,FL framework,Model building,Incorrect FL Algorithm Implementation
+https://github.com/PaddlePaddle/PaddleFL/pull/134,PaddleFL,FL framework,Security mechanism,Incorrect FL Algorithm Implementation
+https://github.com/PaddlePaddle/PaddleFL/pull/134,PaddleFL,FL framework,Model building,Unsuitable ML/DL Algorithm Selection
+https://github.com/PaddlePaddle/PaddleFL/pull/113,PaddleFL,FL framework,Security mechanism,Missing/Incorrect Encryption Implementation
+https://github.com/PaddlePaddle/PaddleFL/pull/113,PaddleFL,FL framework,Data loading & processing,"Incorrect Data Type, Shape & Format"
+https://github.com/PaddlePaddle/PaddleFL/pull/77,PaddleFL,FL framework,Model building,Unsuitable ML/DL Algorithm Selection
+https://github.com/PaddlePaddle/PaddleFL/pull/77,PaddleFL,FL framework,Model building,Incorrect FL Algorithm Implementation
+https://github.com/PaddlePaddle/PaddleFL/pull/31,PaddleFL,FL framework,Dependency,API Evolution Issue
+https://github.com/PaddlePaddle/PaddleFL/pull/31,PaddleFL,FL framework,Misuse,API Evolution Issue
+https://github.com/OpenMined/PySyft/pull/3789,PySyft,FL framework,Others-Test,
+https://github.com/OpenMined/PySyft/pull/3690,PySyft,FL framework,Others-Test,
+https://github.com/OpenMined/PySyft/pull/3589,PySyft,FL framework,Others-Log,
+https://github.com/OpenMined/PySyft/pull/3473,PySyft,FL framework,Others-Log,
+https://github.com/OpenMined/PySyft/pull/3427,PySyft,FL framework,Others-Test,
+https://github.com/OpenMined/PySyft/pull/3356,PySyft,FL framework,Others-Test,
+https://github.com/OpenMined/PySyft/pull/3346,PySyft,FL framework,Others-Test,
+https://github.com/OpenMined/PySyft/pull/3327,PySyft,FL framework,Others-Test,
+https://github.com/OpenMined/PySyft/pull/3115,PySyft,FL framework,Others-Test,
+https://github.com/OpenMined/PySyft/pull/2691,PySyft,FL framework,Others-Test,
+https://github.com/OpenMined/PySyft/pull/2254,PySyft,FL framework,Others,
+https://github.com/OpenMined/PySyft/pull/1612,PySyft,FL framework,Others,
+https://github.com/OpenMined/PySyft/pull/155,PySyft,FL framework,Others-Test,
+https://github.com/FederatedAI/FATE/pull/2455,FATE,FL framework,Others,
+https://github.com/FederatedAI/FATE/pull/2447,FATE,FL framework,Others-Test,
+https://github.com/FederatedAI/FATE/pull/2313,FATE,FL framework,Others-Log,
+https://github.com/FederatedAI/FATE/pull/2234,FATE,FL framework,Others,
+https://github.com/tensorflow/federated/pull/1597,TFF,FL framework,Others-Log,
+https://github.com/tensorflow/federated/pull/562,TFF,FL framework,Others-Test,
+https://github.com/tensorflow/federated/pull/536,TFF,FL framework,Others-Log,
+https://github.com/tensorflow/federated/pull/529,TFF,FL framework,Others-Test,
+https://github.com/tensorflow/federated/pull/377,TFF,FL framework,Others-Test,
+https://github.com/tensorflow/federated/pull/355,TFF,FL framework,Others,
+https://github.com/tensorflow/federated/pull/126,TFF,FL framework,Others-Log,
+https://github.com/PaddlePaddle/PaddleFL/pull/84,PaddleFL,FL framework,Others-Log,
+https://github.com/OpenMined/PySyft/pull/4985,PySyft,FL framework,Documentation,
+https://github.com/OpenMined/PySyft/pull/4838,PySyft,FL framework,Documentation,
+https://github.com/OpenMined/PySyft/pull/3781,PySyft,FL framework,Documentation,
+https://github.com/OpenMined/PySyft/pull/3445,PySyft,FL framework,Documentation,
+https://github.com/OpenMined/PySyft/pull/3444,PySyft,FL framework,Documentation,
+https://github.com/OpenMined/PySyft/pull/3185,PySyft,FL framework,Documentation,
+https://github.com/OpenMined/PySyft/pull/3162,PySyft,FL framework,Documentation,
+https://github.com/OpenMined/PySyft/pull/3103,PySyft,FL framework,Documentation,
+https://github.com/OpenMined/PySyft/pull/2891,PySyft,FL framework,Documentation,
+https://github.com/OpenMined/PySyft/pull/2867,PySyft,FL framework,Documentation,
+https://github.com/OpenMined/PySyft/pull/2746,PySyft,FL framework,Documentation,
+https://github.com/OpenMined/PySyft/pull/2657,PySyft,FL framework,Documentation,
+https://github.com/OpenMined/PySyft/pull/2652,PySyft,FL framework,Documentation,
+https://github.com/OpenMined/PySyft/pull/2639,PySyft,FL framework,Documentation,
+https://github.com/OpenMined/PySyft/pull/2479,PySyft,FL framework,Documentation,
+https://github.com/OpenMined/PySyft/pull/2367,PySyft,FL framework,Documentation,
+https://github.com/OpenMined/PySyft/pull/2356,PySyft,FL framework,Documentation,
+https://github.com/OpenMined/PySyft/pull/2328,PySyft,FL framework,Documentation,
+https://github.com/OpenMined/PySyft/pull/2320,PySyft,FL framework,Documentation,
+https://github.com/OpenMined/PySyft/pull/2226,PySyft,FL framework,Documentation,
+https://github.com/OpenMined/PySyft/pull/2197,PySyft,FL framework,Documentation,
+https://github.com/OpenMined/PySyft/pull/2178,PySyft,FL framework,Documentation,
+https://github.com/OpenMined/PySyft/pull/2166,PySyft,FL framework,Documentation,
+https://github.com/OpenMined/PySyft/pull/2152,PySyft,FL framework,Documentation,
+https://github.com/OpenMined/PySyft/pull/1964,PySyft,FL framework,Documentation,
+https://github.com/OpenMined/PySyft/pull/1792,PySyft,FL framework,Documentation,
+https://github.com/OpenMined/PySyft/pull/1728,PySyft,FL framework,Documentation,
+https://github.com/OpenMined/PySyft/pull/1360,PySyft,FL framework,Documentation,
+https://github.com/OpenMined/PySyft/pull/225,PySyft,FL framework,Documentation,
+https://github.com/OpenMined/PySyft/pull/200,PySyft,FL framework,Documentation,
+https://github.com/FederatedAI/FATE/pull/2406,FATE,FL framework,Documentation,
+https://github.com/FederatedAI/FATE/pull/2348,FATE,FL framework,Documentation,
+https://github.com/FederatedAI/FATE/pull/2315,FATE,FL framework,Documentation,
+https://github.com/FederatedAI/FATE/pull/2139,FATE,FL framework,Documentation,
+https://github.com/FederatedAI/FATE/pull/2097,FATE,FL framework,Documentation,
+https://github.com/FederatedAI/FATE/pull/1456,FATE,FL framework,Documentation,
+https://github.com/FederatedAI/FATE/pull/1405,FATE,FL framework,Documentation,
+https://github.com/FederatedAI/FATE/pull/614,FATE,FL framework,Documentation,
+https://github.com/tensorflow/federated/pull/1688,TFF,FL framework,Documentation,
+https://github.com/tensorflow/federated/pull/1343,TFF,FL framework,Documentation,
+https://github.com/tensorflow/federated/pull/239,TFF,FL framework,Documentation,
+https://github.com/tensorflow/federated/pull/200,TFF,FL framework,Documentation,
+https://github.com/tensorflow/federated/pull/189,TFF,FL framework,Documentation,
+https://github.com/tensorflow/federated/pull/160,TFF,FL framework,Documentation,
+https://github.com/tensorflow/federated/pull/158,TFF,FL framework,Documentation,
+https://github.com/adap/flower/pull/739,Flower,FL framework,Documentation,

@@ -1,0 +1,23 @@
+url,label,title,comments,created_time,updated_time,closed_time
+https://github.com/PaddlePaddle/PaddleFL/issues/224,[],ImportError: cannot import name 'CipherUtils' from 'paddle.fluid.core_avx' (/usr/local/python/lib/python3.8/site-packages/paddle/fluid/core_avx.so),1,2021-09-14 08:02:44,2021-09-15 05:58:44,2021-09-15 05:58:44
+https://github.com/PaddlePaddle/PaddleFL/issues/219,[],Run youtubenn_with_movielens example  in docker no module named '_bz2',2,2021-09-02 03:22:47,2021-09-03 05:35:29,2021-09-03 05:35:29
+https://github.com/PaddlePaddle/PaddleFL/issues/218,[],youtubednn_with_movielens example run Error?,1,2021-08-31 08:54:14,2021-09-03 05:36:24,2021-09-03 05:36:24
+https://github.com/PaddlePaddle/PaddleFL/issues/156,[],PSI question,2,2021-04-09 16:08:00,2021-04-12 08:18:55,2021-04-12 08:18:54
+https://github.com/PaddlePaddle/PaddleFL/issues/153,[],Installing paddle in docker container fails.,4,2021-02-26 09:58:17,2021-03-04 01:57:50,2021-03-04 01:57:50
+https://github.com/PaddlePaddle/PaddleFL/issues/152,[],How does PaddleFL handle unstable connection between mobile-trainer and Server.,2,2021-01-26 06:14:53,2021-03-02 07:18:53,2021-03-02 07:18:53
+https://github.com/PaddlePaddle/PaddleFL/issues/151,[],1.1.0 version in paddle_fl module,2,2021-01-18 15:14:50,2021-01-18 16:10:21,2021-01-18 16:10:21
+https://github.com/PaddlePaddle/PaddleFL/issues/129,[],Is it possible to have Federated Learning on Cloud-Edge?,1,2020-10-14 21:44:36,2020-12-16 08:30:57,2020-12-16 08:30:57
+https://github.com/PaddlePaddle/PaddleFL/issues/101,[],detection demo训练占用显存过大，如何减小显存,1,2020-08-13 03:28:18,2020-08-28 08:59:31,2020-08-28 08:59:31
+https://github.com/PaddlePaddle/PaddleFL/issues/98,[],如何运行detection_demo,39,2020-08-10 08:47:43,2020-08-28 08:58:20,2020-08-28 08:58:19
+https://github.com/PaddlePaddle/PaddleFL/issues/92,[],PaddleFL in docker ,30,2020-07-30 04:58:17,2020-12-30 07:36:06,2020-08-28 08:58:00
+https://github.com/PaddlePaddle/PaddleFL/issues/90,[],install paddleFL / make -j$(nproc),10,2020-07-28 15:41:33,2020-07-30 03:35:35,2020-07-30 03:35:35
+https://github.com/PaddlePaddle/PaddleFL/issues/86,[],使用docker image安装时报错，疑似由于Python版本为2.6.6过低,14,2020-06-30 05:31:49,2020-08-28 08:57:32,2020-08-28 08:57:32
+https://github.com/PaddlePaddle/PaddleFL/issues/85,[],Femnist_demo运行准确率问题,2,2020-06-19 08:04:03,2020-10-16 06:06:49,2020-10-16 06:06:49
+https://github.com/PaddlePaddle/PaddleFL/issues/80,[],ValueError when save detection model,1,2020-05-25 08:10:30,2020-06-11 03:26:41,2020-06-11 03:26:41
+https://github.com/PaddlePaddle/PaddleFL/issues/63,[],有没有国内的交流群啊，案例好像都没有什么文档,10,2020-04-30 11:53:26,2021-04-15 13:42:24,2020-05-07 04:12:04
+https://github.com/PaddlePaddle/PaddleFL/issues/58,[],检测任务分割成fl program后，py_reader报错,1,2020-04-28 12:23:36,2020-08-20 02:06:08,2020-08-20 02:06:08
+https://github.com/PaddlePaddle/PaddleFL/issues/56,['bug'],Paddlefl内部例子中的IP地址如何理解,33,2020-04-21 09:06:30,2020-04-26 03:23:28,2020-04-26 03:23:28
+https://github.com/PaddlePaddle/PaddleFL/issues/33,['bug'],femnist例子跑不通,1,2020-01-13 07:15:21,2020-02-26 15:17:02,2020-02-26 15:17:02
+https://github.com/PaddlePaddle/PaddleFL/issues/23,['bug'],Prediction error on test set in training process,1,2019-11-26 09:41:48,2020-01-03 01:40:51,2020-01-03 01:32:51
+https://github.com/PaddlePaddle/PaddleFL/issues/10,['bug'],运行quick start时报错AttributeError: 'FedAvgTrainer' object has no attribute 'train_inner_loop',5,2019-11-12 07:06:14,2020-01-03 01:41:28,2020-01-03 01:31:27
+https://github.com/PaddlePaddle/PaddleFL/issues/7,['bug'],"运行fl_server报错“PaddleCheckError: Expected optimize_blocks.size() >= 1, but received optimize_blocks.size():0 < 1:1.”",4,2019-10-29 02:34:23,2020-01-03 01:42:03,2020-01-03 01:34:56
