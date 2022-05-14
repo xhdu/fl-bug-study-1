@@ -150,6 +150,12 @@ This repository consists of three main folders: Dataset_Init, Manual_Labelling a
 
 For the fix strategy, since some instances do not have a clear fix strategy, we summarize some common fix strategies and analyze which root cause can be fixed by them.
 
+**The relationship table between symptom and root cause**:  
+
+<div align=center>
+    <img src="Relationship_between_symptom_and_root_cause.svg" width="650">
+</div>
+
 **The relationship table between fix strategy and root cause**:  
 
 <div align=center>
