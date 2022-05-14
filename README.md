@@ -156,6 +156,11 @@ For the fix strategy, since some instances do not have a clear fix strategy, we 
     <img src="Relationship_between_symptom_and_root_cause.svg" width="650">
 </div>
 
+This relationship figure presents the number of the top 10 root causes for bugs with each symptom. 
+Except for *Incorrect Deployment*, *Crash* is the most common symptom for all these root causes. 
+We also find that all bugs exhibiting the symptom of *Incorrect Deployment* are produced by *Incorrect Deployment*. 
+On the other hand, 83.33\% of bugs exhibiting symptom *Connection Refused* are produced by *Interaction Issues*, which indicates that developers can be suggested to check the implementation of interaction between different parties when a *Connection Refused* bug occurs.
+
 **The relationship table between fix strategy and root cause**:  
 
 <div align=center>
